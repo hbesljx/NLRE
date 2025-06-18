@@ -1,5 +1,5 @@
 # NLRE
-基于大模型的数据识别规则生成(NL2RE)
+基于大模型的数据识别规则生成(NL2RE)<br>
 本项目使用Qwen大模型进行思维链微调，并对结果进行self-consistency处理。
 创新点：
 1.使用Qwen大模型生成思维链而不是python库
