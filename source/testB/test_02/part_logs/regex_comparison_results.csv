@@ -1,0 +1,3001 @@
+Row,Regex1,Regex2,IsEquivalent,SimilarityScore
+1,^(?=.*oaxf)(?=.*fcfaqun).*$,^(?=.*oaxf)(?=.*fcfaqun).*$,True,1.0
+2,"^.{4,7}bvvkv$","^.{4,7}bvvkv$",True,1.0
+3,^(?=.*zjeen)(?=.*pdrrmigf).*$,^(?=.*zjeen)(?=.*pdrrmigf).*$,True,1.0
+4,^\d.*$,^\d.*$,True,1.0
+5,^atwnh.*,^atwnh.*,True,1.0
+6,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+7,.*adg$,.*adg$,True,1.0
+8,"^.{1,3}hctlaw$","^.{1,3}hctlaw$",True,1.0
+9,"^.{7,8}phj$","^.{7,8}phj$",True,1.0
+10,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+11,"^.{3,7}wbizj$","^.{3,7}wbizj$",True,1.0
+12,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+13,^thmii.*,^thmii.*,True,1.0
+14,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+15,^(?=.*szzbqk)(?=.*qcxdrqqo).*$,^(?=.*szzbqk)(?=.*qcxdrqqo).*$,True,1.0
+16,^(?=.*qoiehjdv)(?=.*gfle).*$,^(?=.*qoiehjdv)(?=.*gfle).*$,True,1.0
+17,"^.{1,7}tpfgil$","^.{1,7}tpfgil$",True,1.0
+18,"^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{1,8}[.!?;:'""…]?$","^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{1,8}[.!?;:'""…]?$",True,1.0
+19,"^.{2,7}jwwxbj$","^.{2,7}jwwxbj$",True,1.0
+20,^(?=.*iookd)(?=.*uxgqin).*$,^(?=.*iookd)(?=.*uxgqin).*$,True,1.0
+21,^dsuf.*,^dsuf.*,True,1.0
+22,"^.{3,4}afbugmf$","^.{3,4}afbugmf$",True,1.0
+23,^jej.*ndfc.*$,^jej.*ndfc.*$,True,1.0
+24,^(?=.*\d)(?=.*[a-zA-Z]).+$,^(?=.*\d)(?=.*[a-zA-Z]).+$,True,1.0
+25,^xkflkq.*,^xkflkq.*,True,1.0
+26,^wqr.*,^wqr.*,True,1.0
+27,^(?=.*nwcnal)(?=.*zqfm).*$,^(?=.*nwcnal)(?=.*zqfm).*$,True,1.0
+28,"^.{3,6}vxjskh$","^.{3,6}vxjskh$",True,1.0
+29,.*tshaibpg$,.*tshaibpg$,True,1.0
+30,^cmuuay.*ovledsix.*$,^cmuuay.*ovledsix.*$,True,1.0
+31,^iemwfav.*,^iemwfav.*,True,1.0
+32,^ipncisaq.*bsyfg.*$,^ipncisaq.*bsyfg.*$,True,1.0
+33,.*scfe$,.*scfe$,True,1.0
+34,.*ewg$,.*ewg$,True,1.0
+35,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+36,^afnxtwhb.*,^afnxtwhb.*,True,1.0
+37,^(?=.*vuojpbz)(?=.*sooojnco).*$,^(?=.*vuojpbz)(?=.*sooojnco).*$,True,1.0
+38,"^.{3,4}nwwcqn$","^.{3,4}nwwcqn$",True,1.0
+39,^itqa.*fnj.*$,^itqa.*fnj.*$,True,1.0
+40,^bwjsiif.*,^bwjsiif.*,True,1.0
+41,^(?=.*kalpfrv)(?=.*zdh).*$,^(?=.*kalpfrv)(?=.*zdh).*$,True,1.0
+42,^erz.*xjyj.*$,^erz.*xjyj.*$,True,1.0
+43,"^.{6,12}xge$","^.{6,12}xge$",True,1.0
+44,.*dtluej$,.*dtluej$,True,1.0
+45,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+46,^eemr.*,^eemr.*,True,1.0
+47,^(?=.*dznrm)(?=.*ckgbvgh).*$,^(?=.*dznrm)(?=.*ckgbvgh).*$,True,1.0
+48,"^.{1,2}bviaoy$","^.{1,2}bviaoy$",True,1.0
+49,^wrx.*,^wrx.*,True,1.0
+50,^dmlwmnou.*sqrmchxh.*$,^dmlwmnou.*sqrmchxh.*$,True,1.0
+51,^urnv.*,^urnv.*,True,1.0
+52,.*cylxau$,.*cylxau$,True,1.0
+53,^(?=.*dzwxh)(?=.*xknqumx).*$,^(?=.*dzwxh)(?=.*xknqumx).*$,True,1.0
+54,"^.{6,13}xfo$","^.{6,13}xfo$",True,1.0
+55,"^.{5,12}zfgp$","^.{5,12}zfgp$",True,1.0
+56,.*clwf$,.*clwf$,True,1.0
+57,^giozgtp.*,^giozgtp.*,True,1.0
+58,.*etb$,.*etb$,True,1.0
+59,^(?=.*ppwgsygi)(?=.*uqdwgw).*$,^(?=.*ppwgsygi)(?=.*uqdwgw).*$,True,1.0
+60,^(?=.*ehjf)(?=.*ufvi).*$,^(?=.*ehjf)(?=.*ufvi).*$,True,1.0
+61,^hkxxzjx.*,^hkxxzjx.*,True,1.0
+62,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+63,.*rulpj$,.*rulpj$,True,1.0
+64,^(?=.*swcf)(?=.*vrptey).*$,^(?=.*swcf)(?=.*vrptey).*$,True,1.0
+65,^[a-zA-Z]{9}$,^[a-zA-Z]{9}$,True,1.0
+66,^unke.*,^unke.*,True,1.0
+67,^okqdmbmx.*,^okqdmbmx.*,True,1.0
+68,^nsi.*rrglh.*$,^nsi.*rrglh.*$,True,1.0
+69,^wxpra.*htuaieqc.*$,^wxpra.*htuaieqc.*$,True,1.0
+70,^(?=.*kmqomzfi)(?=.*ymnag).*$,^(?=.*kmqomzfi)(?=.*ymnag).*$,True,1.0
+71,"^.{2,6}wrbwgue$","^.{2,6}wrbwgue$",True,1.0
+72,.*xel$,.*xel$,True,1.0
+73,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+74,"^[a-z]{2,5}$","^[a-z]{2,5}$",True,1.0
+75,"^.{1,8}byzeyc$","^.{1,8}byzeyc$",True,1.0
+76,"^.{5,8}msv$","^.{5,8}msv$",True,1.0
+77,"^\d{2,8}$","^\d{2,8}$",True,1.0
+78,^xdxz.*,^xdxz.*,True,1.0
+79,"^.{4,7}affsrc$","^.{6,9}affsrc$",False,0.8571428571428572
+80,^(?=.*rfy)(?=.*jditwhv).*$,^(?=.*rfy)(?=.*jditwhv).*$,True,1.0
+81,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+82,^rpwgck.*,^rpwgck.*,True,1.0
+83,^(?=.*pkslzgly)(?=.*vfzeu).*$,^(?=.*pkslzgly)(?=.*vfzeu).*$,True,1.0
+84,^goo.*utaiui.*$,^goo.*utaiui.*$,True,1.0
+85,.*eywfqbem$,.*eywfqbem$,True,1.0
+86,^zqtysrs.*,^zqtysrs.*,True,1.0
+87,^xfb.*nnssstv.*$,^xfb.*nnssstv.*$,True,1.0
+88,^xsim.*,^xsim.*,True,1.0
+89,^pabc.*,^pabc.*,True,1.0
+90,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+91,^gvsfekjj.*,^gvsfekjj.*,True,1.0
+92,^gsijvkvr.*nhplytdo.*$,^gsijvkvr.*nhplytdo.*$,True,1.0
+93,"^.{4,9}egsa$","^.{4,9}egsa$",True,1.0
+94,"^[A-Z]{4,5}$","^[A-Z]{4,5}$",True,1.0
+95,^bduqj.*,^bduqj.*,True,1.0
+96,^wcobj.*,^wcobj.*,True,1.0
+97,"^\d{8,}$","^\d{8,}$",True,1.0
+98,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+99,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+100,"^.{2,8}idhyfv$","^.{2,8}idhyfv$",True,1.0
+101,"^.{5,9}bghqo$","^.{5,9}bghqo$",True,1.0
+102,^kzfcgvr.*ersggkee.*$,^kzfcgvr.*ersggkee.*$,True,1.0
+103,"^.{5,13}xmt$","^.{5,13}xmt$",True,1.0
+104,"^.{1,7}lgtduyuk$","^.{1,7}lgtduyuk$",True,1.0
+105,^fey.*,^fey.*,True,1.0
+106,^qmber.*govssxlo.*$,^qmber.*govssxlo.*$,True,1.0
+107,^(?=.*wjpy)(?=.*iqmc).*$,^(?=.*wjpy)(?=.*iqmc).*$,True,1.0
+108,.*xepxelqx$,.*xepxelqx$,True,1.0
+109,"^.{6,14}ujr$","^.{6,14}ujr$",True,1.0
+110,^jzem.*,^jzem.*,True,1.0
+111,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+112,.*bop$,.*bop$,True,1.0
+113,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+114,"^[A-Z]{3,5}$","^[A-Z]{3,5}$",True,1.0
+115,.*zhk$,.*zhk$,True,1.0
+116,^fkrftc.*,^fkrftc.*,True,1.0
+117,^(?=.*pwdxiqzo)(?=.*faajpbw).*$,^(?=.*pwdxiqzo)(?=.*faajpbw).*$,True,1.0
+118,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+119,^fcao.*cyb.*$,^fcao.*cyb.*$,True,1.0
+120,"^[a-z]{2,4}$","^[a-z]{2,4}$",True,1.0
+121,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+122,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+123,.*duevp$,.*duevp$,True,1.0
+124,"^.{1,6}cmfngwm$","^.{1,6}cmfngwm$",True,1.0
+125,"^.{2,9}irslmhrl$","^.{2,9}irslmhrl$",True,1.0
+126,^ccymil.*,^ccymil.*,True,1.0
+127,^(?=.*foifjct)(?=.*vxnciozr).*$,^(?=.*foifjct)(?=.*vxnciozr).*$,True,1.0
+128,"^.{4,12}zrkb$","^.{4,12}zrkb$",True,1.0
+129,.*esynhll$,.*esynhll$,True,1.0
+130,"^.{2,9}oqjrice$","^.{2,9}oqjrice$",True,1.0
+131,"^.{1,9}wvxaawoa$","^.{1,9}wvxaawoa$",True,1.0
+132,"^.{2,8}onixzc$","^.{2,8}onixzc$",True,1.0
+133,^(?=.*szduvlt)(?=.*spicrlb).*$,^(?=.*szduvlt)(?=.*spicrlb).*$,True,1.0
+134,^(?=.*hvk)(?=.*adzyx).*$,^(?=.*hvk)(?=.*adzyx).*$,True,1.0
+135,"^\d{5,10}$","^\d{5,10}$",True,1.0
+136,"^.{7,13}dkj$","^.{7,13}dkj$",True,1.0
+137,^lutsg.*fidal.*$,^lutsg.*fidal.*$,True,1.0
+138,^(?=.*phjob)(?=.*dflzz).*$,^(?=.*phjob)(?=.*dflzz).*$,True,1.0
+139,"^.{2,5}etyfuge$","^.{2,5}etyfuge$",True,1.0
+140,^ygdubqdn.*,^ygdubqdn.*,True,1.0
+141,"^[A-Z]{2,8}$","^[A-Z]{2,8}$",True,1.0
+142,^vygt.*mhez.*$,^vygt.*mhez.*$,True,1.0
+143,^(?=.*cnpads)(?=.*agfzz).*$,^(?=.*cnpads)(?=.*agfzz).*$,True,1.0
+144,^ckcjeedr.*,^ckcjeedr.*,True,1.0
+145,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+146,.*rmtysbat$,.*rmtysbat$,True,1.0
+147,^lufj.*,^lufj.*,True,1.0
+148,"^.{0,2}pivrevhb$","^.{0,2}pivrevhb$",True,1.0
+149,^(?=.*kczh)(?=.*pxcmkp).*$,^(?=.*kczh)(?=.*pxcmkp).*$,True,1.0
+150,^lqu.*jlb.*$,^lqu.*jlb.*$,True,1.0
+151,^nblqkjk.*,^nblqkjk.*,True,1.0
+152,^zpbzc.*lsj.*$,^zpbzc.*lsj.*$,True,1.0
+153,^(?=.*gmugxyhr)(?=.*psmbvj).*$,^(?=.*gmugxyhr)(?=.*psmbvj).*$,True,1.0
+154,"^.{7,9}ezs$","^.{7,9}ezs$",True,1.0
+155,.*oyiftcfn$,.*oyiftcfn$,True,1.0
+156,.*wrrbnb$,.*wrrbnb$,True,1.0
+157,^uygv.*,^uygv.*,True,1.0
+158,^wdx.*fwiyb.*$,^wdx.*fwiyb.*$,True,1.0
+159,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+160,^bnjytqq.*kyjkd.*$,^bnjytqq.*kyjkd.*$,True,1.0
+161,^zyrknc.*gbankgqx.*$,^zyrknc.*gbankgqx.*$,True,1.0
+162,.*qpjh$,.*qpjh$,True,1.0
+163,.*rrklij$,.*rrklij$,True,1.0
+164,"^[A-Z]{1,2}$","^[A-Z]{1,2}$",True,1.0
+165,^lnocmz.*xelut.*$,^lnocmz.*xelut.*$,True,1.0
+166,\s+,\s+,True,1.0
+167,"^\d{4,}$","^\d{4,}$",True,1.0
+168,"^[A-Z]{4,10}$","^[A-Z]{4,10}$",True,1.0
+169,"^[A-Z]{1,7}$","^[A-Z]{1,7}$",True,1.0
+170,"^.{0,2}jpdlqnl$","^.{0,2}jpdlqnl$",True,1.0
+171,"^.{4,10}ilxqqh$","^.{4,10}ilxqqh$",True,1.0
+172,^(?=.*ftqp)(?=.*cush).*$,^(?=.*ftqp)(?=.*cush).*$,True,1.0
+173,^(?=.*lklqom)(?=.*dbenln).*$,^(?=.*lklqom)(?=.*dbenln).*$,True,1.0
+174,^(?=.*gpopad)(?=.*jwyb).*$,^(?=.*gpopad)(?=.*jwyb).*$,True,1.0
+175,^surl.*gsuc.*$,^surl.*gsuc.*$,True,1.0
+176,^xim.*,^xim.*,True,1.0
+177,"^.{4,12}eocy$","^.{4,12}eocy$",True,1.0
+178,^davfmi.*,^davfmi.*,True,1.0
+179,^(?=.*dwwjqevw)(?=.*jfknagrv).*$,^(?=.*dwwjqevw)(?=.*jfknagrv).*$,True,1.0
+180,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+181,^gvqzmx.*,^gvqzmx.*,True,1.0
+182,^ypexol.*hljldlsc.*$,^ypexol.*hljldlsc.*$,True,1.0
+183,.*nnqacy$,.*nnqacy$,True,1.0
+184,^imhxmzrc.*kek.*$,^imhxmzrc.*kek.*$,True,1.0
+185,^tafupi.*,^tafupi.*,True,1.0
+186,^broxxj.*dkkw.*$,^broxxj.*dkkw.*$,True,1.0
+187,.*tjdal$,.*tjdal$,True,1.0
+188,"^.{7,8}okw$","^.{7,8}okw$",True,1.0
+189,"^.{4,9}aoogwp$","^.{4,9}aoogwp$",True,1.0
+190,.*quoyylq$,.*quoyylq$,True,1.0
+191,"^.{4,8}urr$","^.{4,8}urr$",True,1.0
+192,^ruy.*,^ruy.*,True,1.0
+193,^hvjgm.*sfi.*$,^hvjgm.*sfi.*$,True,1.0
+194,^zlqomlsb.*,^zlqomlsb.*,True,1.0
+195,.*qanthdoc$,.*qanthdoc$,True,1.0
+196,"^.{0,3}aldypik$","^.{0,3}aldypik$",True,1.0
+197,^afgbgb.*haaju.*$,^afgbgb.*haaju.*$,True,1.0
+198,^(?=.*veyof)(?=.*lic).*$,^(?=.*veyof)(?=.*lic).*$,True,1.0
+199,"^[a-z]{3,10}$","^[a-z]{3,10}$",True,1.0
+200,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+201,^cvxtnj.*,^cvxtnj.*,True,1.0
+202,.*mhz$,.*mhz$,True,1.0
+203,^keid.*zutj.*$,^keid.*zutj.*$,True,1.0
+204,"^.{6,14}uvb$","^.{6,14}uvb$",True,1.0
+205,^lygichsr.*eqvb.*$,^lygichsr.*eqvb.*$,True,1.0
+206,.*tvh$,.*tvh$,True,1.0
+207,"^.{6,10}asz$","^.{6,10}asz$",True,1.0
+208,^gbxwyuvn.*,^gbxwyuvn.*,True,1.0
+209,^udueb.*kzkfeq.*$,^udueb.*kzkfeq.*$,True,1.0
+210,"^.{2,6}bglsu$","^.{2,6}bglsu$",True,1.0
+211,^(?=.*gkn)(?=.*wzjbflob).*$,^(?=.*gkn)(?=.*wzjbflob).*$,True,1.0
+212,^\d{6}$,^\d{6}$,True,1.0
+213,.*xuyrr$,.*xuyrr$,True,1.0
+214,.*kwc$,.*kwc$,True,1.0
+215,.*nskzjvcj$,.*nskzjvcj$,True,1.0
+216,^lwfobvy.*,^lwfobvy.*,True,1.0
+217,.*wvthfxr$,.*wvthfxr$,True,1.0
+218,.*jnylg$,.*jnylg$,True,1.0
+219,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+220,.*xhetf$,.*xhetf$,True,1.0
+221,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+222,"^.{2,6}ulyzrlt$","^.{2,6}ulyzrlt$",True,1.0
+223,^(?=.*wfggw)(?=.*hqndiat).*$,^(?=.*wfggw)(?=.*hqndiat).*$,True,1.0
+224,^yrfbfdf.*,^yrfbfdf.*,True,1.0
+225,"^.{4,13}dgdo$","^.{4,13}dgdo$",True,1.0
+226,"^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{2,6}[.!?;:'""…]?$","^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{2,6}[.!?;:'""…]?$",True,1.0
+227,^qch.*,^qch.*,True,1.0
+228,"^([a-zA-Z]{3,4}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{3,4}[.!?;:'""…]?$","^([a-zA-Z]{3,4}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{3,4}[.!?;:'""…]?$",True,1.0
+229,"^\d{1,4}$","^\d{1,4}$",True,1.0
+230,^eejcvyl.*rskl.*$,^eejcvyl.*rskl.*$,True,1.0
+231,.*igxdm$,.*igxdm$,True,1.0
+232,"^.{5,8}fsvm$","^.{5,8}fsvm$",True,1.0
+233,^bydee.*vqbxmzp.*$,^bydee.*vqbxmzp.*$,True,1.0
+234,^(?=.*hkyu)(?=.*piclzvc).*$,^(?=.*hkyu)(?=.*piclzvc).*$,True,1.0
+235,^rgtekgxs.*,^rgtekgxs.*,True,1.0
+236,.*mpf$,.*mpf$,True,1.0
+237,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+238,\d+,\d+,True,1.0
+239,.*pdocdlnz$,.*pdocdlnz$,True,1.0
+240,^axpepl.*cykyushl.*$,^axpepl.*cykyushl.*$,True,1.0
+241,.*gckpf$,.*gckpf$,True,1.0
+242,"^\d{4,8}$","^\d{4,8}$",True,1.0
+243,^(?=.*zmoi)(?=.*urdfkond).*$,^(?=.*zmoi)(?=.*urdfkond).*$,True,1.0
+244,^(?=.*wjupvpn)(?=.*eqdfkgol).*$,^(?=.*wjupvpn)(?=.*eqdfkgol).*$,True,1.0
+245,.*claej$,.*claej$,True,1.0
+246,^(?=.*gmpmlvfw)(?=.*kjf).*$,^(?=.*gmpmlvfw)(?=.*kjf).*$,True,1.0
+247,^mvngnaf.*edbw.*$,^mvngnaf.*edbw.*$,True,1.0
+248,^ujpatzm.*,^ujpatzm.*,True,1.0
+249,"^.{3,8}suaqix$","^.{3,8}suaqix$",True,1.0
+250,^(?=.*eaa)(?=.*tblle).*$,^(?=.*eaa)(?=.*tblle).*$,True,1.0
+251,.*gzyl$,.*gzyl$,True,1.0
+252,^(?=.*pygmnn)(?=.*dvwicifs).*$,^(?=.*pygmnn)(?=.*dvwicifs).*$,True,1.0
+253,^bbj.*lht.*$,^bbj.*lht.*$,True,1.0
+254,.*xwougqf$,.*xwougqf$,True,1.0
+255,^pcff.*,^pcff.*,True,1.0
+256,^(?=.*udourqum)(?=.*pgydhlwz).*$,^(?=.*udourqum)(?=.*pgydhlwz).*$,True,1.0
+257,.*leh$,.*leh$,True,1.0
+258,"^\d{4,7}$","^\d{4,7}$",True,1.0
+259,^tpaoet.*hlwc.*$,^tpaoet.*hlwc.*$,True,1.0
+260,"^.{1,4}ncefbl$","^.{1,4}ncefbl$",True,1.0
+261,^wkzqm.*,^wkzqm.*,True,1.0
+262,.*ignntzsh$,.*ignntzsh$,True,1.0
+263,^(?=.*nqrtisy)(?=.*cyzld).*$,^(?=.*nqrtisy)(?=.*cyzld).*$,True,1.0
+264,^jcm.*buouhx.*$,^jcm.*buouhx.*$,True,1.0
+265,^cgf.*,^cgf.*,True,1.0
+266,"^.{2,10}kacrduk$","^.{2,10}kacrduk$",True,1.0
+267,"^.{3,4}bzdsteb$","^.{3,4}bzdsteb$",True,1.0
+268,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+269,^(?=.*hhpmhk)(?=.*exa).*$,^(?=.*hhpmhk)(?=.*exa).*$,True,1.0
+270,^tyd.*,^tyd.*,True,1.0
+271,"^\d{9,}$","^\d{9,}$",True,1.0
+272,.*ihgwyzr$,.*ihgwyzr$,True,1.0
+273,^bmehtzl.*tlsymmb.*$,^bmehtzl.*tlsymmb.*$,True,1.0
+274,"^.{4,9}xtstzf$","^.{4,9}xtstzf$",True,1.0
+275,"^.{3,8}ilusf$","^.{3,8}ilusf$",True,1.0
+276,^mhigrwz.*,^mhigrwz.*,True,1.0
+277,^iitc.*,^iitc.*,True,1.0
+278,^(?=.*ypxm)(?=.*nydnlee).*$,^(?=.*ypxm)(?=.*nydnlee).*$,True,1.0
+279,"^.{2,4}hpobopo$","^.{2,4}hpobopo$",True,1.0
+280,^xjzqb.*,^xjzqb.*,True,1.0
+281,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+282,"^.{1,4}rhmmpvot$","^.{1,4}rhmmpvot$",True,1.0
+283,"^.{2,10}sbtrqi$","^.{2,10}sbtrqi$",True,1.0
+284,"^.{6,11}oon$","^.{6,11}oon$",True,1.0
+285,^(?=.*skum)(?=.*rtmdyxuf).*$,^(?=.*skum)(?=.*rtmdyxuf).*$,True,1.0
+286,"^[a-zA-Z0-9]{2,6}$","^[a-zA-Z0-9]{2,6}$",True,1.0
+287,^(?=.*cqxdgx)(?=.*htym).*$,^(?=.*cqxdgx)(?=.*htym).*$,True,1.0
+288,"^[a-zA-Z0-9]{2,9}$","^[a-zA-Z0-9]{2,9}$",True,1.0
+289,"^.{5,11}abdzb$","^.{5,11}abdzb$",True,1.0
+290,^(?=.*muspup)(?=.*xdotmunp).*$,^(?=.*muspup)(?=.*xdotmunp).*$,True,1.0
+291,"^.{6,11}mhke$","^.{6,11}mhke$",True,1.0
+292,"^.{2,7}wnqmdk$","^.{2,7}wnqmdk$",True,1.0
+293,"^.{6,10}kkpe$","^.{6,10}kkpe$",True,1.0
+294,^qtbesgy.*,^qtbesgy.*,True,1.0
+295,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+296,^(?=.*borqqskq)(?=.*xvizax).*$,^(?=.*borqqskq)(?=.*xvizax).*$,True,1.0
+297,"^.{2,7}jrfrxmx$","^.{2,7}jrfrxmx$",True,1.0
+298,.*iun$,.*iun$,True,1.0
+299,^gfv.*vnipcmet.*$,^gfv.*vnipcmet.*$,True,1.0
+300,.*mhztpbqh$,.*mhztpbqh$,True,1.0
+301,"^.{4,12}onxzi$","^.{4,12}onxzi$",True,1.0
+302,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+303,"^.{3,12}tjqh$","^.{3,12}tjqh$",True,1.0
+304,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+305,^hkxedm.*,^hkxedm.*,True,1.0
+306,^kxdvnchh.*xetz.*$,^kxdvnchh.*xetz.*$,True,1.0
+307,^pttgvb.*,^pttgvb.*,True,1.0
+308,^uhcnrypg.*,^uhcnrypg.*,True,1.0
+309,^(?=.*lpp)(?=.*igx).*$,^(?=.*lpp)(?=.*igx).*$,True,1.0
+310,^cdklumli.*,^cdklumli.*,True,1.0
+311,^wvjbuptm.*xrhdpx.*$,^wvjbuptm.*xrhdpx.*$,True,1.0
+312,^hbq.*,^hbq.*,True,1.0
+313,.*ywweaovm$,.*ywweaovm$,True,1.0
+314,^ofebwxm.*,^ofebwxm.*,True,1.0
+315,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{3,9}[.!?;:'""…]?$",False,0.9830508474576272
+316,^jvc.*difncn.*$,^jvc.*difncn.*$,True,1.0
+317,"^[a-zA-Z0-9]{4,9}$","^[a-zA-Z0-9]{4,9}$",True,1.0
+318,.*csteocv$,.*csteocv$,True,1.0
+319,"^[A-Z]{1,10}$","^[A-Z]{1,10}$",True,1.0
+320,.*lsdgoys$,.*lsdgoys$,True,1.0
+321,"^.{4,8}jvchw$","^.{4,8}jvchw$",True,1.0
+322,.*ppp$,.*ppp$,True,1.0
+323,^cjfommyr.*lyf.*$,^cjfommyr.*lyf.*$,True,1.0
+324,^(?=.*sppi)(?=.*kyw).*$,^(?=.*sppi)(?=.*kyw).*$,True,1.0
+325,^oeotzykd.*,^oeotzykd.*,True,1.0
+326,^(?=.*lvvmus)(?=.*zydv).*$,^(?=.*lvvmus)(?=.*zydv).*$,True,1.0
+327,.*aeaqwre$,.*aeaqwre$,True,1.0
+328,^(?=.*jrecm)(?=.*gjmwlif).*$,^(?=.*jrecm)(?=.*gjmwlif).*$,True,1.0
+329,^(?=.*yotej)(?=.*rjcor).*$,^(?=.*yotej)(?=.*rjcor).*$,True,1.0
+330,^rrjtqfsg.*ope.*$,^rrjtqfsg.*ope.*$,True,1.0
+331,"^[A-Z]{1,6}$","^[A-Z]{1,6}$",True,1.0
+332,^wxl.*,^wxl.*,True,1.0
+333,"^[A-Z]{5,10}$","^[A-Z]{5,10}$",True,1.0
+334,^njodsq.*,^njodsq.*,True,1.0
+335,^nddiyj.*,^nddiyj.*,True,1.0
+336,"^\d{1,2}$","^\d{1,2}$",True,1.0
+337,"^.{0,2}wrayslhe$","^.{0,2}wrayslhe$",True,1.0
+338,"^.{4,5}xefjz$","^.{4,5}xefjz$",True,1.0
+339,"^.{3,10}jpqlk$","^.{3,10}jpqlk$",True,1.0
+340,.*swqhbo$,.*swqhbo$,True,1.0
+341,"^.{4,8}bsn$","^.{4,8}bsn$",True,1.0
+342,.*qzyns$,.*qzyns$,True,1.0
+343,^ffm.*rzo.*$,^ffm.*rzo.*$,True,1.0
+344,^(?=.*wzjfm)(?=.*hqrgpwxn).*$,^(?=.*wzjfm)(?=.*hqrgpwxn).*$,True,1.0
+345,^(?=.*ubaxdg)(?=.*camj).*$,^(?=.*ubaxdg)(?=.*camj).*$,True,1.0
+346,^kskpepu.*,^kskpepu.*,True,1.0
+347,"^.{4,7}vzrdr$","^.{4,7}vzrdr$",True,1.0
+348,^bnewdph.*gpkf.*$,^bnewdph.*gpkf.*$,True,1.0
+349,.*omw$,.*omw$,True,1.0
+350,^(?=.*fhxue)(?=.*thyohlic).*$,^(?=.*fhxue)(?=.*thyohlic).*$,True,1.0
+351,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+352,"^.{2,7}gbkolp$","^.{2,7}gbkolp$",True,1.0
+353,"^[a-zA-Z0-9]{4,8}$","^[a-zA-Z0-9]{4,8}$",True,1.0
+354,"^.{1,7}wspvphna$","^.{1,7}wspvphna$",True,1.0
+355,^(?=.*radovcbn)(?=.*hvmvkqpq).*$,^(?=.*radovcbn)(?=.*hvmvkqpq).*$,True,1.0
+356,^swvzmhtl.*,^swvzmhtl.*,True,1.0
+357,^cjaavb.*qyr.*$,^cjaavb.*qyr.*$,True,1.0
+358,"^[a-z]{5,6}$","^[a-z]{5,6}$",True,1.0
+359,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+360,"^.{0,3}rrzonhed$","^.{0,3}rrzonhed$",True,1.0
+361,.*yrl$,.*yrl$,True,1.0
+362,^vdpgxapz.*,^vdpgxapz.*,True,1.0
+363,"^.{7,12}val$","^.{7,12}val$",True,1.0
+364,^zld.*,^zld.*,True,1.0
+365,"^.{0,4}ybetswcd$","^.{0,4}ybetswcd$",True,1.0
+366,^moyxucl.*valazlx.*$,^moyxucl.*valazlx.*$,True,1.0
+367,^dpub.*,^dpub.*,True,1.0
+368,^mob.*,^mob.*,True,1.0
+369,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+370,^frfdukk.*css.*$,^frfdukk.*css.*$,True,1.0
+371,^dpb.*,^dpb.*,True,1.0
+372,^wfmg.*,^wfmg.*,True,1.0
+373,^fqpquve.*,^fqpquve.*,True,1.0
+374,^(?=.*ttiebauj)(?=.*xpgeana).*$,^(?=.*ttiebauj)(?=.*xpgeana).*$,True,1.0
+375,^(?=.*imariblj)(?=.*snzp).*$,.*imariblj.*snzp.*|.*snzp.*imariblj.*,False,0.3513513513513513
+376,^lwzm.*mvdu.*$,^lwzm.*mvdu.*$,True,1.0
+377,.*fws$,.*fws$,True,1.0
+378,"^\d{3,7}$","^\d{3,7}$",True,1.0
+379,"^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{2,6}[.!?;:'""…]?$","^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{2,6}[.!?;:'""…]?$",True,1.0
+380,"^.{2,10}biirq$","^.{2,10}biirq$",True,1.0
+381,"^.{2,3}lsfolydh$","^.{2,3}lsfolydh$",True,1.0
+382,.*cuejup$,.*cuejup$,True,1.0
+383,"^.{4,11}pbdwyp$","^.{4,11}pbdwyp$",True,1.0
+384,^(?=.*fih)(?=.*zawnhq).*$,^(?=.*fih)(?=.*zawnhq).*$,True,1.0
+385,^(?=.*imm)(?=.*cefbga).*$,^(?=.*imm)(?=.*cefbga).*$,True,1.0
+386,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+387,.*qvkvtg$,.*qvkvtg$,True,1.0
+388,^lrdbzxrz.*vatu.*$,^lrdbzxrz.*vatu.*$,True,1.0
+389,.*hxm$,.*hxm$,True,1.0
+390,^qwht.*eva.*$,^qwht.*eva.*$,True,1.0
+391,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+392,^(?=.*ursodxkc)(?=.*kqtb).*$,^(?=.*ursodxkc)(?=.*kqtb).*$,True,1.0
+393,"^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{1,9}[.!?;:'""…]?$","^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{1,9}[.!?;:'""…]?$",False,0.9830508474576272
+394,^vdkobew.*xohgjjf.*$,^vdkobew.*xohgjjf.*$,True,1.0
+395,^hgte.*gchmpi.*$,^hgte.*gchmpi.*$,True,1.0
+396,"^.{3,10}fphydv$","^.{3,10}fphydv$",True,1.0
+397,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+398,"^.{2,7}trrxffpa$","^.{2,7}trrxffpa$",True,1.0
+399,"^\d{1,6}$","^\d{1,6}$",True,1.0
+400,^dwm.*smwos.*$,^dwm.*smwos.*$,True,1.0
+401,^(?=.*ayojqo)(?=.*ovm).*$,^(?=.*ayojqo)(?=.*ovm).*$,True,1.0
+402,^mwqbfdz.*wwz.*$,^mwqbfdz.*wwz.*$,True,1.0
+403,"^.{3,5}injyfj$","^.{3,5}injyfj$",True,1.0
+404,.*ixx$,.*ixx$,True,1.0
+405,^bci.*zog.*$,^bci.*zog.*$,True,1.0
+406,"^.{3,6}dzhmhol$","^.{3,6}dzhmhol$",True,1.0
+407,^wxdnnsc.*,^wxdnnsc.*,True,1.0
+408,^msm.*iacusdv.*$,^msm.*iacusdv.*$,True,1.0
+409,^yilhefm.*xwjrjw.*$,^yilhefm.*xwjrjw.*$,True,1.0
+410,^(?=.*qfvchnxe)(?=.*zsjnu).*$,^(?=.*qfvchnxe)(?=.*zsjnu).*$,True,1.0
+411,^qoxjoey.*hjht.*$,^qoxjoey.*hjht.*$,True,1.0
+412,"^[A-Z]{2,6}$","^[A-Z]{2,6}$",True,1.0
+413,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+414,"^.{6,9}atl$","^.{6,9}atl$",True,1.0
+415,^(?=.*sezcxr)(?=.*yyepc).*$,^(?=.*sezcxr)(?=.*yyepc).*$,True,1.0
+416,.*pej$,.*pej$,True,1.0
+417,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+418,"^.{0,1}wvsljrxz$","^.{0,1}wvsljrxz$",True,1.0
+419,"^.{0,3}kltwfzu$","^.{0,3}kltwfzu$",True,1.0
+420,"^[a-z]{3,4}$","^[a-z]{3,4}$",True,1.0
+421,.*trvzh$,.*trvzh$,True,1.0
+422,.*ybzysh$,.*ybzysh$,True,1.0
+423,^txjtudhu.*xgnpftqe.*$,^txjtudhu.*xgnpftqe.*$,True,1.0
+424,.*aaknrzgf$,.*aaknrzgf$,True,1.0
+425,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+426,^\d{9}$,^\d{9}$,True,1.0
+427,^esxlllm.*,^esxlllm.*,True,1.0
+428,^(?=.*rlbn)(?=.*emkpjwj).*$,^(?=.*rlbn)(?=.*emkpjwj).*$,True,1.0
+429,^rnlyai.*jrs.*$,^rnlyai.*jrs.*$,True,1.0
+430,"^\d{2,7}$","^\d{2,7}$",True,1.0
+431,.*hqpbyjpw$,.*hqpbyjpw$,True,1.0
+432,^(?=.*ezilmi)(?=.*qqrbqce).*$,^(?=.*ezilmi)(?=.*qqrbqce).*$,True,1.0
+433,^cleuavsi.*peksmk.*$,^cleuavsi.*peksmk.*$,True,1.0
+434,"^.{3,7}wbfyz$","^.{3,7}wbfyz$",True,1.0
+435,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){0,7}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){0,7}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+436,.*nasitd$,.*nasitd$,True,1.0
+437,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+438,^jkmlytv.*,^jkmlytv.*,True,1.0
+439,^(?=.*nmjt)(?=.*gkg).*$,^(?=.*nmjt)(?=.*gkg).*$,True,1.0
+440,^(?=.*vimvploy)(?=.*lhnmoycp).*$,^(?=.*vimvploy)(?=.*lhnmoycp).*$,True,1.0
+441,.*harobs$,.*harobs$,True,1.0
+442,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{1,3}[.!?;:]?$",False,0.9491525423728814
+443,^yfsdg.*,^yfsdg.*,True,1.0
+444,^kkfvj.*vworwc.*$,^kkfvj.*vworwc.*$,True,1.0
+445,.*mxcum$,.*mxcum$,True,1.0
+446,^(?=.*akq)(?=.*vhiqyhpo).*$,^(?=.*akq)(?=.*vhiqyhpo).*$,True,1.0
+447,^bselzb.*oghhqjl.*$,^bselzb.*oghhqjl.*$,True,1.0
+448,"^[a-z]{4,7}$","^[a-z]{4,7}$",True,1.0
+449,^rddollu.*,^rddollu.*,True,1.0
+450,^(?=.*hghnnyyn)(?=.*thclck).*$,^(?=.*hghnnyyn)(?=.*thclck).*$,True,1.0
+451,^kzbkvr.*,^kzbkvr.*,True,1.0
+452,.*nhsoahyn$,.*nhsoahyn$,True,1.0
+453,.*kai$,.*kai$,True,1.0
+454,.*hrec$,.*hrec$,True,1.0
+455,"^.{7,9}yhh$","^.{7,9}yhh$",True,1.0
+456,"^[a-z]{3,6}$","^[a-z]{3,6}$",True,1.0
+457,^jnsczp.*iiphatuc.*$,^jnsczp.*iiphatuc.*$,True,1.0
+458,^(?=.*qibrdm)(?=.*mxidinj).*$,^(?=.*qibrdm)(?=.*mxidinj).*$,True,1.0
+459,^xdlwkwea.*,^xdlwkwea.*,True,1.0
+460,"^\d{1,5}$","^\d{1,5}$",True,1.0
+461,^orme.*muyfsjv.*$,^orme.*muyfsjv.*$,True,1.0
+462,"^.{5,13}caex$","^.{5,13}caex$",True,1.0
+463,.*yam$,.*yam$,True,1.0
+464,^mjayjq.*,^mjayjq.*,True,1.0
+465,"^[a-zA-Z0-9]{1,2}$","^[a-zA-Z0-9]{1,2}$",True,1.0
+466,^edu.*iklc.*$,^edu.*iklc.*$,True,1.0
+467,"^.{7,8}yan$","^.{7,8}yan$",True,1.0
+468,"^.{4,8}ouy$","^.{4,8}ouy$",True,1.0
+469,^(?=.*awfdeoe)(?=.*eaqdd).*$,^(?=.*awfdeoe)(?=.*eaqdd).*$,True,1.0
+470,.*gtjpiihl$,.*gtjpiihl$,True,1.0
+471,^nshmbw.*dsbeakib.*$,^nshmbw.*dsbeakib.*$,True,1.0
+472,"^.{1,5}dosngayj$","^.{1,5}dosngayj$",True,1.0
+473,^wtwlsaf.*,^wtwlsaf.*,True,1.0
+474,"^\d{3,6}$","^\d{3,6}$",True,1.0
+475,.*cbvsi$,.*cbvsi$,True,1.0
+476,^[a-zA-Z]{6}$,^[a-zA-Z]{6}$,True,1.0
+477,^(?=.*ujcehpeq)(?=.*bffblb).*$,^(?=.*ujcehpeq)(?=.*bffblb).*$,True,1.0
+478,^exoiu.*,^exoiu.*,True,1.0
+479,^(?=.*jkljbmyu)(?=.*ybpl).*$,^(?=.*jkljbmyu)(?=.*ybpl).*$,True,1.0
+480,.*jtvquqc$,.*jtvquqc$,True,1.0
+481,^(?=.*fla)(?=.*zvpj).*$,^(?=.*fla)(?=.*zvpj).*$,True,1.0
+482,^owjf.*,^owjf.*,True,1.0
+483,^(?=.*dprdx)(?=.*mmkhgk).*$,^(?=.*dprdx)(?=.*mmkhgk).*$,True,1.0
+484,"^.{7,12}qea$","^.{7,12}qea$",True,1.0
+485,^(?=.*gyzkwdq)(?=.*kxc).*$,^(?=.*gyzkwdq)(?=.*kxc).*$,True,1.0
+486,.*bfulmd$,.*bfulmd$,True,1.0
+487,^lerluqu.*,^lerluqu.*,True,1.0
+488,"^.{6,7}zoac$","^.{6,7}zoac$",True,1.0
+489,.*tnj$,.*tnj$,True,1.0
+490,^rkbs.*owprhqtp.*$,^rkbs.*owprhqtp.*$,True,1.0
+491,.*hbjqbfmk$,.*hbjqbfmk$,True,1.0
+492,^vcbjxn.*,^vcbjxn.*,True,1.0
+493,^wyldlabe.*wuxdot.*$,^wyldlabe.*wuxdot.*$,True,1.0
+494,^hwwz.*ydmlka.*$,^hwwz.*ydmlka.*$,True,1.0
+495,^pjtmzkf.*qmwiynj.*$,^pjtmzkf.*qmwiynj.*$,True,1.0
+496,"^.{0,4}ojpfvpup$","^.{0,4}ojpfvpup$",True,1.0
+497,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+498,"^.{0,2}bdyryoir$","^.{0,2}bdyryoir$",True,1.0
+499,"^.{3,9}iagc$","^.{3,9}iagc$",True,1.0
+500,^(?=.*ivxwnhv)(?=.*nqjqyojb).*$,^(?=.*ivxwnhv)(?=.*nqjqyojb).*$,True,1.0
+501,^ddoxw.*sombtyxl.*$,^ddoxw.*sombtyxl.*$,True,1.0
+502,"^.{0,7}fdoldnaw$","^.{0,7}fdoldnaw$",True,1.0
+503,^(?=.*pxlskz)(?=.*cocyzvq).*$,^(?=.*pxlskz)(?=.*cocyzvq).*$,True,1.0
+504,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+505,.*kfwu$,.*kfwu$,True,1.0
+506,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+507,"^.{6,9}ycj$","^.{6,9}ycj$",True,1.0
+508,^xltvnagp.*csgp.*$,^xltvnagp.*csgp.*$,True,1.0
+509,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+510,"^.{2,7}acbbz$","^.{2,7}acbbz$",True,1.0
+511,^zxfbaj.*fzvsr.*$,^zxfbaj.*fzvsr.*$,True,1.0
+512,.*gch$,.*gch$,True,1.0
+513,.*mdpjpfu$,.*mdpjpfu$,True,1.0
+514,^(?=.*lxtijm)(?=.*ypiyjg).*$,^(?=.*lxtijm)(?=.*ypiyjg).*$,True,1.0
+515,^(?=.*uundhz)(?=.*fxq).*$,^(?=.*uundhz)(?=.*fxq).*$,True,1.0
+516,.*kpsr$,.*kpsr$,True,1.0
+517,^ekadq.*,^ekadq.*,True,1.0
+518,"^.{0,5}djjvmhxw$","^.{0,5}djjvmhxw$",True,1.0
+519,^uznpkq.*nkfkfa.*$,^uznpkq.*nkfkfa.*$,True,1.0
+520,"^\d{3,5}$","^\d{3,5}$",True,1.0
+521,^pil.*,^pil.*,True,1.0
+522,"^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{1,7}[.!?;:'""…]?$","^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{1,7}[.!?;:'""…]?$",True,1.0
+523,"^.{4,10}ceflgc$","^.{4,10}ceflgc$",True,1.0
+524,"^.{2,4}wkgujrl$","^.{2,4}wkgujrl$",True,1.0
+525,^fbztjod.*,^fbztjod.*,True,1.0
+526,"^.{6,10}dmun$","^.{6,10}dmun$",True,1.0
+527,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+528,^dnx.*dgutu.*$,^dnx.*dgutu.*$,True,1.0
+529,"^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{1,8}[.!?;:'""…]?$","^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{1,8}[.!?;:'""…]?$",True,1.0
+530,^(?=.*biv)(?=.*hfmeffs).*$,^(?=.*biv)(?=.*hfmeffs).*$,True,1.0
+531,"^.{0,2}ddttuyxp$","^.{0,2}ddttuyxp$",True,1.0
+532,^yum.*,^yum.*,True,1.0
+533,^kddzbfx.*,^kddzbfx.*,True,1.0
+534,^vqnuvm.*jnw.*$,^vqnuvm.*jnw.*$,True,1.0
+535,"^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{3,5}[.!?;:'""…]?$","^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{3,5}[.!?;:'""…]?$",True,1.0
+536,^ophnofv.*,^ophnofv.*,True,1.0
+537,"^.{2,3}ypdglov$","^.{2,3}ypdglov$",True,1.0
+538,"^([a-zA-Z]{3,10}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{3,10}[.!?;:'""…]?$","^([a-zA-Z]{3,10}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{3,10}[.!?;:'""…]?$",True,1.0
+539,.*wbdume$,.*wbdume$,True,1.0
+540,^licx.*iilow.*$,^licx.*iilow.*$,True,1.0
+541,^iggcga.*,iggcga.*,True,0.8888888888888888
+542,^(?=.*ipzoftf)(?=.*wea).*$,^(?=.*ipzoftf)(?=.*wea).*$,True,1.0
+543,^pyvwpbtq.*,^pyvwpbtq.*,True,1.0
+544,"^.{2,3}avxbfro$","^.{2,3}avxbfro$",True,1.0
+545,.*uzxkzvb$,.*uzxkzvb$,True,1.0
+546,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+547,.*hiyx$,.*hiyx$,True,1.0
+548,"^.{4,10}sjmqx$","^.{4,10}sjmqx$",True,1.0
+549,"^.{3,4}ccewfpf$","^.{3,4}ccewfpf$",True,1.0
+550,^wavjyw.*,^wavjyw.*,True,1.0
+551,.*odifm$,.*odifm$,True,1.0
+552,"^.{2,8}llqezwi$","^.{2,8}llqezwi$",True,1.0
+553,^povdjeci.*jeczi.*$,^povdjeci.*jeczi.*$,True,1.0
+554,^(?=.*lxcpis)(?=.*uvmnaxgv).*$,^(?=.*lxcpis)(?=.*uvmnaxgv).*$,True,1.0
+555,"^\d{2,4}$","^\d{2,4}$",True,1.0
+556,^lerpsyh.*,^lerpsyh.*,True,1.0
+557,^xzvzoiv.*nwyvtdhl.*$,^xzvzoiv.*nwyvtdhl.*$,True,1.0
+558,"^[A-Z]{3,8}$","^[A-Z]{3,8}$",True,1.0
+559,^(?=.*beo)(?=.*isvva).*$,^(?=.*beo)(?=.*isvva).*$,True,1.0
+560,^[A-Z][a-zA-Z]*$,^[A-Z][a-zA-Z]*$,True,1.0
+561,.*pwrt$,.*pwrt$,True,1.0
+562,^sgalxgpw.*,^sgalxgpw.*,True,1.0
+563,^lvoek.*rlqva.*$,^lvoek.*rlqva.*$,True,1.0
+564,^(?=.*slrymqs)(?=.*qgkpkp).*$,^(?=.*slrymqs)(?=.*qgkpkp).*$,True,1.0
+565,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+566,^oak.*,^oak.*,True,1.0
+567,^(?=.*ucloratm)(?=.*qoehifyz).*$,^(?=.*ucloratm)(?=.*qoehifyz).*$,True,1.0
+568,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+569,"^.{1,6}kpuxop$","^.{1,6}kpuxop$",True,1.0
+570,^(?=.*erccuwn)(?=.*eixo).*$,^(?=.*erccuwn)(?=.*eixo).*$,True,1.0
+571,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{4,5}[.!?;:'""…]?$",False,0.9830508474576272
+572,^(?=.*agnrjm)(?=.*mlh).*$,^(?=.*agnrjm)(?=.*mlh).*$,True,1.0
+573,.*wfywymn$,.*wfywymn$,True,1.0
+574,^iruguik.*,^iruguik.*,True,1.0
+575,^(?=.*hcrhwbg)(?=.*lrjz).*$,^(?=.*hcrhwbg)(?=.*lrjz).*$,True,1.0
+576,^(?=.*rlqrbd)(?=.*ejrzify).*$,^(?=.*rlqrbd)(?=.*ejrzify).*$,True,1.0
+577,.*zbm$,.*zbm$,True,1.0
+578,^(?=.*ntxovqd)(?=.*ykq).*$,^(?=.*ntxovqd)(?=.*ykq).*$,True,1.0
+579,"^.{3,8}yugavl$","^.{3,8}yugavl$",True,1.0
+580,"^.{4,11}prxrw$","^.{4,11}prxrw$",True,1.0
+581,"^.{5,7}gccfx$","^.{5,7}gccfx$",True,1.0
+582,"^.{5,6}pne$","^.{5,6}pne$",True,1.0
+583,^uugcu.*,^uugcu.*,True,1.0
+584,"^[a-zA-Z0-9]{4,10}$","^[a-zA-Z0-9]{4,10}$",True,1.0
+585,"^.{4,5}dqvqjo$","^.{4,5}dqvqjo$",True,1.0
+586,"^.{2,7}jspuvnl$","^.{2,7}jspuvnl$",True,1.0
+587,^qqe.*,^qqe.*,True,1.0
+588,^vqm.*vlf.*$,^vqm.*vlf.*$,True,1.0
+589,^aei.*,^aei.*,True,1.0
+590,^(?=.*jht)(?=.*ngt).*$,^(?=.*jht)(?=.*ngt).*$,True,1.0
+591,^ygapugup.*joerwi.*$,^ygapugup.*joerwi.*$,True,1.0
+592,^ubldl.*,^ubldl.*,True,1.0
+593,"^.{5,7}lbujs$","^.{5,7}lbujs$",True,1.0
+594,^vvdpaaxi.*geios.*$,^vvdpaaxi.*geios.*$,True,1.0
+595,^azicdwfy.*,^azicdwfy.*,True,1.0
+596,.*alwynzd$,.*alwynzd$,True,1.0
+597,"^\d{3,10}$","^\d{3,10}$",True,1.0
+598,^lypav.*odnql.*$,^lypav.*odnql.*$,True,1.0
+599,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+600,"^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{1,5}[.!?;:'""…]?$","^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{1,5}[.!?;:'""…]?$",True,1.0
+601,^vbwdqt.*dmerx.*$,^vbwdqt.*dmerx.*$,True,1.0
+602,^(?=.*nzjgum)(?=.*tdyca).*$,^(?=.*nzjgum)(?=.*tdyca).*$,True,1.0
+603,^tjgr.*pzhscaul.*$,^tjgr.*pzhscaul.*$,True,1.0
+604,^kyisoz.*uxkliqw.*$,^kyisoz.*uxkliqw.*$,True,1.0
+605,^(?=.*yyqfrj)(?=.*gmgg).*$,^(?=.*yyqfrj)(?=.*gmgg).*$,True,1.0
+606,.*sujij$,.*sujij$,True,1.0
+607,.*bkozoyr$,.*bkozoyr$,True,1.0
+608,"^[A-Z]{2,7}$","^[A-Z]{2,7}$",True,1.0
+609,"^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{3,5}[.!?;:'""…]?$","^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{3,5}[.!?;:'""…]?$",True,1.0
+610,^(?=.*unusfx)(?=.*oqhdrlb).*$,^(?=.*unusfx)(?=.*oqhdrlb).*$,True,1.0
+611,^(?=.*jztipews)(?=.*xakjl).*$,^(?=.*jztipews)(?=.*xakjl).*$,True,1.0
+612,.*zang$,.*zang$,True,1.0
+613,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+614,^vbmgzxjy.*ney.*$,^vbmgzxjy.*ney.*$,True,1.0
+615,^(?=.*lwirsmei)(?=.*hhzrq).*$,^(?=.*lwirsmei)(?=.*hhzrq).*$,True,1.0
+616,^bvtq.*roa.*$,^bvtq.*roa.*$,True,1.0
+617,^usostk.*lgn.*$,^usostk.*lgn.*$,True,1.0
+618,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+619,^bxekhxm.*ydkh.*$,^bxekhxm.*ydkh.*$,True,1.0
+620,"^.{1,9}ihuofvh$","^.{1,9}ihuofvh$",True,1.0
+621,^cwxxpdii.*,^cwxxpdii.*,True,1.0
+622,.*gmntdp$,.*gmntdp$,True,1.0
+623,^mmedeb.*,^mmedeb.*,True,1.0
+624,"^.{6,13}ewwl$","^.{6,13}ewwl$",True,1.0
+625,^mjhm.*ngqgw.*$,^mjhm.*ngqgw.*$,True,1.0
+626,^komx.*hnuaz.*$,^komx.*hnuaz.*$,True,1.0
+627,^cfolj.*,^cfolj.*,True,1.0
+628,.*qnugscoi$,.*qnugscoi$,True,1.0
+629,^sjro.*daw.*$,^sjro.*daw.*$,True,1.0
+630,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+631,^schx.*bhddeo.*$,^schx.*bhddeo.*$,True,1.0
+632,"^.{1,5}vqwgnm$","^.{1,5}vqwgnm$",True,1.0
+633,.*eqczor$,.*eqczor$,True,1.0
+634,^tkhbvh.*xah.*$,^tkhbvh.*xah.*$,True,1.0
+635,.*tycg$,.*tycg$,True,1.0
+636,^(?=.*tuanuhy)(?=.*moxy).*$,^(?=.*tuanuhy)(?=.*moxy).*$,True,1.0
+637,.*vjzmfq$,.*vjzmfq$,True,1.0
+638,"^.{1,5}xjgynfp$","^.{1,5}xjgynfp$",True,1.0
+639,"^.{0,1}kfdgvnuz$","^.{0,1}kfdgvnuz$",True,1.0
+640,"^[a-z]{1,9}$","^[a-z]{1,9}$",True,1.0
+641,^gjgwl.*fqa.*$,^gjgwl.*fqa.*$,True,1.0
+642,"^.{1,9}nhelzsu$","^.{1,9}nhelzsu$",True,1.0
+643,^ruokvbri.*,^ruokvbri.*,True,1.0
+644,^efvbl.*nuvzj.*$,^efvbl.*nuvzj.*$,True,1.0
+645,"^.{7,11}eej$","^.{7,11}eej$",True,1.0
+646,"^.{7,11}zvs$","^.{7,11}zvs$",True,1.0
+647,^biiom.*,^biiom.*,True,1.0
+648,^(?=.*zktjh)(?=.*fgrtg).*$,^(?=.*zktjh)(?=.*fgrtg).*$,True,1.0
+649,^kyfg.*omgqack.*$,^kyfg.*omgqack.*$,True,1.0
+650,"^.{3,7}zygdrgt$","^.{3,7}zygdrgt$",True,1.0
+651,"^.{7,13}bhm$","^.{7,13}bhm$",True,1.0
+652,^(?=.*sxuuja)(?=.*pcdsflj).*$,^(?=.*sxuuja)(?=.*pcdsflj).*$,True,1.0
+653,^(?=.*dwouht)(?=.*vnaq).*$,^(?=.*dwouht)(?=.*vnaq).*$,True,1.0
+654,.*gljcv$,.*gljcv$,True,1.0
+655,"^[a-zA-Z0-9]{2,8}$","^[a-zA-Z0-9]{2,8}$",True,1.0
+656,^hkgdyd.*kgvvwjpj.*$,^hkgdyd.*kgvvwjpj.*$,True,1.0
+657,^(?=.*ckmeor)(?=.*doewmy).*$,^(?=.*ckmeor)(?=.*doewmy).*$,True,1.0
+658,^(?=.*nfq)(?=.*rjzvun).*$,^(?=.*nfq)(?=.*rjzvun).*$,True,1.0
+659,"^.{6,11}vgq$","^.{6,11}vgq$",True,1.0
+660,.*sax$,.*sax$,True,1.0
+661,^fgn.*,^fgn.*,True,1.0
+662,^qfvc.*,^qfvc.*,True,1.0
+663,"^.{4,6}aic$","^.{4,6}aic$",True,1.0
+664,^(?=.*jeg)(?=.*gss).*$,^(?=.*jeg)(?=.*gss).*$,True,1.0
+665,^nwvl.*wlvzdn.*$,^nwvl.*wlvzdn.*$,True,1.0
+666,"^.{7,10}azy$","^.{7,10}azy$",True,1.0
+667,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+668,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+669,^iwqtprpp.*pztadz.*$,^iwqtprpp.*pztadz.*$,True,1.0
+670,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+671,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+672,^czzxl.*mrr.*$,^czzxl.*mrr.*$,True,1.0
+673,.*yrpj$,.*yrpj$,True,1.0
+674,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+675,^tvnzjmmc.*mvbgpls.*$,^tvnzjmmc.*mvbgpls.*$,True,1.0
+676,^hzx.*,^hzx.*,True,1.0
+677,.*ojxcfq$,.*ojxcfq$,True,1.0
+678,^xsyqqmw.*,^xsyqqmw.*,True,1.0
+679,^(?=.*flms)(?=.*xwpnaqhv).*$,^(?=.*flms)(?=.*xwpnaqhv).*$,True,1.0
+680,.*svsk$,.*svsk$,True,1.0
+681,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+682,"^.{6,11}ayjl$","^.{6,11}ayjl$",True,1.0
+683,.*wifm$,.*wifm$,True,1.0
+684,^lzxidyjz.*,^lzxidyjz.*,True,1.0
+685,^(?=.*pkpvzsnw)(?=.*evc).*$,^(?=.*pkpvzsnw)(?=.*evc).*$,True,1.0
+686,^(?=.*imndxnp)(?=.*drjfswb).*$,^(?=.*imndxnp)(?=.*drjfswb).*$,True,1.0
+687,^(?=.*daecxts)(?=.*vrg).*$,^(?=.*daecxts)(?=.*vrg).*$,True,1.0
+688,.*mtdvdbue$,.*mtdvdbue$,True,1.0
+689,^zkldvjua.*dbfpmc.*$,^zkldvjua.*dbfpmc.*$,True,1.0
+690,^jpeputin.*,^jpeputin.*,True,1.0
+691,^(?=.*ivrcdfvq)(?=.*ujce).*$,^(?=.*ivrcdfvq)(?=.*ujce).*$,True,1.0
+692,"^.{1,4}xrxmrsp$","^.{1,4}xrxmrsp$",True,1.0
+693,^soyrfkpf.*xftrnhu.*$,^soyrfkpf.*xftrnhu.*$,True,1.0
+694,"^.{2,5}uscszka$","^.{2,5}uscszka$",True,1.0
+695,^sdgdiseu.*,^sdgdiseu.*,True,1.0
+696,"^.{3,11}usjzpw$","^.{3,11}usjzpw$",True,1.0
+697,^(?=.*baewfl)(?=.*xgctt).*$,^(?=.*baewfl)(?=.*xgctt).*$,True,1.0
+698,"^[a-z]{2,6}$","^[a-z]{2,6}$",True,1.0
+699,.*hrj$,.*hrj$,True,1.0
+700,"^\d{4,5}$","^\d{4,5}$",True,1.0
+701,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{5,8}[.!?;:'""…]?$",False,0.9661016949152542
+702,^(?=.*vxpja)(?=.*cjvpkz).*$,^(?=.*vxpja)(?=.*cjvpkz).*$,True,1.0
+703,^ughu.*nhjbzec.*$,^ughu.*nhjbzec.*$,True,1.0
+704,"^.{0,4}tfzdjeec$","^.{0,4}tfzdjeec$",True,1.0
+705,"^[a-z]{1,8}$","^[a-z]{1,8}$",True,1.0
+706,.*maxbtygf$,.*maxbtygf$,True,1.0
+707,^ydygxbgm.*xac.*$,^ydygxbgm.*xac.*$,True,1.0
+708,^wwilyuau.*mtpazrj.*$,^wwilyuau.*mtpazrj.*$,True,1.0
+709,^(?=.*gkfspz)(?=.*lvzbv).*$,^(?=.*gkfspz)(?=.*lvzbv).*$,True,1.0
+710,"^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{1,7}[.!?;:'""…]?$","^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{1,7}[.!?;:'""…]?$",True,1.0
+711,"^.{0,7}cteiuyd$","^.{0,7}cteiuyd$",True,1.0
+712,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+713,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+714,^(?=.*arsxoib)(?=.*ghk).*$,^(?=.*arsxoib)(?=.*ghk).*$,True,1.0
+715,^zoq.*,^zoq.*,True,1.0
+716,"^.{6,11}kvro$","^.{6,11}kvro$",True,1.0
+717,^(?=.*uhrzwk)(?=.*rxxlghxh).*$,^(?=.*uhrzwk)(?=.*rxxlghxh).*$,True,1.0
+718,^(?=.*xiql)(?=.*uyfd).*$,^(?=.*xiql)(?=.*uyfd).*$,True,1.0
+719,.*duop$,.*duop$,True,1.0
+720,^(?=.*xbendm)(?=.*daphpphx).*$,^(?=.*xbendm)(?=.*daphpphx).*$,True,1.0
+721,^jnw.*pahamrxj.*$,^jnw.*pahamrxj.*$,True,1.0
+722,^mwwmrrh.*,^mwwmrrh.*,True,1.0
+723,.*puipfy$,.*puipfy$,True,1.0
+724,^hfq.*,^hfq.*,True,1.0
+725,^zpzazp.*onazjkf.*$,^zpzazp.*onazjkf.*$,True,1.0
+726,^kam.*,^kam.*,True,1.0
+727,^xqmhck.*,^xqmhck.*,True,1.0
+728,.*zeo$,.*zeo$,True,1.0
+729,"^.{3,6}cyxagsm$","^.{3,6}cyxagsm$",True,1.0
+730,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+731,^wrhl.*dwlvtht.*$,^wrhl.*dwlvtht.*$,True,1.0
+732,"^\d{1,3}$","^\d{1,3}$",True,1.0
+733,^(?=.*batpl)(?=.*selcaptd).*$,^(?=.*batpl)(?=.*selcaptd).*$,True,1.0
+734,"^.{2,5}zmsueu$","^.{2,5}zmsueu$",True,1.0
+735,^zlmsa.*,^zlmsa.*,True,1.0
+736,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+737,^pyv.*,^pyv.*,True,1.0
+738,"^[a-zA-Z0-9]{1,7}$","^[a-zA-Z0-9]{1,7}$",True,1.0
+739,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+740,"^.{4,13}xvtg$","^.{4,13}xvtg$",True,1.0
+741,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+742,.*owil$,.*owil$,True,1.0
+743,^kyodxzh.*,^kyodxzh.*,True,1.0
+744,^naa.*,^naa.*,True,1.0
+745,^tqzz.*dpigcqa.*$,^tqzz.*dpigcqa.*$,True,1.0
+746,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+747,.*zoqwyhtp$,.*zoqwyhtp$,True,1.0
+748,.*doj$,.*doj$,True,1.0
+749,"^([a-zA-Z]+[ ,.!?;:'""…]*){1}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){1}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+750,.*wyx$,.*wyx$,True,1.0
+751,"^.{3,8}abxdmn$","^.{3,8}abxdmn$",True,1.0
+752,^qpol.*cecogoow.*$,^qpol.*cecogoow.*$,True,1.0
+753,^jjx.*dilekgt.*$,^jjx.*dilekgt.*$,True,1.0
+754,.*frahmfow$,.*frahmfow$,True,1.0
+755,.*lmqfuscf$,.*lmqfuscf$,True,1.0
+756,^eqlcb.*yvmooqk.*$,^eqlcb.*yvmooqk.*$,True,1.0
+757,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+758,"^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{1,7}[.!?;:'""…]?$","^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{1,7}[.!?;:'""…]?$",True,1.0
+759,.*wpftqep$,.*wpftqep$,True,1.0
+760,^qgn.*,^qgn.*,True,1.0
+761,"^.{2,7}rnknuxhr$","^.{2,7}rnknuxhr$",True,1.0
+762,^gekuqzvu.*lcvw.*$,^gekuqzvu.*lcvw.*$,True,1.0
+763,^(?=.*xjbuls)(?=.*faod).*$,^(?=.*xjbuls)(?=.*faod).*$,True,1.0
+764,^(?=.*qat)(?=.*uytga).*$,^(?=.*qat)(?=.*uytga).*$,True,1.0
+765,.*gxynyuxc$,.*gxynyuxc$,True,1.0
+766,"^.{4,6}sqhs$","^.{4,6}sqhs$",True,1.0
+767,^lrkrks.*,^lrkrks.*,True,1.0
+768,^tgebohg.*,^tgebohg.*,True,1.0
+769,^rftr.*qwmziob.*$,^rftr.*qwmziob.*$,True,1.0
+770,"^.{4,8}twggti$","^.{4,8}twggti$",True,1.0
+771,.*[!@#$%^&*()].*,.*[!@#$%^&*()].*,True,1.0
+772,^lziscxdi.*,^lziscxdi.*,True,1.0
+773,^(?=.*kodo)(?=.*xkbukxpe).*$,^(?=.*kodo)(?=.*xkbukxpe).*$,True,1.0
+774,.*ieimygxt$,.*ieimygxt$,True,1.0
+775,^(?=.*klovix)(?=.*frory).*$,^(?=.*klovix)(?=.*frory).*$,True,1.0
+776,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+777,^(?=.*drkxta)(?=.*yieeku).*$,^(?=.*drkxta)(?=.*yieeku).*$,True,1.0
+778,^noza.*,^noza.*,True,1.0
+779,^(?=.*ubfzkv)(?=.*tdyegscu).*$,^(?=.*ubfzkv)(?=.*tdyegscu).*$,True,1.0
+780,^zsgmcwui.*,^zsgmcwui.*,True,1.0
+781,"^[a-z]{5,7}$","^[a-z]{5,7}$",True,1.0
+782,^woks.*ekmtr.*$,^woks.*ekmtr.*$,True,1.0
+783,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+784,"^.{5,11}hyoeu$","^.{5,11}hyoeu$",True,1.0
+785,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+786,^(?=.*oktd)(?=.*lnvh).*$,^(?=.*oktd)(?=.*lnvh).*$,True,1.0
+787,^lzmdtqr.*lpfx.*$,^lzmdtqr.*lpfx.*$,True,1.0
+788,^(?=.*ipf)(?=.*hdxdafrg).*$,^(?=.*ipf)(?=.*hdxdafrg).*$,True,1.0
+789,"^.{2,7}qknqpaj$","^.{2,7}qknqpaj$",True,1.0
+790,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+791,^(?=.*ewqw)(?=.*gstwywgo).*$,^(?=.*ewqw)(?=.*gstwywgo).*$,True,1.0
+792,.*hzwt$,.*hzwt$,True,1.0
+793,"^.{1,10}wzznszl$","^.{1,10}wzznszl$",True,1.0
+794,^rcamygq.*,^rcamygq.*,True,1.0
+795,^cdztowkq.*zvlgbsm.*$,^cdztowkq.*zvlgbsm.*$,True,1.0
+796,"^.{1,6}okqbpcg$","^.{1,6}okqbpcg$",True,1.0
+797,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+798,"^[A-Z]{3,6}$","^[A-Z]{3,6}$",True,1.0
+799,^umlqpg.*,^umlqpg.*,True,1.0
+800,^msfncjz.*xktv.*$,^msfncjz.*xktv.*$,True,1.0
+801,"^.{6,14}mnt$","^.{6,14}mnt$",True,1.0
+802,^xvhaarxo.*mnlpjmg.*$,^xvhaarxo.*mnlpjmg.*$,True,1.0
+803,"^.{0,6}tkumcnj$","^.{0,6}tkumcnj$",True,1.0
+804,"^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{1,8}[.!?;:'""…]?$","^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{1,8}[.!?;:'""…]?$",True,1.0
+805,^rmln.*psfiqf.*$,^rmln.*psfiqf.*$,True,1.0
+806,^fnccfhoj.*unu.*$,^fnccfhoj.*unu.*$,True,1.0
+807,"^\d{7,}$","^\d{7,}$",True,1.0
+808,"^.{0,5}bsepzuok$","^.{0,5}bsepzuok$",True,1.0
+809,.*wbjkyuq$,.*wbjkyuq$,True,1.0
+810,"^.{3,10}uimc$","^.{3,10}uimc$",True,1.0
+811,^(?=.*zgfzupi)(?=.*hshzv).*$,^(?=.*zgfzupi)(?=.*hshzv).*$,True,1.0
+812,^(?=.*imsij)(?=.*ujxgexd).*$,^(?=.*imsij)(?=.*ujxgexd).*$,True,1.0
+813,"^[a-z]{2,3}$","^[a-z]{2,3}$",True,1.0
+814,"^.{6,14}ope$","^.{6,14}ope$",True,1.0
+815,^fwcuhxih.*,^fwcuhxih.*,True,1.0
+816,^zkj.*oclwaubt.*$,^zkj.*oclwaubt.*$,True,1.0
+817,"^.{5,12}xhjkf$","^.{5,12}xhjkf$",True,1.0
+818,^odsy.*jrlpco.*$,^odsy.*jrlpco.*$,True,1.0
+819,^gzxoe.*,^gzxoe.*,True,1.0
+820,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+821,^ucw.*,^ucw.*,True,1.0
+822,"^.{2,9}cpogvlf$","^.{2,9}cpogvlf$",True,1.0
+823,^(?=.*fxazqpg)(?=.*mimj).*$,^(?=.*fxazqpg)(?=.*mimj).*$,True,1.0
+824,^hznw.*,^hznw.*,True,1.0
+825,^(?=.*xybyt)(?=.*qrqtpqax).*$,^(?=.*xybyt)(?=.*qrqtpqax).*$,True,1.0
+826,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+827,"^.{0,3}getqpflu$","^.{0,3}getqpflu$",True,1.0
+828,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+829,.*zcnpgm$,.*zcnpgm$,True,1.0
+830,"^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{2,6}[.!?;:'""…]?$","^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{2,6}[.!?;:'""…]?$",True,1.0
+831,"^[A-Z]{2,10}$","^[A-Z]{2,10}$",True,1.0
+832,.*qeo$,.*qeo$,True,1.0
+833,^(?=.*qvpycak)(?=.*pza).*$,^(?=.*qvpycak)(?=.*pza).*$,True,1.0
+834,"^.{0,0}dzjrumbk$","^.{0,1}dz",False,0.5
+835,^ptnb.*apuozvcf.*$,^ptnb.*apuozvcf.*$,True,1.0
+836,.*czblfdo$,.*czblfdo$,True,1.0
+837,"^\d{3,4}$","^\d{3,4}$",True,1.0
+838,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+839,^zcoeg.*afovv.*$,^zcoeg.*afovv.*$,True,1.0
+840,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+841,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+842,^iwrfmtrb.*lbssyg.*$,^iwrfmtrb.*lbssyg.*$,True,1.0
+843,^fglkz.*ohfb.*$,^fglkz.*ohfb.*$,True,1.0
+844,^sxd.*nmgj.*$,^sxd.*nmgj.*$,True,1.0
+845,^qgwe.*,^qgwe.*,True,1.0
+846,"^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{1,9}[.!?;:'""…]?$","^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{1,9}[.!?;:'""…]?$",True,1.0
+847,^pjffa.*ihoropgp.*$,^pjffa.*ihoropgp.*$,True,1.0
+848,^(?=.*hovzsz)(?=.*qsh).*$,^(?=.*hovzsz)(?=.*qsh).*$,True,1.0
+849,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+850,^oanajbbg.*vyatb.*$,^oanajbbg.*vyatb.*$,True,1.0
+851,^(?=.*ctctuk)(?=.*qzovzn).*$,^(?=.*ctctuk)(?=.*qzovzn).*$,True,1.0
+852,^(?=.*wexmly)(?=.*uugavy).*$,^(?=.*wexmly)(?=.*uugavy).*$,True,1.0
+853,"^.{4,10}tfjxmu$","^.{4,10}tfjxmu$",True,1.0
+854,^(?=.*eavnown)(?=.*zigwn).*$,^(?=.*eavnown)(?=.*zigwn).*$,True,1.0
+855,^hwvmfsp.*,^hwvmfsp.*,True,1.0
+856,^mkjb.*,^mkjb.*,True,1.0
+857,"^\d{1,5}$","^\d{1,5}$",True,1.0
+858,"^.{4,9}kfrc$","^.{4,9}kfrc$",True,1.0
+859,"^.{0,3}jndoetnp$","^.{0,3}jndoetnp$",True,1.0
+860,.*xefi$,.*xefi$,True,1.0
+861,^(?=.*ptjyuca)(?=.*ywpynvoz).*$,^(?=.*ptjyuca)(?=.*ywpynvoz).*$,True,1.0
+862,\w+,\w+,True,1.0
+863,"^.{4,6}uaxcp$","^.{4,6}uaxcp$",True,1.0
+864,^nfauasxm.*nsm.*$,^nfauasxm.*nsm.*$,True,1.0
+865,.*tqskgg$,.*tqskgg$,True,1.0
+866,^qjhmk.*,^qjhmk.*,True,1.0
+867,^mbyt.*orq.*$,^mbyt.*orq.*$,True,1.0
+868,.*yvaflwtb$,.*yvaflwtb$,True,1.0
+869,.*lem$,.*lem$,True,1.0
+870,"^.{3,11}hlrppb$","^.{3,11}hlrppb$",True,1.0
+871,^ejoac.*yon.*$,^ejoac.*yon.*$,True,1.0
+872,"^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{1,10}[.!?;:'""…]?$","^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{1,10}[.!?;:'""…]?$",True,1.0
+873,"^.{4,6}kuyhxy$","^.{4,6}kuyhxy$",True,1.0
+874,"^[A-Z]{5,7}$","^[A-Z]{5,7}$",True,1.0
+875,"^.{2,8}gimcdzt$","^.{2,8}gimcdzt$",True,1.0
+876,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+877,.*lqbq$,.*lqbq$,True,1.0
+878,^(?=.*afjmrmq)(?=.*fcsila).*$,^(?=.*afjmrmq)(?=.*fcsila).*$,True,1.0
+879,^(?=.*tpchpvqp)(?=.*sgbvza).*$,^(?=.*tpchpvqp)(?=.*sgbvza).*$,True,1.0
+880,"^.{3,5}wybv$","^.{3,5}wybv$",True,1.0
+881,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+882,.*gllgyne$,.*gllgyne$,True,1.0
+883,"^.{1,7}yggouis$","^.{1,7}yggouis$",True,1.0
+884,.*uyl$,.*uyl$,True,1.0
+885,^(?=.*wzkdvhc)(?=.*qhmsh).*$,^(?=.*wzkdvhc)(?=.*qhmsh).*$,True,1.0
+886,^pkmusvbi.*,^pkmusvbi.*,True,1.0
+887,^kczqqgu.*,^kczqqgu.*,True,1.0
+888,.*riknm$,.*riknm$,True,1.0
+889,"^.{4,9}lapu$","^.{4,9}lapu$",True,1.0
+890,^rmu.*,^rmu.*,True,1.0
+891,^(?=.*klfdl)(?=.*oquzrg).*$,^(?=.*klfdl)(?=.*oquzrg).*$,True,1.0
+892,"^.{1,9}vvshyg$","^.{1,9}vvshyg$",True,1.0
+893,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+894,^\d{5}$,^\d{5}$,True,1.0
+895,^bsdskv.*wpufrnzv.*$,^bsdskv.*wpufrnzv.*$,True,1.0
+896,"^.{1,9}tddvbvby$","^.{1,9}tddvbvby$",True,1.0
+897,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+898,"^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{1,7}[.!?;:'""…]?$","^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{1,7}[.!?;:'""…]?$",True,1.0
+899,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+900,"^.{0,8}fjwifyp$","^.{0,8}fjwifyp$",True,1.0
+901,^fflkp.*rus.*$,^fflkp.*rus.*$,True,1.0
+902,^(?=.*hrym)(?=.*ibrap).*$,^(?=.*hrym)(?=.*ibrap).*$,True,1.0
+903,^citcdruy.*,^citcdruy.*,True,1.0
+904,"^.{3,9}jbqtlf$","^.{3,9}jbqtlf$",True,1.0
+905,^(?=.*fcoam)(?=.*juglilvy).*$,^(?=.*fcoam)(?=.*juglilvy).*$,True,1.0
+906,^efdkrmtr.*fqp.*$,^efdkrmtr.*fqp.*$,True,1.0
+907,"^.{2,3}pfegv$","^.{2,3}pfegv$",True,1.0
+908,^(?=.*dfckr)(?=.*wpmhzu).*$,^(?=.*dfckr)(?=.*wpmhzu).*$,True,1.0
+909,^udsxtg.*ooxgs.*$,^udsxtg.*ooxgs.*$,True,1.0
+910,.*wbt$,.*wbt$,True,1.0
+911,.*rpavqmgx$,.*rpavqmgx$,True,1.0
+912,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+913,.*tvskbg$,.*tvskbg$,True,1.0
+914,.*aexn$,.*aexn$,True,1.0
+915,^ilrbdlv.*weistu.*$,^ilrbdlv.*weistu.*$,True,1.0
+916,"^.{1,9}akjfizl$","^.{1,9}akjfizl$",True,1.0
+917,"^\d{1,6}$","^\d{1,6}$",True,1.0
+918,.*jodxlu$,.*jodxlu$,True,1.0
+919,^(?=.*aghjv)(?=.*pgo).*$,^(?=.*aghjv)(?=.*pgo).*$,True,1.0
+920,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+921,"^([a-zA-Z]+[ ,.!?;:'""…]*){2}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){2}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+922,^yuwhsm.*uwkzfyb.*$,^yuwhsm.*uwkzfyb.*$,True,1.0
+923,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+924,^(?=.*ajv)(?=.*hbjhvb).*$,^(?=.*ajv)(?=.*hbjhvb).*$,True,1.0
+925,"^\d{1,9}$","^\d{1,9}$",True,1.0
+926,^qkg.*,^qkg.*,True,1.0
+927,"^.{2,4}imucpnxh$","^.{2,4}imucpnxh$",True,1.0
+928,^nctcd.*rvqcotrx.*$,^nctcd.*rvqcotrx.*$,True,1.0
+929,.*bokgv$,.*bokgv$,True,1.0
+930,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+931,.*bkj$,.*bkj$,True,1.0
+932,^mncnxnkz.*yqz.*$,^mncnxnkz.*yqz.*$,True,1.0
+933,^udgzguvl.*phsmlgx.*$,^udgzguvl.*phsmlgx.*$,True,1.0
+934,^ltxbk.*vzdwcfj.*$,^ltxbk.*vzdwcfj.*$,True,1.0
+935,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+936,"^.{0,3}duaarqj$","^.{0,3}duaarqj$",True,1.0
+937,.*zrcb$,.*zrcb$,True,1.0
+938,.*nlm$,.*nlm$,True,1.0
+939,^wdholma.*wuhlzd.*$,^wdholma.*wuhlzd.*$,True,1.0
+940,^mkja.*hvvied.*$,^mkja.*hvvied.*$,True,1.0
+941,^wmk.*,^wmk.*,True,1.0
+942,"^[a-z]{2,9}$","^[a-z]{2,9}$",True,1.0
+943,.*mdafxl$,.*mdafxl$,True,1.0
+944,.*nhhwbe$,.*nhhwbe$,True,1.0
+945,^(?=.*aiv)(?=.*yzjxk).*$,^(?=.*aiv)(?=.*yzjxk).*$,True,1.0
+946,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+947,^(?=.*jumgs)(?=.*onrtcgr).*$,^(?=.*jumgs)(?=.*onrtcgr).*$,True,1.0
+948,.*yrblpnuq$,.*yrblpnuq$,True,1.0
+949,"^.{5,8}zdd$","^.{5,8}zdd$",True,1.0
+950,"^.{3,10}uynueo$","^.{3,10}uynueo$",True,1.0
+951,.*gigztqoc$,.*gigztqoc$,True,1.0
+952,^arbfvgz.*,^arbfvgz.*,True,1.0
+953,^kejny.*nxeufyr.*$,^kejny.*nxeufyr.*$,True,1.0
+954,.*himwgjyo$,.*himwgjyo$,True,1.0
+955,^crszt.*,^crszt.*,True,1.0
+956,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+957,.*pzhqosqb$,.*pzhqosqb$,True,1.0
+958,^(?=.*hmh)(?=.*kuwas).*$,^(?=.*hmh)(?=.*kuwas).*$,True,1.0
+959,^(?=.*mdz)(?=.*yjzc).*$,^(?=.*mdz)(?=.*yjzc).*$,True,1.0
+960,^ahzzgsmi.*,^ahzzgsmi.*,True,1.0
+961,"^.{4,12}xyv$","^.{4,12}xyv$",True,1.0
+962,^(?=.*pnhmrb)(?=.*vhdm).*$,^(?=.*pnhmrb)(?=.*vhdm).*$,True,1.0
+963,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){0,7}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){0,7}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+964,^lbaf.*,^lbaf.*,True,1.0
+965,^lswfrn.*speowzlh.*$,^lswfrn.*speowzlh.*$,True,1.0
+966,.*mgx$,.*mgx$,True,1.0
+967,"^([a-zA-Z]+[ ,.!?;:'""…]*){6}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){6}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+968,.*ilowh$,.*ilowh$,True,1.0
+969,^(?=.*mitzkg)(?=.*xmdku).*$,^(?=.*mitzkg)(?=.*xmdku).*$,True,1.0
+970,.*erb$,.*erb$,True,1.0
+971,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+972,^\d{2}$,^\d{2}$,True,1.0
+973,^tctcrvrz.*,^tctcrvrz.*,True,1.0
+974,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+975,^bgle.*zkxtscq.*$,^bgle.*zkxtscq.*$,True,1.0
+976,^bqz.*sryfm.*$,^bqz.*sryfm.*$,True,1.0
+977,^szd.*gcl.*$,^szd.*gcl.*$,True,1.0
+978,"^.{0,6}mfdehhar$","^.{0,6}mfdehhar$",True,1.0
+979,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+980,^kckfvp.*,^kckfvp.*,True,1.0
+981,.*snsbri$,.*snsbri$,True,1.0
+982,^gebt.*zkttphr.*$,^gebt.*zkttphr.*$,True,1.0
+983,^vzub.*rrzctomj.*$,^vzub.*rrzctomj.*$,True,1.0
+984,^kifl.*,^kifl.*,True,1.0
+985,"^.{4,6}mzgpzc$","^.{4,6}mzgpzc$",True,1.0
+986,^(?=.*votgq)(?=.*irmzet).*$,^(?=.*votgq)(?=.*irmzet).*$,True,1.0
+987,"^.{4,12}dstd$","^.{4,12}dstd$",True,1.0
+988,.*hjmve$,.*hjmve$,True,1.0
+989,^lhzf.*ksoitsic.*$,^lhzf.*ksoitsic.*$,True,1.0
+990,^eqlksxbd.*,^eqlksxbd.*,True,1.0
+991,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+992,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+993,^rzsc.*qtyupfp.*$,^rzsc.*qtyupfp.*$,True,1.0
+994,"^.{1,4}ltkabl$","^.{1,4}ltkabl$",True,1.0
+995,"^.{6,8}hrp$","^.{6,8}hrp$",True,1.0
+996,.*zqalhawm$,.*zqalhawm$,True,1.0
+997,.*nnduyq$,.*nnduyq$,True,1.0
+998,^ixcrtuax.*xazh.*$,^ixcrtuax.*xazh.*$,True,1.0
+999,^hgfeb.*,^hgfeb.*,True,1.0
+1000,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+1001,^(?=.*ycpxsgz)(?=.*hdeuchd).*$,^(?=.*ycpxsgz)(?=.*hdeuchd).*$,True,1.0
+1002,"^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{1,7}[.!?;:'""…]?$","^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{1,7}[.!?;:'""…]?$",True,1.0
+1003,.*nnwicmu$,.*nnwicmu$,True,1.0
+1004,.*atcjn$,.*atcjn$,True,1.0
+1005,^nfhhrtf.*zshypbi.*$,^nfhhrtf.*zshypbi.*$,True,1.0
+1006,^(?=.*unbl)(?=.*vlzq).*$,^(?=.*unbl)(?=.*vlzq).*$,True,1.0
+1007,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+1008,"^[a-zA-Z0-9]{1,3}$","^[a-zA-Z0-9]{1,3}$",True,1.0
+1009,^ficsnokx.*ssxxnnzr.*$,^ficsnokx.*ssxxnnzr.*$,True,1.0
+1010,^yogk.*,^yogk.*,True,1.0
+1011,.*sgzq$,.*sgzq$,True,1.0
+1012,"^.{5,11}hurot$","^.{5,11}hurot$",True,1.0
+1013,.*sufrm$,.*sufrm$,True,1.0
+1014,"^.{6,12}wpw$","^.{6,12}wpw$",True,1.0
+1015,"^.{7,10}sla$","^.{7,10}sla$",True,1.0
+1016,"^\d{5,9}$","^\d{5,9}$",True,1.0
+1017,^(?=.*thm)(?=.*nfwfkr).*$,^(?=.*thm)(?=.*nfwfkr).*$,True,1.0
+1018,^knjn.*,^knjn.*,True,1.0
+1019,"^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{3,5}[.!?;:'""…]?$","^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{3,5}[.!?;:'""…]?$",True,1.0
+1020,"^.{1,7}wjzdxq$","^.{1,7}wjzdxq$",True,1.0
+1021,"^([a-zA-Z]+[ ,.!?;:'""…]*){9}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){9}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+1022,^kusnwepu.*,^kusnwepu.*,True,1.0
+1023,^wmvoa.*zphtxj.*$,^wmvoa.*zphtxj.*$,True,1.0
+1024,.*lyv$,.*lyv$,True,1.0
+1025,^(?=.*kqugv)(?=.*qbao).*$,^(?=.*kqugv)(?=.*qbao).*$,True,1.0
+1026,^(?=.*hew)(?=.*wggztm).*$,^(?=.*hew)(?=.*wggztm).*$,True,1.0
+1027,^zcalxj.*jqd.*$,^zcalxj.*jqd.*$,True,1.0
+1028,.*qmghqm$,.*qmghqm$,True,1.0
+1029,^(?=.*idwn)(?=.*vmf).*$,^(?=.*idwn)(?=.*vmf).*$,True,1.0
+1030,"^.{1,4}ffcapr$","^.{1,4}ffcapr$",True,1.0
+1031,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+1032,.*mblzs$,.*mblzs$,True,1.0
+1033,^[a-zA-Z]{10}$,^[a-zA-Z]{10}$,True,1.0
+1034,.*srtpk$,.*srtpk$,True,1.0
+1035,"^[a-zA-Z0-9]{5,7}$","^[a-zA-Z0-9]{5,7}$",True,1.0
+1036,^(?=.*igchqo)(?=.*heuxw).*$,^(?=.*igchqo)(?=.*heuxw).*$,True,1.0
+1037,.*sgq$,.*sgq$,True,1.0
+1038,^mtttt.*,^mtttt.*,True,1.0
+1039,.*vgqsg$,.*vgqsg$,True,1.0
+1040,^(?=.*ngjzhiu)(?=.*qdmggmd).*$,^(?=.*ngjzhiu)(?=.*qdmggmd).*$,True,1.0
+1041,^mzwazgk.*,^mzwazgk.*,True,1.0
+1042,.*fyjz$,.*fyjz$,True,1.0
+1043,^(?=.*dqym)(?=.*rlkorx).*$,^(?=.*dqym)(?=.*rlkorx).*$,True,1.0
+1044,.*yxv$,.*yxv$,True,1.0
+1045,"^.{1,5}qtrsjcg$","^.{0,4}qtrsjcg$",False,0.8666666666666667
+1046,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+1047,"^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{1,8}[.!?;:'""…]?$","^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{1,8}[.!?;:'""…]?$",True,1.0
+1048,^jvny.*,^jvny.*,True,1.0
+1049,"^.{5,6}qtr$","^.{5,6}qtr$",True,1.0
+1050,.*fgijm$,.*fgijm$,True,1.0
+1051,^lcblem.*,^lcblem.*,True,1.0
+1052,"^.{6,11}jwm$","^.{6,11}jwm$",True,1.0
+1053,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+1054,.*nvi$,.*nvi$,True,1.0
+1055,.*rskl$,.*rskl$,True,1.0
+1056,.*pszgjti$,.*pszgjti$,True,1.0
+1057,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+1058,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+1059,^qyoie.*,^qyoie.*,True,1.0
+1060,^(?=.*wkrd)(?=.*airgrwyl).*$,^(?=.*wkrd)(?=.*airgrwyl).*$,True,1.0
+1061,"^.{0,7}skxwbayk$","^.{0,7}skxwbayk$",True,1.0
+1062,"^.{5,11}hwfzb$","^.{5,11}hwfzb$",True,1.0
+1063,^fwtnmh.*rztx.*$,^fwtnmh.*rztx.*$,True,1.0
+1064,"^.{4,8}njm$","^.{4,8}njm$",True,1.0
+1065,^bheqi.*,^bheqi.*,True,1.0
+1066,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+1067,"^[a-z]{1,3}$","^[a-z]{1,3}$",True,1.0
+1068,^llsbm.*,^llsbm.*,True,1.0
+1069,^(?=.*zaeyjc)(?=.*pgiodb).*$,^(?=.*zaeyjc)(?=.*pgiodb).*$,True,1.0
+1070,^aekjpjky.*waxqfb.*$,^aekjpjky.*waxqfb.*$,True,1.0
+1071,^cnruicx.*,^cnruicx.*,True,1.0
+1072,^(?=.*iucwlj)(?=.*jfun).*$,^(?=.*iucwlj)(?=.*jfun).*$,True,1.0
+1073,"^.{3,11}ujwqf$","^.{3,11}ujwqf$",True,1.0
+1074,.*xcjshwcw$,.*xcjshwcw$,True,1.0
+1075,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+1076,^(?=.*epw)(?=.*uphjnhrn).*$,^(?=.*epw)(?=.*uphjnhrn).*$,True,1.0
+1077,^(?=.*wcgqzhg)(?=.*gnzxac).*$,^(?=.*wcgqzhg)(?=.*gnzxac).*$,True,1.0
+1078,"^[a-zA-Z0-9]{3,5}$","^[a-zA-Z0-9]{3,5}$",True,1.0
+1079,^cxozvzeb.*,^cxozvzeb.*,True,1.0
+1080,.*vdzjpdzd$,.*vdzjpdzd$,True,1.0
+1081,"^.{5,13}wifg$","^.{5,13}wifg$",True,1.0
+1082,"^.{6,8}xxat$","^.{6,8}xxat$",True,1.0
+1083,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+1084,^iiq.*gqffmsl.*$,^iiq.*gqffmsl.*$,True,1.0
+1085,"^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{3,5}[.!?;:'""…]?$","^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{3,5}[.!?;:'""…]?$",True,1.0
+1086,.*vzbe$,.*vzbe$,True,1.0
+1087,^(?=.*iqamlu)(?=.*lll).*$,^(?=.*iqamlu)(?=.*lll).*$,True,1.0
+1088,.*xtq$,.*xtq$,True,1.0
+1089,"^\d{10,}$","^\d{10,}$",True,1.0
+1090,^grya.*luaj.*$,^grya.*luaj.*$,True,1.0
+1091,^(?=.*vqutoxk)(?=.*zzely).*$,^(?=.*vqutoxk)(?=.*zzely).*$,True,1.0
+1092,^xrn.*,^xrn.*,True,1.0
+1093,.*kmllbff$,.*kmllbff$,True,1.0
+1094,"^.{7,8}rul$","^.{7,8}rul$",True,1.0
+1095,^dwzc.*jhcatj.*$,^dwzc.*jhcatj.*$,True,1.0
+1096,"^.{2,8}qawwtla$","^.{2,8}qawwtla$",True,1.0
+1097,^nkxmuar.*,^nkxmuar.*,True,1.0
+1098,^bnchjm.*uvopffb.*$,^bnchjm.*uvopffb.*$,True,1.0
+1099,^mruvki.*,^mruvki.*,True,1.0
+1100,"^.{4,9}kuwwkq$","^.{4,9}kuwwkq$",True,1.0
+1101,"^.{4,13}kvky$","^.{4,13}kvky$",True,1.0
+1102,^hqv.*exsfcmyy.*$,^hqv.*exsfcmyy.*$,True,1.0
+1103,"^([a-zA-Z]{3,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{3,10}[.!?;:'""…]?$","^([a-zA-Z]{3,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{3,10}[.!?;:'""…]?$",True,1.0
+1104,"^.{4,13}wuk$","^.{4,13}wuk$",True,1.0
+1105,^(?=.*qcqn)(?=.*yehcl).*$,^(?=.*qcqn)(?=.*yehcl).*$,True,1.0
+1106,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+1107,"^.{2,8}jdpzxh$","^.{2,8}jdpzxh$",True,1.0
+1108,.*cariv$,.*cariv$,True,1.0
+1109,"^.{1,4}utgtmzap$","^.{1,4}utgtmzap$",True,1.0
+1110,.*hrqgk$,.*hrqgk$,True,1.0
+1111,^(?=.*yvwqxfpt)(?=.*warowg).*$,^(?=.*yvwqxfpt)(?=.*warowg).*$,True,1.0
+1112,^(?=.*ezah)(?=.*ody).*$,^(?=.*ezah)(?=.*ody).*$,True,1.0
+1113,.*dxf$,.*dxf$,True,1.0
+1114,^bogeriqv.*emteqpy.*$,^bogeriqv.*emteqpy.*$,True,1.0
+1115,"^.{3,10}kbtdrq$","^.{3,10}kbtdrq$",True,1.0
+1116,^(?=.*ujwcrsep)(?=.*gbxg).*$,^(?=.*ujwcrsep)(?=.*gbxg).*$,True,1.0
+1117,"^.{4,12}irw$","^.{4,12}irw$",True,1.0
+1118,"^.{4,12}bzr$","^.{4,12}bzr$",True,1.0
+1119,^ojm.*osd.*$,^ojm.*osd.*$,True,1.0
+1120,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+1121,^cdum.*,^cdum.*,True,1.0
+1122,^gbqfu.*,^gbqfu.*,True,1.0
+1123,"^.{4,6}tqcgot$","^.{4,6}tqcgot$",True,1.0
+1124,"^[a-z]{4,5}$","^[a-z]{4,5}$",True,1.0
+1125,.*qzydbmeo$,.*qzydbmeo$,True,1.0
+1126,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+1127,^(?=.*egl)(?=.*wdqa).*$,^(?=.*egl)(?=.*wdqa).*$,True,1.0
+1128,.*inddxus$,.*inddxus$,True,1.0
+1129,^(?=.*npjmlai)(?=.*gdau).*$,^(?=.*npjmlai)(?=.*gdau).*$,True,1.0
+1130,^xdscc.*awjnujp.*$,^xdscc.*awjnujp.*$,True,1.0
+1131,^(?=.*jclcgavm)(?=.*fomzy).*$,^(?=.*jclcgavm)(?=.*fomzy).*$,True,1.0
+1132,^(?=.*kewnb)(?=.*bqvld).*$,^(?=.*kewnb)(?=.*bqvld).*$,True,1.0
+1133,.*vpsadi$,.*vpsadi$,True,1.0
+1134,^plxvctgg.*mtcjwyph.*$,^plxvctgg.*mtcjwyph.*$,True,1.0
+1135,"^.{7,11}rln$","^.{7,11}rln$",True,1.0
+1136,.*krn$,.*krn$,True,1.0
+1137,"^.{1,9}uodwnuq$","^.{1,9}uodwnuq$",True,1.0
+1138,^(?=.*maij)(?=.*ebpqrgt).*$,^(?=.*maij)(?=.*ebpqrgt).*$,True,1.0
+1139,.*naln$,.*naln$,True,1.0
+1140,^\d{17}[0-9Xx]$,^\d{17}[0-9Xx]$,True,1.0
+1141,^(?=.*matvenqd)(?=.*tunay).*$,^(?=.*matvenqd)(?=.*tunay).*$,True,1.0
+1142,^rundmeso.*,^rundmeso.*,True,1.0
+1143,^(?=.*txqfv)(?=.*dqyn).*$,^(?=.*txqfv)(?=.*dqyn).*$,True,1.0
+1144,^(?=.*epznjmnz)(?=.*tlnpo).*$,^(?=.*epznjmnz)(?=.*tlnpo).*$,True,1.0
+1145,^ezvy.*,^ezvy.*,True,1.0
+1146,^(?=.*pemno)(?=.*oqixzmh).*$,^(?=.*pemno)(?=.*oqixzmh).*$,True,1.0
+1147,^ljc.*jelopseo.*$,^ljc.*jelopseo.*$,True,1.0
+1148,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+1149,.*lip$,.*lip$,True,1.0
+1150,^rxurcws.*awgpb.*$,^rxurcws.*awgpb.*$,True,1.0
+1151,"^.{5,7}oazk$","^.{5,7}oazk$",True,1.0
+1152,^(?=.*cef)(?=.*gdt).*$,^(?=.*cef)(?=.*gdt).*$,True,1.0
+1153,.*okikzkeu$,.*okikzkeu$,True,1.0
+1154,.*ntm$,.*ntm$,True,1.0
+1155,^(?=.*nyqlbie)(?=.*awsddsna).*$,^(?=.*nyqlbie)(?=.*awsddsna).*$,True,1.0
+1156,^mvxgzys.*,^mvxgzys.*,True,1.0
+1157,.*hex$,.*hex$,True,1.0
+1158,^(?=.*lcn)(?=.*jihikl).*$,^(?=.*lcn)(?=.*jihikl).*$,True,1.0
+1159,^(?=.*ovzu)(?=.*bsubws).*$,^(?=.*ovzu)(?=.*bsubws).*$,True,1.0
+1160,"^.{2,4}ssscvj$","^.{2,4}ssscvj$",True,1.0
+1161,^qlm.*,^qlm.*,True,1.0
+1162,^xwufklh.*,^xwufklh.*,True,1.0
+1163,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+1164,^kyvsn.*,^kyvsn.*,True,1.0
+1165,.*rfxkqr$,.*rfxkqr$,True,1.0
+1166,^(?=.*xqfyolon)(?=.*qihh).*$,^(?=.*xqfyolon)(?=.*qihh).*$,True,1.0
+1167,.*xua$,.*xua$,True,1.0
+1168,^(?=.*pakfbkih)(?=.*ubcqo).*$,^(?=.*pakfbkih)(?=.*ubcqo).*$,True,1.0
+1169,^(?=.*ujfprdb)(?=.*cuy).*$,^(?=.*ujfprdb)(?=.*cuy).*$,True,1.0
+1170,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+1171,"^.{0,10}ejcbxwb$","^.{0,10}ejcbxwb$",True,1.0
+1172,"^[a-zA-Z0-9]{3,4}$","^[a-zA-Z0-9]{3,4}$",True,1.0
+1173,^pwjhn.*,^pwjhn.*,True,1.0
+1174,"^.{0,1}boutjaft$","^.{2,3}boutjaft$",False,0.875
+1175,.*fzxbmg$,.*fzxbmg$,True,1.0
+1176,^(?=.*sipxx)(?=.*niqq).*$,^(?=.*sipxx)(?=.*niqq).*$,True,1.0
+1177,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+1178,.*rzvd$,.*rzvd$,True,1.0
+1179,^jyys.*dnfy.*$,^jyys.*dnfy.*$,True,1.0
+1180,^ahm.*,^ahm.*,True,1.0
+1181,^(?=.*vped)(?=.*gudx).*$,^(?=.*vped)(?=.*gudx).*$,True,1.0
+1182,^(?=.*tcb)(?=.*stcifzsn).*$,^(?=.*tcb)(?=.*stcifzsn).*$,True,1.0
+1183,"^[A-Z]{3,4}$","^[A-Z]{3,4}$",True,1.0
+1184,^qjl.*,^qjl.*,True,1.0
+1185,"^.{3,7}yuhdok$","^.{3,7}yuhdok$",True,1.0
+1186,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,5}[.!?;:'""…]?$",False,0.9830508474576272
+1187,^czxv.*,^czxv.*,True,1.0
+1188,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+1189,.*bgtbviw$,.*bgtbviw$,True,1.0
+1190,^(?=.*qmddcaec)(?=.*sspoe).*$,^(?=.*qmddcaec)(?=.*sspoe).*$,True,1.0
+1191,.*tutknuni$,.*tutknuni$,True,1.0
+1192,"^.{4,10}sgyeb$","^.{4,10}sgyeb$",True,1.0
+1193,.*qbah$,.*qbah$,True,1.0
+1194,^frc.*iaod.*$,^frc.*iaod.*$,True,1.0
+1195,^kmyeq.*hzy.*$,^kmyeq.*hzy.*$,True,1.0
+1196,^mypiy.*,^mypiy.*,True,1.0
+1197,.*fyotpbw$,.*fyotpbw$,True,1.0
+1198,"^.{3,5}dsfzaks$","^.{3,5}dsfzaks$",True,1.0
+1199,^igwtem.*smaopcl.*$,^igwtem.*smaopcl.*$,True,1.0
+1200,^qjloag.*,^qjloag.*,True,1.0
+1201,"^.{1,8}ykcjzyzv$","^.{1,8}ykcjzyzv$",True,1.0
+1202,^xhqo.*praxkup.*$,^xhqo.*praxkup.*$,True,1.0
+1203,"^.{6,12}tgyl$","^.{6,12}tgyl$",True,1.0
+1204,"^.{3,11}egqeg$","^.{3,11}egqeg$",True,1.0
+1205,^(?=.*yvevg)(?=.*afiwasl).*$,^(?=.*yvevg)(?=.*afiwasl).*$,True,1.0
+1206,^zsq.*,^zsq.*,True,1.0
+1207,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{5,6}[.!?;:'""…]?$",False,0.9830508474576272
+1208,"^.{1,2}jlxcdsnb$","^.{1,2}jlxcdsnb$",True,1.0
+1209,.*efv$,.*efv$,True,1.0
+1210,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+1211,^eqhqdkxe.*,^eqhqdkxe.*,True,1.0
+1212,^nafiy.*piucxw.*$,^nafiy.*piucxw.*$,True,1.0
+1213,.*wnbu$,.*wnbu$,True,1.0
+1214,"^.{3,13}mmcp$","^.{3,13}mmcp$",True,1.0
+1215,"^.{1,8}yjogozmq$","^.{1,8}yjogozmq$",True,1.0
+1216,"^.{5,9}cuzwe$","^.{5,9}cuzwe$",True,1.0
+1217,^(?=.*artwt)(?=.*yattyiyt).*$,^(?=.*artwt)(?=.*yattyiyt).*$,True,1.0
+1218,"^.{7,9}qfe$","^.{7,9}qfe$",True,1.0
+1219,"^.{5,14}xnv$","^.{5,14}xnv$",True,1.0
+1220,^wbxnc.*,^wbxnc.*,True,1.0
+1221,"^.{6,10}tupg$","^.{6,10}tupg$",True,1.0
+1222,^flabljtd.*,^flabljtd.*,True,1.0
+1223,"^.{3,13}kuax$","^.{3,13}kuax$",True,1.0
+1224,^ayqrbj.*jzl.*$,^ayqrbj.*jzl.*$,True,1.0
+1225,^pnzc.*fijaxoj.*$,^pnzc.*fijaxoj.*$,True,1.0
+1226,"^.{4,8}mtpmxz$","^.{4,8}mtpmxz$",True,1.0
+1227,^nzchym.*nlt.*$,^nzchym.*nlt.*$,True,1.0
+1228,^egkvyvue.*vgdwon.*$,^egkvyvue.*vgdwon.*$,True,1.0
+1229,^gfnmje.*,^gfnmje.*,True,1.0
+1230,"^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,7}[.!?;:'""…]?$","^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,7}[.!?;:'""…]?$",True,1.0
+1231,^(?=.*fzlqeark)(?=.*faool).*$,^(?=.*fzlqeark)(?=.*faool).*$,True,1.0
+1232,"^.{5,6}kvrl$","^.{5,6}kvrl$",True,1.0
+1233,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+1234,^tbje.*,^tbje.*,True,1.0
+1235,^jgd.*eiuzxyx.*$,^jgd.*eiuzxyx.*$,True,1.0
+1236,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+1237,^wlzwbh.*,^wlzwbh.*,True,1.0
+1238,.*ema$,.*ema$,True,1.0
+1239,.*qervdmi$,.*qervdmi$,True,1.0
+1240,.*vbrn$,.*vbrn$,True,1.0
+1241,^dpol.*,^dpol.*,True,1.0
+1242,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+1243,.*tcm$,.*tcm$,True,1.0
+1244,^ajqendjy.*jvznfx.*$,^ajqendjy.*jvznfx.*$,True,1.0
+1245,^qqaetnn.*,^qqaetnn.*,True,1.0
+1246,^koa.*chcuzrt.*$,^koa.*chcuzrt.*$,True,1.0
+1247,.*gnje$,.*gnje$,True,1.0
+1248,^loepory.*tddw.*$,^loepory.*tddw.*$,True,1.0
+1249,^xcetbna.*,^xcetbna.*,True,1.0
+1250,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+1251,"^.{0,1}tnzzojc$","^.{0,1}tnzzojc$",True,1.0
+1252,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+1253,"^.{3,8}qkthtzu$","^.{3,8}qkthtzu$",True,1.0
+1254,^rqukr.*umtghpu.*$,^rqukr.*umtghpu.*$,True,1.0
+1255,"^[a-z]{1,5}$","^[a-z]{1,5}$",True,1.0
+1256,"^\d{3,}$","^\d{3,}$",True,1.0
+1257,^jkfd.*,^jkfd.*,True,1.0
+1258,"^.{7,14}zgd$","^.{7,14}zgd$",True,1.0
+1259,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+1260,^gie.*mgejnxb.*$,^gie.*mgejnxb.*$,True,1.0
+1261,"^.{6,10}ihmf$","^.{6,10}ihmf$",True,1.0
+1262,"^.{4,11}yikeb$","^.{4,11}yikeb$",True,1.0
+1263,^yjqqwaf.*xwakm.*$,^yjqqwaf.*xwakm.*$,True,1.0
+1264,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+1265,.*nqftbff$,.*nqftbff$,True,1.0
+1266,"^.{0,7}gskzquwi$","^.{0,7}gskzquwi$",True,1.0
+1267,^(?=.*xegnwr)(?=.*sktmf).*$,^(?=.*xegnwr)(?=.*sktmf).*$,True,1.0
+1268,^(?=.*hxhpfd)(?=.*wtf).*$,^(?=.*hxhpfd)(?=.*wtf).*$,True,1.0
+1269,^oss.*nieumym.*$,^oss.*nieumym.*$,True,1.0
+1270,"^.{4,5}fdsui$","^.{4,5}fdsui$",True,1.0
+1271,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+1272,.*brf$,.*brf$,True,1.0
+1273,^(?=.*jzwpjp)(?=.*xhz).*$,^(?=.*jzwpjp)(?=.*xhz).*$,True,1.0
+1274,^yyqaky.*nwhu.*$,^yyqaky.*nwhu.*$,True,1.0
+1275,^emnchjoh.*,^emnchjoh.*,True,1.0
+1276,^(?=.*xiqa)(?=.*mazmgekc).*$,^(?=.*xiqa)(?=.*mazmgekc).*$,True,1.0
+1277,^vrtxtdoj.*,^vrtxtdoj.*,True,1.0
+1278,^gwhnv.*urvjr.*$,^gwhnv.*urvjr.*$,True,1.0
+1279,^eiqvg.*,^eiqvg.*,True,1.0
+1280,.*gtsyc$,.*gtsyc$,True,1.0
+1281,^lgwhd.*xbnnv.*$,^lgwhd.*xbnnv.*$,True,1.0
+1282,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+1283,^(?=.*cdctvojr)(?=.*tarczv).*$,^(?=.*cdctvojr)(?=.*tarczv).*$,True,1.0
+1284,.*obo$,.*obo$,True,1.0
+1285,^gfocmtmf.*,^gfocmtmf.*,True,1.0
+1286,.*rlcl$,.*rlcl$,True,1.0
+1287,.*oocpu$,.*oocpu$,True,1.0
+1288,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+1289,^(?=.*raquajy)(?=.*tkkfr).*$,^(?=.*raquajy)(?=.*tkkfr).*$,True,1.0
+1290,^(?=.*kyksxdda)(?=.*dzwqa).*$,^(?=.*kyksxdda)(?=.*dzwqa).*$,True,1.0
+1291,"^.{6,14}adh$","^.{6,14}adh$",True,1.0
+1292,^(?=.*ekwvskl)(?=.*gze).*$,^(?=.*ekwvskl)(?=.*gze).*$,True,1.0
+1293,^(?=.*ijcc)(?=.*iuco).*$,^(?=.*ijcc)(?=.*iuco).*$,True,1.0
+1294,^(?=.*whyqo)(?=.*zygerk).*$,^(?=.*whyqo)(?=.*zygerk).*$,True,1.0
+1295,^str.*ybnqbhpf.*$,^str.*ybnqbhpf.*$,True,1.0
+1296,"^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{1,5}[.!?;:'""…]?$","^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{1,5}[.!?;:'""…]?$",True,1.0
+1297,^(?=.*covb)(?=.*omsla).*$,^(?=.*covb)(?=.*omsla).*$,True,1.0
+1298,^hkd.*,^hkd.*,True,1.0
+1299,^rbjvbgj.*,^rbjvbgj.*,True,1.0
+1300,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+1301,.*zux$,.*zux$,True,1.0
+1302,^(?=.*fviu)(?=.*icglfk).*$,^(?=.*fviu)(?=.*icglfk).*$,True,1.0
+1303,^bldhrahu.*,^bldhrahu.*,True,1.0
+1304,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+1305,^xee.*,^xee.*,True,1.0
+1306,^(?=.*seagxtn)(?=.*vvzse).*$,^(?=.*seagxtn)(?=.*vvzse).*$,True,1.0
+1307,^frslds.*,^frslds.*,True,1.0
+1308,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+1309,^(?=.*csejy)(?=.*pkoby).*$,^(?=.*csejy)(?=.*pkoby).*$,True,1.0
+1310,^sbwn.*,^sbwn.*,True,1.0
+1311,.*lxzrmc$,.*lxzrmc$,True,1.0
+1312,^dyasmy.*caanjv.*$,^dyasmy.*caanjv.*$,True,1.0
+1313,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+1314,^aadiqpx.*,^aadiqpx.*,True,1.0
+1315,.*xmzxmj$,.*xmzxmj$,True,1.0
+1316,^iefxyx.*pquppy.*$,^iefxyx.*pquppy.*$,True,1.0
+1317,"^.{6,9}rous$","^.{6,9}rous$",True,1.0
+1318,"^.{7,12}meb$","^.{7,12}meb$",True,1.0
+1319,"^.{7,14}mae$","^.{7,14}mae$",True,1.0
+1320,"^.{0,3}uefpaxfq$","^.{0,3}uefpaxfq$",True,1.0
+1321,^(?=.*cnatmi)(?=.*hlxl).*$,^(?=.*cnatmi)(?=.*hlxl).*$,True,1.0
+1322,"^.{5,8}znvup$","^.{5,8}znvup$",True,1.0
+1323,^ekxmra.*,^ekxmra.*,True,1.0
+1324,^(?=.*vqq)(?=.*ihad).*$,^(?=.*vqq)(?=.*ihad).*$,True,1.0
+1325,^(?=.*boyrnl)(?=.*zmunvye).*$,^(?=.*boyrnl)(?=.*zmunvye).*$,True,1.0
+1326,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+1327,"^[a-zA-Z0-9]{3,8}$","^[a-zA-Z0-9]{3,8}$",True,1.0
+1328,"^\d{1,8}$","^\d{1,8}$",True,1.0
+1329,"^.{4,8}lcxbi$","^.{4,8}lcxbi$",True,1.0
+1330,^(?=.*xczvinuk)(?=.*axib).*$,^(?=.*xczvinuk)(?=.*axib).*$,True,1.0
+1331,^svy.*wammbcbh.*$,^svy.*wammbcbh.*$,True,1.0
+1332,^tdcpvfqd.*bclw.*$,^tdcpvfqd.*bclw.*$,True,1.0
+1333,"^[a-z]{5,10}$","^[a-z]{5,10}$",True,1.0
+1334,^nkhe.*,^nkhe.*,True,1.0
+1335,.*nurwzwg$,.*nurwzwg$,True,1.0
+1336,^emr.*eaz.*$,^emr.*eaz.*$,True,1.0
+1337,^(?=.*rxxapj)(?=.*eip).*$,^(?=.*rxxapj)(?=.*eip).*$,True,1.0
+1338,^vtbfcxn.*yytc.*$,^vtbfcxn.*yytc.*$,True,1.0
+1339,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+1340,^(?=.*olo)(?=.*lpe).*$,^(?=.*olo)(?=.*lpe).*$,True,1.0
+1341,"^.{2,3}lmhaa$","^.{2,3}lmhaa$",True,1.0
+1342,^zgymw.*,^zgymw.*,True,1.0
+1343,.*mqot$,.*mqot$,True,1.0
+1344,"^.{2,4}elnenbpt$","^.{2,4}elnenbpt$",True,1.0
+1345,.*nwwcc$,.*nwwcc$,True,1.0
+1346,^gbxvfueb.*qxfsvjv.*$,^gbxvfueb.*qxfsvjv.*$,True,1.0
+1347,^pmlydrr.*,^pmlydrr.*,True,1.0
+1348,^tjcavks.*vul.*$,^tjcavks.*vul.*$,True,1.0
+1349,"^.{2,6}qzubpi$","^.{2,6}qzubpi$",True,1.0
+1350,^(?=.*uyclmj)(?=.*bvo).*$,^(?=.*uyclmj)(?=.*bvo).*$,True,1.0
+1351,"^\d{2,3}$","^\d{2,3}$",True,1.0
+1352,^(?=.*niiedi)(?=.*hqxmm).*$,^(?=.*niiedi)(?=.*hqxmm).*$,True,1.0
+1353,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+1354,^zfeb.*,^zfeb.*,True,1.0
+1355,.*mpwlw$,.*mpwlw$,True,1.0
+1356,^lsahw.*aewp.*$,^lsahw.*aewp.*$,True,1.0
+1357,.*euj$,.*euj$,True,1.0
+1358,^jthto.*fhii.*$,^jthto.*fhii.*$,True,1.0
+1359,"^.{0,0}lqmienfr$","^.{0,1}lqmienfr$",False,0.9375
+1360,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+1361,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+1362,^(?=.*qexna)(?=.*wqtyeiz).*$,^(?=.*qexna)(?=.*wqtyeiz).*$,True,1.0
+1363,"^.{3,7}ibczjtn$","^.{3,7}ibczjtn$",True,1.0
+1364,"^.{6,11}nqnu$","^.{6,11}nqnu$",True,1.0
+1365,^(?=.*bafikhq)(?=.*ohco).*$,^(?=.*bafikhq)(?=.*ohco).*$,True,1.0
+1366,^(?=.*givmjw)(?=.*vfkczyc).*$,^(?=.*givmjw)(?=.*vfkczyc).*$,True,1.0
+1367,.*ixrag$,.*ixrag$,True,1.0
+1368,^(?=.*xalmj)(?=.*oazcty).*$,^(?=.*xalmj)(?=.*oazcty).*$,True,1.0
+1369,"^([a-zA-Z]{3,4}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{3,4}[.!?;:'""…]?$","^([a-zA-Z]{3,4}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{3,4}[.!?;:'""…]?$",True,1.0
+1370,^(-?\d+(\.\d+)?)|(0+(\.0+)?)$,^(-?\d+(\.\d+)?)|(0+(\.0+)?)$,True,1.0
+1371,"^.{2,6}frucx$","^.{2,6}frucx$",True,1.0
+1372,^ztrns.*bxe.*$,^ztrns.*bxe.*$,True,1.0
+1373,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+1374,.*jzwyx$,.*jzwyx$,True,1.0
+1375,^bddnoz.*omffs.*$,^bddnoz.*omffs.*$,True,1.0
+1376,.*oszcz$,.*oszcz$,True,1.0
+1377,"^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{2,6}[.!?;:'""…]?$","^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{2,6}[.!?;:'""…]?$",True,1.0
+1378,^xzb.*,^xzb.*,True,1.0
+1379,.*iixwhq$,.*iixwhq$,True,1.0
+1380,^ndrf.*,^ndrf.*,True,1.0
+1381,.*ruzkmh$,.*ruzkmh$,True,1.0
+1382,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+1383,^sxxj.*qmv.*$,^sxxj.*qmv.*$,True,1.0
+1384,.*auftiuyl$,.*auftiuyl$,True,1.0
+1385,^lxdwlcq.*oakj.*$,^lxdwlcq.*oakj.*$,True,1.0
+1386,.*hiqapdh$,.*hiqapdh$,True,1.0
+1387,"^.{3,9}yooceg$","^.{3,9}yooceg$",True,1.0
+1388,"^.{5,8}ncwnx$","^.{5,8}ncwnx$",True,1.0
+1389,^waosn.*,^waosn.*,True,1.0
+1390,"^\d{1,1}$",^\d{1}$,True,0.7777777777777778
+1391,^(?=.*sntanh)(?=.*hgcbplck).*$,^(?=.*sntanh)(?=.*hgcbplck).*$,True,1.0
+1392,.*ogcwz$,.*ogcwz$,True,1.0
+1393,^wdjtxse.*gjxivn.*$,^wdjtxse.*gjxivn.*$,True,1.0
+1394,"^.{6,9}sva$","^.{6,9}sva$",True,1.0
+1395,"^.{5,8}onny$","^.{5,8}onny$",True,1.0
+1396,^(?=.*rikwfw)(?=.*fgxifzr).*$,.*rikwfw.*fgxifzr.*|.*fgxifzr.*rikwfw.*,False,0.3589743589743589
+1397,^qzivk.*,^qzivk.*,True,1.0
+1398,^(?=.*raivq)(?=.*wif).*$,^(?=.*raivq)(?=.*wif).*$,True,1.0
+1399,^(?=.*haowv)(?=.*iaayne).*$,^(?=.*haowv)(?=.*iaayne).*$,True,1.0
+1400,^ccqzau.*ptyo.*$,^ccqzau.*ptyo.*$,True,1.0
+1401,^bgmxgp.*xls.*$,^bgmxgp.*xls.*$,True,1.0
+1402,^oslw.*tgou.*$,^oslw.*tgou.*$,True,1.0
+1403,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+1404,"^.{5,6}okze$","^.{5,6}okze$",True,1.0
+1405,^(?=.*ipopt)(?=.*hkfkqax).*$,^(?=.*ipopt)(?=.*hkfkqax).*$,True,1.0
+1406,"^.{1,8}sdxcbcwe$","^.{1,8}sdxcbcwe$",True,1.0
+1407,"^[a-zA-Z0-9]{2,10}$","^[a-zA-Z0-9]{2,10}$",True,1.0
+1408,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+1409,^qycplwkb.*,^qycplwkb.*,True,1.0
+1410,.*mdxmus$,.*mdxmus$,True,1.0
+1411,"^.{1,5}movola$","^.{2,6}movola$",False,0.8571428571428572
+1412,^(?=.*cexgkalh)(?=.*uekqytkm).*$,^(?=.*cexgkalh)(?=.*uekqytkm).*$,True,1.0
+1413,^fhublepj.*,^fhublepj.*,True,1.0
+1414,^(?=.*bgghwa)(?=.*cjjyie).*$,^(?=.*bgghwa)(?=.*cjjyie).*$,True,1.0
+1415,.*cmgkoc$,.*cmgkoc$,True,1.0
+1416,"^\d{5,6}$","^\d{5,6}$",True,1.0
+1417,"^\d{2,9}$","^\d{2,9}$",True,1.0
+1418,"^\d{5,7}$","^\d{5,7}$",True,1.0
+1419,^ufxq.*ekcsku.*$,^ufxq.*ekcsku.*$,True,1.0
+1420,"^[A-Z]{1,3}$","^[A-Z]{1,3}$",True,1.0
+1421,^gqyg.*bariczg.*$,^gqyg.*bariczg.*$,True,1.0
+1422,^stzif.*,^stzif.*,True,1.0
+1423,^(?=.*pxuj)(?=.*rmhvxn).*$,^(?=.*pxuj)(?=.*rmhvxn).*$,True,1.0
+1424,"^.{3,6}zaeecuf$","^.{3,6}zaeecuf$",True,1.0
+1425,.*gnzv$,.*gnzv$,True,1.0
+1426,.*bgvt$,.*bgvt$,True,1.0
+1427,"^.{2,3}wcwps$","^.{2,3}wcwps$",True,1.0
+1428,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+1429,^tyhjc.*,^tyhjc.*,True,1.0
+1430,^jwhpr.*wghyse.*$,^jwhpr.*wghyse.*$,True,1.0
+1431,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+1432,"^.{5,7}ovhem$","^.{5,7}ovhem$",True,1.0
+1433,^ofoukr.*gsouy.*$,^ofoukr.*gsouy.*$,True,1.0
+1434,^(?=.*zzzdft)(?=.*wlxigc).*$,^(?=.*zzzdft)(?=.*wlxigc).*$,True,1.0
+1435,^afpqnsq.*equ.*$,^afpqnsq.*equ.*$,True,1.0
+1436,"^.{6,9}pmgh$","^.{6,9}pmgh$",True,1.0
+1437,^zsvqofm.*,^zsvqofm.*,True,1.0
+1438,"^[a-z]{3,8}$","^[a-z]{3,8}$",True,1.0
+1439,"^[a-zA-Z0-9]{1,8}$","^[a-zA-Z0-9]{1,8}$",True,1.0
+1440,^khfsyygf.*,^khfsyygf.*,True,1.0
+1441,"^\d{2,10}$","^\d{2,10}$",True,1.0
+1442,^ojqbcy.*,^ojqbcy.*,True,1.0
+1443,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+1444,^wrgtao.*,^wrgtao.*,True,1.0
+1445,"^.{4,10}bkseuf$","^.{4,10}bkseuf$",True,1.0
+1446,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+1447,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+1448,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+1449,^akswn.*,^akswn.*,True,1.0
+1450,"^.{1,7}eafpnjq$","^.{1,7}eafpnjq$",True,1.0
+1451,.*qbjhjrk$,.*qbjhjrk$,True,1.0
+1452,.*uuoe$,.*uuoe$,True,1.0
+1453,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+1454,^(?=.*ajksdd)(?=.*pdzyghpt).*$,^(?=.*ajksdd)(?=.*pdzyghpt).*$,True,1.0
+1455,^(?=.*ngau)(?=.*isdi).*$,^(?=.*ngau)(?=.*isdi).*$,True,1.0
+1456,^(?=.*ippfzc)(?=.*bdta).*$,^(?=.*ippfzc)(?=.*bdta).*$,True,1.0
+1457,.*sgglruq$,.*sgglruq$,True,1.0
+1458,.*hmhx$,.*hmhx$,True,1.0
+1459,^pdukpdx.*,^pdukpdx.*,True,1.0
+1460,^nlkrprs.*kcmp.*$,^nlkrprs.*kcmp.*$,True,1.0
+1461,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+1462,^jafmibex.*,^jafmibex.*,True,1.0
+1463,"^.{2,7}izzndxs$","^.{2,7}izzndxs$",True,1.0
+1464,^fzqrln.*,^fzqrln.*,True,1.0
+1465,^yresczur.*,^yresczur.*,True,1.0
+1466,"^.{3,4}yzspi$","^.{3,4}yzspi$",True,1.0
+1467,^(?=.*unjy)(?=.*tzcymdy).*$,^(?=.*unjy)(?=.*tzcymdy).*$,True,1.0
+1468,^rdpue.*,^rdpue.*,True,1.0
+1469,"^.{6,7}gin$","^.{6,7}gin$",True,1.0
+1470,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+1471,^(?=.*typyzobg)(?=.*tnafrd).*$,^(?=.*typyzobg)(?=.*tnafrd).*$,True,1.0
+1472,.*indgcm$,.*indgcm$,True,1.0
+1473,.*xqyynyh$,.*xqyynyh$,True,1.0
+1474,^dfd.*,^dfd.*,True,1.0
+1475,^kaahbjej.*,^kaahbjej.*,True,1.0
+1476,^yri.*,^yri.*,True,1.0
+1477,^(?=.*amnfmf)(?=.*zbfdxsr).*$,^(?=.*amnfmf)(?=.*zbfdxsr).*$,True,1.0
+1478,"^.{3,12}vtbqt$","^.{3,12}vtbqt$",True,1.0
+1479,^ihqys.*rkuwaf.*$,^ihqys.*rkuwaf.*$,True,1.0
+1480,"^.{2,4}hgfvfsqx$","^.{2,4}hgfvfsqx$",True,1.0
+1481,^(?=.*xcruzwz)(?=.*eyqjow).*$,^(?=.*xcruzwz)(?=.*eyqjow).*$,True,1.0
+1482,^raeka.*qehq.*$,^raeka.*qehq.*$,True,1.0
+1483,.*gljfshdj$,.*gljfshdj$,True,1.0
+1484,"^.{3,7}wriutu$","^.{3,7}wriutu$",True,1.0
+1485,^jmzvp.*mwsnj.*$,^jmzvp.*mwsnj.*$,True,1.0
+1486,^(?=.*ddx)(?=.*dbbwras).*$,^(?=.*ddx)(?=.*dbbwras).*$,True,1.0
+1487,.*jnrpjvh$,.*jnrpjvh$,True,1.0
+1488,^vpere.*,^vpere.*,True,1.0
+1489,"^.{0,6}zugrizsr$","^.{0,6}zugrizsr$",True,1.0
+1490,"^.{0,1}icxfvpkg$","^.{0,1}icxfvpkg$",True,1.0
+1491,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+1492,"^[a-zA-Z0-9]{4,6}$","^[a-zA-Z0-9]{4,6}$",True,1.0
+1493,.*lxfo$,.*lxfo$,True,1.0
+1494,^jkh.*djmw.*$,^jkh.*djmw.*$,True,1.0
+1495,"^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{1,8}[.!?;:'""…]?$","^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{1,8}[.!?;:'""…]?$",True,1.0
+1496,^fyc.*uyxp.*$,^fyc.*uyxp.*$,True,1.0
+1497,"^.{0,0}fghbkmgm$","^.{0,1}fghbkmgm$",False,0.9375
+1498,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+1499,"^[a-z]{5,8}$","^[a-z]{5,8}$",True,1.0
+1500,^pcdjtzp.*iqticc.*$,^pcdjtzp.*iqticc.*$,True,1.0
+1501,^tdplhm.*,^tdplhm.*,True,1.0
+1502,^(?=.*ncsiwhe)(?=.*jjgj).*$,^(?=.*ncsiwhe)(?=.*jjgj).*$,True,1.0
+1503,"^[a-z]{4,6}$","^[a-z]{4,6}$",True,1.0
+1504,^tanwjko.*,^tanwjko.*,True,1.0
+1505,^(?=.*vxn)(?=.*ejuzy).*$,^(?=.*vxn)(?=.*ejuzy).*$,True,1.0
+1506,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+1507,"^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,10}[.!?;:'""…]?$","^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,10}[.!?;:'""…]?$",True,1.0
+1508,^wbjd.*,^wbjd.*,True,1.0
+1509,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+1510,"^.{4,9}eptozo$","^.{3,8}eptozo$",False,0.8571428571428572
+1511,^(?=.*miffg)(?=.*ronqsbu).*$,^(?=.*miffg)(?=.*ronqsbu).*$,True,1.0
+1512,^(?=.*yeery)(?=.*qazjz).*$,^(?=.*yeery)(?=.*qazjz).*$,True,1.0
+1513,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+1514,^upp.*,^upp.*,True,1.0
+1515,^(?=.*bqqknew)(?=.*vqcsa).*$,^(?=.*bqqknew)(?=.*vqcsa).*$,True,1.0
+1516,^lphw.*wgnpxa.*$,^lphw.*wgnpxa.*$,True,1.0
+1517,^lamd.*,^lamd.*,True,1.0
+1518,^\d{1}$,^\d{1}$,True,1.0
+1519,^qvywwbw.*,^qvywwbw.*,True,1.0
+1520,^(?=.*gwadj)(?=.*vicday).*$,^(?=.*gwadj)(?=.*vicday).*$,True,1.0
+1521,"^.{6,13}fkbt$","^.{6,13}fkbt$",True,1.0
+1522,.*ugwt$,.*ugwt$,True,1.0
+1523,"^.{3,7}prru$","^.{3,7}prru$",True,1.0
+1524,^petgt.*lmhp.*$,^petgt.*lmhp.*$,True,1.0
+1525,"^.{3,6}razs$","^.{3,6}razs$",True,1.0
+1526,^(?=.*ndmevwz)(?=.*dmdwemex).*$,^(?=.*ndmevwz)(?=.*dmdwemex).*$,True,1.0
+1527,^cvsjbmfu.*iwl.*$,^cvsjbmfu.*iwl.*$,True,1.0
+1528,.*fyuu$,.*fyuu$,True,1.0
+1529,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+1530,.*ymxfaak$,.*ymxfaak$,True,1.0
+1531,^(?=.*xysnwwz)(?=.*cihfefh).*$,^(?=.*xysnwwz)(?=.*cihfefh).*$,True,1.0
+1532,^rfxw.*,^rfxw.*,True,1.0
+1533,^tqojbchd.*,^tqojbchd.*,True,1.0
+1534,^zmc.*,^zmc.*,True,1.0
+1535,^(?=.*wqufkf)(?=.*huubspw).*$,^(?=.*wqufkf)(?=.*huubspw).*$,True,1.0
+1536,^(?=.*awjifst)(?=.*fgsic).*$,^(?=.*awjifst)(?=.*fgsic).*$,True,1.0
+1537,"^.{4,12}rnb$","^.{4,12}rnb$",True,1.0
+1538,^njh.*,^njh.*,True,1.0
+1539,^(?=.*cslfgpm)(?=.*wlixa).*$,^(?=.*cslfgpm)(?=.*wlixa).*$,True,1.0
+1540,^bupbysyw.*,^bupbysyw.*,True,1.0
+1541,.*imtnm$,.*imtnm$,True,1.0
+1542,^(?=.*zzw)(?=.*vxq).*$,^(?=.*zzw)(?=.*vxq).*$,True,1.0
+1543,"^.{4,7}agkjmc$","^.{4,7}agkjmc$",True,1.0
+1544,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+1545,^tnq.*,^tnq.*,True,1.0
+1546,^(?=.*yeqbev)(?=.*fvug).*$,^(?=.*yeqbev)(?=.*fvug).*$,True,1.0
+1547,^(?=.*cpclp)(?=.*tsbyxk).*$,^(?=.*cpclp)(?=.*tsbyxk).*$,True,1.0
+1548,"^.{4,9}cvbo$","^.{4,9}cvbo$",True,1.0
+1549,"^.{4,13}rlo$","^.{4,13}rlo$",True,1.0
+1550,^(?=.*frppv)(?=.*coqh).*$,^(?=.*frppv)(?=.*coqh).*$,True,1.0
+1551,"^.{1,4}ieljcxj$","^.{1,4}ieljcxj$",True,1.0
+1552,^fgjrx.*,^fgjrx.*,True,1.0
+1553,"^.{0,1}hilxhqzb$","^.{0,1}hilxhqzb$",True,1.0
+1554,^zwi.*iji.*$,^zwi.*iji.*$,True,1.0
+1555,^(?=.*pqagrzu)(?=.*ktsptgkl).*$,^(?=.*pqagrzu)(?=.*ktsptgkl).*$,True,1.0
+1556,^sssewhv.*lvr.*$,^sssewhv.*lvr.*$,True,1.0
+1557,^ogom.*,^ogom.*,True,1.0
+1558,^rbr.*,^rbr.*,True,1.0
+1559,.*zxfjod$,.*zxfjod$,True,1.0
+1560,"^.{2,9}izmphkdy$","^.{2,9}izmphkdy$",True,1.0
+1561,^xzcs.*,^xzcs.*,True,1.0
+1562,^fraqt.*nregfy.*$,^fraqt.*nregfy.*$,True,1.0
+1563,^xsfezoo.*,^xsfezoo.*,True,1.0
+1564,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+1565,^(?=.*rcy)(?=.*qedkxtf).*$,^(?=.*rcy)(?=.*qedkxtf).*$,True,1.0
+1566,^icsgyj.*racgdj.*$,^icsgyj.*racgdj.*$,True,1.0
+1567,"^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{1,9}[.!?;:'""…]?$","^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{1,9}[.!?;:'""…]?$",True,1.0
+1568,"^.{2,5}xisrkcr$","^.{2,5}xisrkcr$",True,1.0
+1569,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+1570,^(?=.*ueqo)(?=.*wmputkh).*$,^(?=.*ueqo)(?=.*wmputkh).*$,True,1.0
+1571,"^([a-zA-Z]+[ ,.!?;:'""…]*){5}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){5}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+1572,^mwcrlbqy.*,^mwcrlbqy.*,True,1.0
+1573,^kxd.*,^kxd.*,True,1.0
+1574,"^.{6,11}ipqz$","^.{6,11}ipqz$",True,1.0
+1575,^ibs.*tto.*$,^ibs.*tto.*$,True,1.0
+1576,^(?=.*nsceniby)(?=.*nxwkzrj).*$,^(?=.*nsceniby)(?=.*nxwkzrj).*$,True,1.0
+1577,^pwbeyfv.*,^pwbeyfv.*,True,1.0
+1578,^ffen.*ppywcfw.*$,^ffen.*ppywcfw.*$,True,1.0
+1579,^ryaxki.*wpcjdawg.*$,^ryaxki.*wpcjdawg.*$,True,1.0
+1580,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+1581,"^.{3,11}vlmcv$","^.{3,11}vlmcv$",True,1.0
+1582,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+1583,.*cdmqjvr$,.*cdmqjvr$,True,1.0
+1584,"^.{3,9}zelkvym$","^.{3,9}zelkvym$",True,1.0
+1585,"^.{3,7}mghyqk$","^.{3,7}mghyqk$",True,1.0
+1586,^(?=.*rvjjd)(?=.*bfmow).*$,^(?=.*rvjjd)(?=.*bfmow).*$,True,1.0
+1587,.*raxsrx$,.*raxsrx$,True,1.0
+1588,^gubv.*auv.*$,^gubv.*auv.*$,True,1.0
+1589,^wnw.*ciwlrwcj.*$,^wnw.*ciwlrwcj.*$,True,1.0
+1590,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+1591,^otd.*,^otd.*,True,1.0
+1592,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){0,7}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){0,7}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+1593,.*ksyx$,.*ksyx$,True,1.0
+1594,"^.{3,7}jsqnbbe$","^.{3,7}jsqnbbe$",True,1.0
+1595,"^\d{1,2}$","^\d{1,2}$",True,1.0
+1596,"^.{1,8}ddsllok$","^.{1,8}ddsllok$",True,1.0
+1597,"^.{0,10}ikjanjy$","^.{0,10}ikjanjy$",True,1.0
+1598,.*oknfzwk$,.*oknfzwk$,True,1.0
+1599,.*yxnxb$,.*yxnxb$,True,1.0
+1600,"^.{4,8}wjsm$","^.{3,7}wjsm$",False,0.8333333333333334
+1601,^hrv.*trh.*$,^hrv.*trh.*$,True,1.0
+1602,"^.{5,7}glk$","^.{5,7}glk$",True,1.0
+1603,^vpxfooeg.*rbq.*$,^vpxfooeg.*rbq.*$,True,1.0
+1604,^jhjwgmqb.*wdwltfo.*$,^jhjwgmqb.*wdwltfo.*$,True,1.0
+1605,^(?=.*hmkubrnb)(?=.*oielwd).*$,^(?=.*hmkubrnb)(?=.*oielwd).*$,True,1.0
+1606,.*mtcbyk$,.*mtcbyk$,True,1.0
+1607,"^.{3,7}wfclren$","^.{3,7}wfclren$",True,1.0
+1608,"^.{0,2}rqhyssqf$","^.{0,2}rqhyssqf$",True,1.0
+1609,^(?=.*ypi)(?=.*obwwuutn).*$,^(?=.*ypi)(?=.*obwwuutn).*$,True,1.0
+1610,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+1611,"^.{0,4}vpauwqwd$","^.{0,4}vpauwqwd$",True,1.0
+1612,.*gfqqk$,.*gfqqk$,True,1.0
+1613,^(?=.*hnb)(?=.*psm).*$,^(?=.*hnb)(?=.*psm).*$,True,1.0
+1614,.*vqu$,.*vqu$,True,1.0
+1615,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+1616,^tndj.*,^tndj.*,True,1.0
+1617,^(?=.*lbl)(?=.*jqhenuu).*$,^(?=.*lbl)(?=.*jqhenuu).*$,True,1.0
+1618,^oojcvswd.*,^oojcvswd.*,True,1.0
+1619,^hfhy.*,^hfhy.*,True,1.0
+1620,"^[A-Z]{5,9}$","^[A-Z]{5,9}$",True,1.0
+1621,^bzjt.*,^bzjt.*,True,1.0
+1622,"^.{1,3}lgaxgyk$","^.{1,3}lgaxgyk$",True,1.0
+1623,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+1624,.*urjnqz$,.*urjnqz$,True,1.0
+1625,^typmvgw.*cevwaj.*$,^typmvgw.*cevwaj.*$,True,1.0
+1626,^(?=.*xbhjajdw)(?=.*fan).*$,^(?=.*xbhjajdw)(?=.*fan).*$,True,1.0
+1627,"^\d{3,9}$","^\d{3,9}$",True,1.0
+1628,^ynjgvnaq.*gvh.*$,^ynjgvnaq.*gvh.*$,True,1.0
+1629,"^.{1,9}jwztmbpf$","^.{1,9}jwztmbpf$",True,1.0
+1630,^ssqjva.*,^ssqjva.*,True,1.0
+1631,^fie.*,^fie.*,True,1.0
+1632,^bcrbfaw.*,^bcrbfaw.*,True,1.0
+1633,^bjp.*glfisb.*$,^bjp.*glfisb.*$,True,1.0
+1634,"^.{6,9}ixtg$","^.{6,9}ixtg$",True,1.0
+1635,.*phppkpoo$,.*phppkpoo$,True,1.0
+1636,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+1637,.*seb$,.*seb$,True,1.0
+1638,.*ncxl$,.*ncxl$,True,1.0
+1639,^(?=.*rcb)(?=.*sylhbjmr).*$,^(?=.*rcb)(?=.*sylhbjmr).*$,True,1.0
+1640,"^.{3,12}hhxjb$","^.{3,12}hhxjb$",True,1.0
+1641,^xeo.*ammy.*$,^xeo.*ammy.*$,True,1.0
+1642,.*hahj$,.*hahj$,True,1.0
+1643,"^.{2,12}zwpsm$","^.{2,12}zwpsm$",True,1.0
+1644,^thmmad.*hopw.*$,^thmmad.*hopw.*$,True,1.0
+1645,.*kxhbo$,.*kxhbo$,True,1.0
+1646,"^.{3,4}mseuug$","^.{3,4}mseuug$",True,1.0
+1647,.*kord$,.*kord$,True,1.0
+1648,^lbpbnmzn.*,^lbpbnmzn.*,True,1.0
+1649,^nepnzi.*ydnkv.*$,^nepnzi.*ydnkv.*$,True,1.0
+1650,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+1651,"^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{3,5}[.!?;:'""…]?$","^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{3,5}[.!?;:'""…]?$",True,1.0
+1652,^xfbafaiw.*,^xfbafaiw.*,True,1.0
+1653,"^.{1,9}dwynhx$","^.{1,9}dwynhx$",True,1.0
+1654,^cjlircu.*,^cjlircu.*,True,1.0
+1655,^dwd.*dlar.*$,^dwd.*dlar.*$,True,1.0
+1656,^rjmnxlr.*,^rjmnxlr.*,True,1.0
+1657,^jeehkn.*vdq.*$,^jeehkn.*vdq.*$,True,1.0
+1658,^grpzdmdj.*,^grpzdmdj.*,True,1.0
+1659,^nujn.*vxguv.*$,^nujn.*vxguv.*$,True,1.0
+1660,"^.{3,10}kuyhlmk$","^.{3,10}kuyhlmk$",True,1.0
+1661,^ijxdq.*,^ijxdq.*,True,1.0
+1662,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+1663,"^.{4,12}dqrvr$","^.{4,12}dqrvr$",True,1.0
+1664,^(?=.*drjd)(?=.*buzookrv).*$,^(?=.*drjd)(?=.*buzookrv).*$,True,1.0
+1665,"^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{1,5}[.!?;:'""…]?$","^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{1,5}[.!?;:'""…]?$",True,1.0
+1666,^vzmrwy.*bmxuuvan.*$,^vzmrwy.*bmxuuvan.*$,True,1.0
+1667,^(?=.*eypqj)(?=.*vgd).*$,^(?=.*eypqj)(?=.*vgd).*$,True,1.0
+1668,^aglvndsi.*,^aglvndsi.*,True,1.0
+1669,^iyzyi.*dij.*$,^iyzyi.*dij.*$,True,1.0
+1670,.*wfkcbnu$,.*wfkcbnu$,True,1.0
+1671,^\d{8}$,^\d{8}$,True,1.0
+1672,^ebsrnf.*,^ebsrnf.*,True,1.0
+1673,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+1674,"^[A-Z]{3,7}$","^[A-Z]{3,7}$",True,1.0
+1675,"^.{1,7}zzgyzjl$","^.{1,7}zzgyzjl$",True,1.0
+1676,^hdsp.*,^hdsp.*,True,1.0
+1677,.*lxlpc$,.*lxlpc$,True,1.0
+1678,"^.{1,3}bbvqlv$","^.{1,3}bbvqlv$",True,1.0
+1679,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+1680,^(?=.*akgeaxl)(?=.*tnrnptyt).*$,^(?=.*akgeaxl)(?=.*tnrnptyt).*$,True,1.0
+1681,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+1682,.*elhfdcji$,.*elhfdcji$,True,1.0
+1683,^uhjo.*,^uhjo.*,True,1.0
+1684,.*gfb$,.*gfb$,True,1.0
+1685,"^.{2,7}jwtev$","^.{2,7}jwtev$",True,1.0
+1686,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+1687,^ztehqow.*kdu.*$,^ztehqow.*kdu.*$,True,1.0
+1688,^(?=.*ojm)(?=.*fsbihxp).*$,^(?=.*ojm)(?=.*fsbihxp).*$,True,1.0
+1689,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+1690,^(?=.*wuxim)(?=.*pnpyvk).*$,^(?=.*wuxim)(?=.*pnpyvk).*$,True,1.0
+1691,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+1692,.*yfco$,.*yfco$,True,1.0
+1693,"^.{6,12}loha$","^.{6,12}loha$",True,1.0
+1694,"^[A-Z]{2,9}$","^[A-Z]{2,9}$",True,1.0
+1695,"^.{5,7}ovzw$","^.{5,7}ovzw$",True,1.0
+1696,"^.{2,4}tidckj$","^.{2,4}tidckj$",True,1.0
+1697,^cvsoe.*xqrnw.*$,^cvsoe.*xqrnw.*$,True,1.0
+1698,"^.{2,8}fxyugosu$","^.{2,8}fxyugosu$",True,1.0
+1699,^smo.*qhcles.*$,^smo.*qhcles.*$,True,1.0
+1700,^(?=.*jbhn)(?=.*ajpfla).*$,^(?=.*jbhn)(?=.*ajpfla).*$,True,1.0
+1701,.*wdmn$,.*wdmn$,True,1.0
+1702,^iofndn.*,^iofndn.*,True,1.0
+1703,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+1704,"^.{6,7}vqq$","^.{6,7}vqq$",True,1.0
+1705,^qblldrn.*pdv.*$,^qblldrn.*pdv.*$,True,1.0
+1706,^(?=.*udria)(?=.*oejmxk).*$,^(?=.*udria)(?=.*oejmxk).*$,True,1.0
+1707,^vkyjk.*,^vkyjk.*,True,1.0
+1708,.*nxtchh$,.*nxtchh$,True,1.0
+1709,^vka.*,^vka.*,True,1.0
+1710,.*mfdgyu$,.*mfdgyu$,True,1.0
+1711,"^([a-zA-Z]{3,4}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{3,4}[.!?;:'""…]?$","^([a-zA-Z]{3,4}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{3,4}[.!?;:'""…]?$",True,1.0
+1712,.*nddho$,.*nddho$,True,1.0
+1713,"^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{1,5}[.!?;:'""…]?$","^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{1,5}[.!?;:'""…]?$",False,0.9830508474576272
+1714,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+1715,.*jbinjr$,.*jbinjr$,True,1.0
+1716,"^.{2,7}yywycm$","^.{2,7}yywycm$",True,1.0
+1717,^(?=.*ushpvco)(?=.*bco).*$,^(?=.*ushpvco)(?=.*bco).*$,True,1.0
+1718,.*hgcw$,.*hgcw$,True,1.0
+1719,.*nqlo$,.*nqlo$,True,1.0
+1720,"^.{1,9}sgbkzfic$","^.{1,9}sgbkzfic$",True,1.0
+1721,^(?=.*aqp)(?=.*xerdp).*$,^(?=.*aqp)(?=.*xerdp).*$,True,1.0
+1722,^rmkx.*gnfsyho.*$,^rmkx.*gnfsyho.*$,True,1.0
+1723,"^[a-z]{2,10}$","^[a-z]{2,10}$",True,1.0
+1724,^pwiz.*,^pwiz.*,True,1.0
+1725,^arvgzl.*,^arvgzl.*,True,1.0
+1726,"^.{3,6}lbapd$","^.{3,6}lbapd$",True,1.0
+1727,.*rwavk$,.*rwavk$,True,1.0
+1728,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+1729,^tjpmfxhb.*,^tjpmfxhb.*,True,1.0
+1730,^pqbeytlp.*zlfv.*$,^pqbeytlp.*zlfv.*$,True,1.0
+1731,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+1732,"^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{1,9}[.!?;:'""…]?$","^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{1,9}[.!?;:'""…]?$",True,1.0
+1733,"^.{0,5}dsysoju$","^.{0,5}dsysoju$",True,1.0
+1734,"^.{4,13}blv$","^.{4,13}blv$",True,1.0
+1735,.*wsyu$,.*wsyu$,True,1.0
+1736,^(?=.*uoidrzrz)(?=.*kxjvo).*$,^(?=.*uoidrzrz)(?=.*kxjvo).*$,True,1.0
+1737,^tlocbbyp.*tzvjzy.*$,^tlocbbyp.*tzvjzy.*$,True,1.0
+1738,^(?=.*jlfd)(?=.*qsjzgob).*$,^(?=.*jlfd)(?=.*qsjzgob).*$,True,1.0
+1739,^oagfup.*,^oagfup.*,True,1.0
+1740,.*ifowhw$,.*ifowhw$,True,1.0
+1741,^dbkwx.*,^dbkwx.*,True,1.0
+1742,.*wgnc$,.*wgnc$,True,1.0
+1743,^hcivx.*kowg.*$,^hcivx.*kowg.*$,True,1.0
+1744,.*dyzkg$,.*dyzkg$,True,1.0
+1745,"^.{0,1}xhozqkfx$","^.{0,1}xhozqkfx$",True,1.0
+1746,^(?=.*gleged)(?=.*qwseqml).*$,^(?=.*gleged)(?=.*qwseqml).*$,True,1.0
+1747,^jbsdedwh.*,^jbsdedwh.*,True,1.0
+1748,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+1749,"^[A-Z]{2,4}$","^[A-Z]{2,4}$",True,1.0
+1750,"^[a-zA-Z0-9]{5,6}$","^[a-zA-Z0-9]{5,6}$",True,1.0
+1751,^wwwgq.*ttdkhrf.*$,^wwwgq.*ttdkhrf.*$,True,1.0
+1752,^icbyogve.*osxo.*$,^icbyogve.*osxo.*$,True,1.0
+1753,^(?=.*cwxa)(?=.*dlqyd).*$,^(?=.*cwxa)(?=.*dlqyd).*$,True,1.0
+1754,^aeg.*yglnyd.*$,^aeg.*yglnyd.*$,True,1.0
+1755,^vtgv.*,^vtgv.*,True,1.0
+1756,.*rdpaoog$,.*rdpaoog$,True,1.0
+1757,"^.{7,8}btq$","^.{7,8}btq$",True,1.0
+1758,^xsaez.*,^xsaez.*,True,1.0
+1759,.*bxdezi$,.*bxdezi$,True,1.0
+1760,^(?=.*wje)(?=.*lnft).*$,^(?=.*wje)(?=.*lnft).*$,True,1.0
+1761,^gofnvb.*,^gofnvb.*,True,1.0
+1762,^spvndgxf.*viwbbe.*$,^spvndgxf.*viwbbe.*$,True,1.0
+1763,^iqeurxy.*,^iqeurxy.*,True,1.0
+1764,^amsik.*srpyqc.*$,^amsik.*srpyqc.*$,True,1.0
+1765,.*tpo$,.*tpo$,True,1.0
+1766,^rxbiu.*,^rxbiu.*,True,1.0
+1767,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+1768,.*pmwxe$,.*pmwxe$,True,1.0
+1769,^(?=.*dcshzwm)(?=.*qnnx).*$,^(?=.*dcshzwm)(?=.*qnnx).*$,True,1.0
+1770,^cgkrj.*eek.*$,^cgkrj.*eek.*$,True,1.0
+1771,^aghulfy.*,^aghulfy.*,True,1.0
+1772,^avujckg.*amof.*$,^avujckg.*amof.*$,True,1.0
+1773,^(?=.*ldxkg)(?=.*wwvuw).*$,^(?=.*ldxkg)(?=.*wwvuw).*$,True,1.0
+1774,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+1775,^gwt.*kyiuwvlp.*$,^gwt.*kyiuwvlp.*$,True,1.0
+1776,^(?=.*idchf)(?=.*khliog).*$,^(?=.*idchf)(?=.*khliog).*$,True,1.0
+1777,^uuwi.*gamhbkf.*$,^uuwi.*gamhbkf.*$,True,1.0
+1778,^bszjyerf.*bhsfvn.*$,^bszjyerf.*bhsfvn.*$,True,1.0
+1779,"^.{7,14}jeb$","^.{7,14}jeb$",True,1.0
+1780,^(?=.*tsft)(?=.*fmzwk).*$,^(?=.*tsft)(?=.*fmzwk).*$,True,1.0
+1781,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+1782,^swiks.*,^swiks.*,True,1.0
+1783,.*kgx$,.*kgx$,True,1.0
+1784,"^.{0,8}uvfltoym$","^.{0,8}uvfltoym$",True,1.0
+1785,^xfo.*ugwtxth.*$,^xfo.*ugwt.*xth.*$,False,0.8888888888888888
+1786,.*ubk$,.*ubk$,True,1.0
+1787,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+1788,^lgclzi.*,^lgclzi.*,True,1.0
+1789,^(?=.*nbxbyjuk)(?=.*yyo).*$,^(?=.*nbxbyjuk)(?=.*yyo).*$,True,1.0
+1790,^stx.*rwhfqzvg.*$,^stx.*rwhfqzvg.*$,True,1.0
+1791,"^.{6,8}jage$","^.{6,8}jage$",True,1.0
+1792,^gzixbazs.*tmlyjc.*$,^gzixbazs.*tmlyjc.*$,True,1.0
+1793,"^.{7,11}oqi$","^.{7,11}oqi$",True,1.0
+1794,^(?=.*pfgl)(?=.*lcmqzn).*$,^(?=.*pfgl)(?=.*lcmqzn).*$,True,1.0
+1795,.*hpydrd$,.*hpydrd$,True,1.0
+1796,^gqq.*,^gqq.*,True,1.0
+1797,^(?=.*vlkc)(?=.*dvskbfy).*$,^(?=.*vlkc)(?=.*dvskbfy).*$,True,1.0
+1798,"^[A-Z]{3,10}$","^[A-Z]{3,10}$",True,1.0
+1799,^qherwft.*,^qherwft.*,True,1.0
+1800,^bkyboeuk.*,^bkyboeuk.*,True,1.0
+1801,^uebfkulo.*,^uebfkulo.*,True,1.0
+1802,^fxu.*,^fxu.*,True,1.0
+1803,^(?=.*zdphcc)(?=.*tspr).*$,^(?=.*zdphcc)(?=.*tspr).*$,True,1.0
+1804,^yyokem.*skzde.*$,^yyokem.*skzde.*$,True,1.0
+1805,^jmuy.*,^jmuy.*,True,1.0
+1806,"^[a-z]{3,9}$","^[a-z]{3,9}$",True,1.0
+1807,.*qksqwq$,.*qksqwq$,True,1.0
+1808,^ibklrg.*ildg.*$,^ibklrg.*ildg.*$,True,1.0
+1809,.*aleckt$,.*aleckt$,True,1.0
+1810,"^.{4,7}tzgizd$","^.{4,7}tzgizd$",True,1.0
+1811,"^[a-z]{2,8}$","^[a-z]{2,8}$",True,1.0
+1812,^clfoyme.*,^clfoyme.*,True,1.0
+1813,"^.{2,9}ixfblhzy$","^.{2,9}ixfblhzy$",True,1.0
+1814,.*wspccn$,.*wspccn$,True,1.0
+1815,.*zejjw$,.*zejjw$,True,1.0
+1816,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+1817,"^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{2,6}[.!?;:'""…]?$","^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{2,6}[.!?;:'""…]?$",True,1.0
+1818,^yxg.*lmfn.*$,^yxg.*lmfn.*$,True,1.0
+1819,^vcsd.*hdbtw.*$,^vcsd.*hdbtw.*$,True,1.0
+1820,^(?=.*pdmf)(?=.*juitf).*$,^(?=.*pdmf)(?=.*juitf).*$,True,1.0
+1821,.*vacjaqw$,.*vacjaqw$,True,1.0
+1822,.*kkqprm$,.*kkqprm$,True,1.0
+1823,^ztjrymw.*wkpks.*$,^ztjrymw.*wkpks.*$,True,1.0
+1824,^pup.*xotqy.*$,^pup.*xotqy.*$,True,1.0
+1825,^hgpzd.*rewoyds.*$,^hgpzd.*rewoyds.*$,True,1.0
+1826,"^.{2,7}ungrjwp$","^.{2,7}ungrjwp$",True,1.0
+1827,^(?=.*czjh)(?=.*byrtbwi).*$,^(?=.*czjh)(?=.*byrtbwi).*$,True,1.0
+1828,"^.{5,13}spjo$","^.{5,13}spjo$",True,1.0
+1829,^(?=.*esyypnd)(?=.*hyjxujym).*$,^(?=.*esyypnd)(?=.*hyjxujym).*$,True,1.0
+1830,"^.{5,13}uiq$","^.{5,13}uiq$",True,1.0
+1831,"^.{4,10}dwvzwv$","^.{4,10}dwvzwv$",True,1.0
+1832,^vjsgmkq.*,^vjsgmkq.*,True,1.0
+1833,^onx.*mxl.*$,^onx.*mxl.*$,True,1.0
+1834,.*hqkq$,.*hqkq$,True,1.0
+1835,.*qgma$,.*qgma$,True,1.0
+1836,^(?=.*cuzltwan)(?=.*xdeqi).*$,^(?=.*cuzltwan)(?=.*xdeqi).*$,True,1.0
+1837,.*rfngpdbi$,.*rfngpdbi$,True,1.0
+1838,^cvgzs.*,^cvgzs.*,True,1.0
+1839,^(?=.*nrr)(?=.*yucy).*$,^(?=.*nrr)(?=.*yucy).*$,True,1.0
+1840,^(?=.*rzyzr)(?=.*qafarrsf).*$,^(?=.*rzyzr)(?=.*qafarrsf).*$,True,1.0
+1841,"^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{1,9}[.!?;:'""…]?$","^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{1,9}[.!?;:'""…]?$",True,1.0
+1842,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+1843,"^.{3,8}uefuny$","^.{3,8}uefuny$",True,1.0
+1844,^rffqa.*ceu.*$,^rffqa.*ceu.*$,True,1.0
+1845,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+1846,^(?=.*leghl)(?=.*vwhnm).*$,^(?=.*leghl)(?=.*vwhnm).*$,True,1.0
+1847,^uejwdk.*hmoir.*$,^uejwdk.*hmoir.*$,True,1.0
+1848,"^.{2,8}dafoyky$","^.{2,8}dafoyky$",True,1.0
+1849,"^.{1,2}uglwpee$","^.{1,2}uglwpee$",True,1.0
+1850,"^.{2,7}xlyadcw$","^.{2,7}xlyadcw$",True,1.0
+1851,^(?=.*icecwc)(?=.*pwmofhut).*$,^(?=.*icecwc)(?=.*pwmofhut).*$,True,1.0
+1852,^(?=.*vzqtwg)(?=.*xzqsi).*$,^(?=.*vzqtwg)(?=.*xzqsi).*$,True,1.0
+1853,"^.{6,7}jvdk$","^.{6,7}jvdk$",True,1.0
+1854,^(?=.*fzomvn)(?=.*kthm).*$,^(?=.*fzomvn)(?=.*kthm).*$,True,1.0
+1855,^(?=.*nktsgyxm)(?=.*opspap).*$,^(?=.*nktsgyxm)(?=.*opspap).*$,True,1.0
+1856,.*ngje$,.*ngje$,True,1.0
+1857,^pdpzdxoj.*,^pdpzdxoj.*,True,1.0
+1858,^(?=.*ohkyssme)(?=.*urmvzdr).*$,^(?=.*ohkyssme)(?=.*urmvzdr).*$,True,1.0
+1859,.*opuc$,.*opuc$,True,1.0
+1860,"^\d{2,6}$","^\d{2,6}$",True,1.0
+1861,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+1862,.*fuhg$,.*fuhg$,True,1.0
+1863,^igid.*,^igid.*,True,1.0
+1864,^(?=.*njsq)(?=.*zvvpbbh).*$,^(?=.*njsq)(?=.*zvvpbbh).*$,True,1.0
+1865,^(?=.*vzv)(?=.*xplkkn).*$,^(?=.*vzv)(?=.*xplkkn).*$,True,1.0
+1866,^qwe.*xxmlbzzr.*$,^qwe.*xxmlbzzr.*$,True,1.0
+1867,^edtapxia.*pwb.*$,^edtapxia.*pwb.*$,True,1.0
+1868,"^.{4,8}adfoxx$","^.{4,8}adfoxx$",True,1.0
+1869,^nyxs.*fzhuzm.*$,^nyxs.*fzhuzm.*$,True,1.0
+1870,^mqgolbx.*czjwv.*$,^mqgolbx.*czjwv.*$,True,1.0
+1871,^(?=.*zmz)(?=.*bqbp).*$,^(?=.*zmz)(?=.*bqbp).*$,True,1.0
+1872,^ocpszfh.*wmkbtgyx.*$,^ocpszfh.*wmkbtgyx.*$,True,1.0
+1873,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+1874,^ikken.*qtcmwr.*$,^ikken.*qtcmwr.*$,True,1.0
+1875,.*kakifb$,.*kakifb$,True,1.0
+1876,"^.{2,3}zoxawxq$","^.{2,3}zoxawxq$",True,1.0
+1877,^emmakxy.*,^emmakxy.*,True,1.0
+1878,^kdu.*,^kdu.*,True,1.0
+1879,.*ficdsl$,.*ficdsl$,True,1.0
+1880,^sqewzz.*qoblqiz.*$,^sqewzz.*qoblqiz.*$,True,1.0
+1881,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+1882,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+1883,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+1884,"^.{4,11}xyuhoy$","^.{4,11}xyuhoy$",True,1.0
+1885,^fymsbn.*aolb.*$,^fymsbn.*aolb.*$,True,1.0
+1886,"^.{5,6}uen$","^.{5,6}uen$",True,1.0
+1887,^(?=.*ibieg)(?=.*cikwh).*$,^(?=.*ibieg)(?=.*cikwh).*$,True,1.0
+1888,^kqlcsxt.*gphhwir.*$,^kqlcsxt.*gphhwir.*$,True,1.0
+1889,^[a-zA-Z]{8}$,^[a-zA-Z]{8}$,True,1.0
+1890,^hupqxed.*,^hupqxed.*,True,1.0
+1891,.*yydqyk$,.*yydqyk$,True,1.0
+1892,^khqwpqlh.*,^khqwpqlh.*,True,1.0
+1893,"^.{3,8}wlxfb$","^.{3,8}wlxfb$",True,1.0
+1894,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+1895,"^.{0,9}zzedpbvd$","^.{0,9}zzedpbvd$",True,1.0
+1896,"^.{0,1}rwajbenb$","^.{0,1}rwajbenb$",True,1.0
+1897,"^.{6,10}epx$","^.{6,10}epx$",True,1.0
+1898,"^.{1,7}pbhekj$","^.{1,7}pbhekj$",True,1.0
+1899,"^.{5,10}rvz$","^.{5,10}rvz$",True,1.0
+1900,"^.{4,7}tarn$","^.{4,7}tarn$",True,1.0
+1901,^bxy.*,^bxy.*,True,1.0
+1902,"^\d{1,7}$","^\d{1,7}$",True,1.0
+1903,.*fctgcz$,.*fctgcz$,True,1.0
+1904,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+1905,^tpiar.*rje.*$,^tpiar.*rje.*$,True,1.0
+1906,"^\d{1,}$","^\d{1,}$",True,1.0
+1907,.*vcmhee$,.*vcmhee$,True,1.0
+1908,"^[a-zA-Z0-9]{4,7}$","^[a-zA-Z0-9]{4,7}$",True,1.0
+1909,"^.{0,2}quligryc$","^.{0,2}quligryc$",True,1.0
+1910,"^.{1,8}ikoprll$","^.{1,8}ikoprll$",True,1.0
+1911,.*saiuqez$,.*saiuqez$,True,1.0
+1912,^ugjs.*,^ugjs.*,True,1.0
+1913,.*ftb$,.*ftb$,True,1.0
+1914,"^[A-Z]{4,7}$","^[A-Z]{4,7}$",True,1.0
+1915,^caokako.*khjyjr.*$,^caokako.*khjyjr.*$,True,1.0
+1916,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+1917,"^.{2,10}vvntgtm$","^.{2,10}vvntgtm$",True,1.0
+1918,"^.{4,5}vhrpy$","^.{4,5}vhrpy$",True,1.0
+1919,^lvnbh.*,^lvnbh.*,True,1.0
+1920,^btsozbup.*uqwzppq.*$,^btsozbup.*uqwzppq.*$,True,1.0
+1921,.*fblmcgxg$,.*fblmcgxg$,True,1.0
+1922,^\d+(\.\d+)?$,^\d+(\.\d+)?$,True,1.0
+1923,.*fin$,.*fin$,True,1.0
+1924,"^.{0,7}hkxndhq$","^.{0,6}hkxndhq$",False,0.9333333333333333
+1925,"^.{0,9}nszpmxoe$","^.{0,9}nszpmxoe$",True,1.0
+1926,"^.{4,5}ochlca$","^.{4,5}ochlca$",True,1.0
+1927,^(?=.*pgtplbs)(?=.*cnnbqq).*$,^(?=.*pgtplbs)(?=.*cnnbqq).*$,True,1.0
+1928,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+1929,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+1930,^abb.*,^abb.*,True,1.0
+1931,"^.{1,8}ximiprab$","^.{1,8}ximiprab$",True,1.0
+1932,.*pewf$,.*pewf$,True,1.0
+1933,"^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{3,5}[.!?;:'""…]?$","^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{3,5}[.!?;:'""…]?$",True,1.0
+1934,^udkpotsb.*,^udkpotsb.*,True,1.0
+1935,"^.{3,11}vryul$","^.{3,11}vryul$",True,1.0
+1936,^pzan.*tif.*$,^pzan.*tif.*$,True,1.0
+1937,^wgwday.*yvtsjevu.*$,^wgwday.*yvtsjevu.*$,True,1.0
+1938,^(?=.*ovku)(?=.*csm).*$,^(?=.*ovku)(?=.*csm).*$,True,1.0
+1939,^rnnt.*,^rnnt.*,True,1.0
+1940,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+1941,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+1942,^(?=.*cdich)(?=.*tblz).*$,^(?=.*cdich)(?=.*tblz).*$,True,1.0
+1943,^(?=.*lufzo)(?=.*rqefndd).*$,^(?=.*lufzo)(?=.*rqefndd).*$,True,1.0
+1944,^wjh.*qjb.*$,^wjh.*qjb.*$,True,1.0
+1945,^ljnyznz.*,^ljnyznz.*,True,1.0
+1946,^yzqrxc.*,^yzqrxc.*,True,1.0
+1947,"^[A-Z]{5,8}$","^[A-Z]{5,8}$",True,1.0
+1948,^(?=.*dvldb)(?=.*bks).*$,^(?=.*dvldb)(?=.*bks).*$,True,1.0
+1949,^jjqmmoi.*coepps.*$,^jjqmmoi.*coepps.*$,True,1.0
+1950,.*oets$,.*oets$,True,1.0
+1951,^(?=.*nucou)(?=.*joy).*$,^(?=.*nucou)(?=.*joy).*$,True,1.0
+1952,^ibbat.*,^ibbat.*,True,1.0
+1953,^(?=.*lpl)(?=.*wcwyadg).*$,^(?=.*lpl)(?=.*wcwyadg).*$,True,1.0
+1954,^ucgoytlx.*,^ucgoytlx.*,True,1.0
+1955,.*jalkxo$,.*jalkxo$,True,1.0
+1956,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+1957,^hhavgrk.*wqakl.*$,^hhavgrk.*wqakl.*$,True,1.0
+1958,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+1959,^czivc.*smxoh.*$,^czivc.*smxoh.*$,True,1.0
+1960,^(?=.*bjoapxbq)(?=.*vmkewb).*$,^(?=.*bjoapxbq)(?=.*vmkewb).*$,True,1.0
+1961,^fvk.*,^fvk.*,True,1.0
+1962,^(?=.*nqiuhhm)(?=.*xlm).*$,^(?=.*nqiuhhm)(?=.*xlm).*$,True,1.0
+1963,^kgie.*,^kgie.*,True,1.0
+1964,^(?=.*zokmpzh)(?=.*qqii).*$,^(?=.*zokmpzh)(?=.*qqii).*$,True,1.0
+1965,"^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,10}[.!?;:'""…]?$","^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,10}[.!?;:'""…]?$",True,1.0
+1966,^hyuyh.*qhprqu.*$,^hyuyh.*qhprqu.*$,True,1.0
+1967,"^.{5,13}zwiy$","^.{5,13}zwiy$",True,1.0
+1968,"^[a-zA-Z0-9]{4,5}$","^[a-zA-Z0-9]{4,5}$",True,1.0
+1969,"^.{0,8}rsxqujtt$","^.{0,8}rsxqujtt$",True,1.0
+1970,.*dflnbfk$,.*dflnbfk$,True,1.0
+1971,"^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{3,5}[.!?;:'""…]?$","^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{3,5}[.!?;:'""…]?$",True,1.0
+1972,.*swr$,.*swr$,True,1.0
+1973,"^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{1,8}[.!?;:'""…]?$","^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{1,8}[.!?;:'""…]?$",True,1.0
+1974,^jmcy.*jpjlweex.*$,^jmcy.*jpjlweex.*$,True,1.0
+1975,"^.{4,6}nlkei$","^.{4,6}nlkei$",True,1.0
+1976,^wcv.*zyt.*$,^wcv.*zyt.*$,True,1.0
+1977,"^.{4,13}goal$","^.{4,13}goal$",True,1.0
+1978,^zmhuuh.*,^zmhuuh.*,True,1.0
+1979,^onlv.*,^onlv.*,True,1.0
+1980,"^.{4,11}ltk$","^.{4,11}ltk$",True,1.0
+1981,^vzrtz.*jwtcdil.*$,^vzrtz.*jwtcdil.*$,True,1.0
+1982,"^[A-Z]{2,5}$","^[A-Z]{2,5}$",True,1.0
+1983,.*dbb$,.*dbb$,True,1.0
+1984,^tco.*,^tco.*,True,1.0
+1985,.*jxuabl$,.*jxuabl$,True,1.0
+1986,.*otya$,.*otya$,True,1.0
+1987,"^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{1,9}[.!?;:'""…]?$","^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{1,9}[.!?;:'""…]?$",True,1.0
+1988,^[a-zA-Z]{4}$,^[a-zA-Z]{4}$,True,1.0
+1989,.*zzl$,.*zzl$,True,1.0
+1990,^[a-zA-Z]{2}$,^[a-zA-Z]{2}$,True,1.0
+1991,.*uconcucs$,.*uconcucs$,True,1.0
+1992,"^.{1,8}qyvdje$","^.{1,8}qyvdje$",True,1.0
+1993,^(?=.*tqpnqil)(?=.*izf).*$,^(?=.*tqpnqil)(?=.*izf).*$,True,1.0
+1994,^rlghrkht.*agpjg.*$,^rlghrkht.*agpjg.*$,True,1.0
+1995,^cxffptak.*hgwsfdi.*$,^cxffptak.*hgwsfdi.*$,True,1.0
+1996,"^.{4,10}airm$","^.{4,10}airm$",True,1.0
+1997,"^.{2,10}oqusjwm$","^.{2,10}oqusjwm$",True,1.0
+1998,^wuhgsmc.*,^wuhgsmc.*,True,1.0
+1999,.*yvrjgo$,.*yvrjgo$,True,1.0
+2000,"^.{1,8}zwrjhdvv$","^.{1,8}zwrjhdvv$",True,1.0
+2001,^szsvz.*buaok.*$,^szsvz.*buaok.*$,True,1.0
+2002,.*zzdtfzp$,.*zzdtfzp$,True,1.0
+2003,.*yxmt$,.*yxmt$,True,1.0
+2004,.*fwlo$,.*fwlo$,True,1.0
+2005,"^[a-zA-Z0-9]{3,9}$","^[a-zA-Z0-9]{3,9}$",True,1.0
+2006,"^[a-zA-Z0-9]{2,5}$","^[a-zA-Z0-9]{2,5}$",True,1.0
+2007,.*huzd$,.*huzd$,True,1.0
+2008,^jogbcki.*fyx.*$,^jogbcki.*fyx.*$,True,1.0
+2009,^ingkjw.*,^ingkjw.*,True,1.0
+2010,^kovl.*fpabfhy.*$,^kovl.*fpabfhy.*$,True,1.0
+2011,"^.{7,11}qqz$","^.{7,11}qqz$",True,1.0
+2012,^zfic.*,^zfic.*,True,1.0
+2013,^oyfpdr.*zfaow.*$,^oyfpdr.*zfaow.*$,True,1.0
+2014,"^[A-Z]{1,9}$","^[A-Z]{1,9}$",True,1.0
+2015,^gdaqz.*,^gdaqz.*,True,1.0
+2016,^mlowocg.*armksoww.*$,^mlowocg.*armksoww.*$,True,1.0
+2017,.*gwsumgha$,.*gwsumgha$,True,1.0
+2018,^gulhpj.*,^gulhpj.*,True,1.0
+2019,"^[A-Z]{4,9}$","^[A-Z]{4,9}$",True,1.0
+2020,^(?=.*qoea)(?=.*oqcshsri).*$,^(?=.*qoea)(?=.*oqcshsri).*$,True,1.0
+2021,^mmzai.*,^mmzai.*,True,1.0
+2022,^(?=.*axtl)(?=.*iuy).*$,^(?=.*axtl)(?=.*iuy).*$,True,1.0
+2023,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+2024,.*tdlxhq$,.*tdlxhq$,True,1.0
+2025,^kwubeq.*eizylks.*$,^kwubeq.*eizylks.*$,True,1.0
+2026,^gwihpl.*zlojl.*$,^gwihpl.*zlojl.*$,True,1.0
+2027,^nkpxqim.*ajcvxc.*$,^nkpxqim.*ajcvxc.*$,True,1.0
+2028,"^.{5,13}pgfz$","^.{5,13}pgfz$",True,1.0
+2029,"^.{6,13}xrc$","^.{6,13}xrc$",True,1.0
+2030,^(?=.*lkalmzom)(?=.*slwem).*$,^(?=.*lkalmzom)(?=.*slwem).*$,True,1.0
+2031,.*ndiqyjah$,.*ndiqyjah$,True,1.0
+2032,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+2033,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+2034,^buiqqkys.*,^buiqqkys.*,True,1.0
+2035,"^.{2,9}tvpjgkm$","^.{2,9}tvpjgkm$",True,1.0
+2036,"^.{1,2}ogqzsl$","^.{1,2}ogqzsl$",True,1.0
+2037,"^.{4,8}dkupw$","^.{4,8}dkupw$",True,1.0
+2038,"^.{2,5}ldkgnfj$","^.{2,5}ldkgnfj$",True,1.0
+2039,^(?=.*pofp)(?=.*qiubt).*$,^(?=.*pofp)(?=.*qiubt).*$,True,1.0
+2040,^ewprrc.*huekyx.*$,^ewprrc.*huekyx.*$,True,1.0
+2041,^hmpsd.*eieuu.*$,^hmpsd.*eieuu.*$,True,1.0
+2042,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+2043,^[a-zA-Z]{1}$,^[a-zA-Z]{1}$,True,1.0
+2044,.*clz$,.*clz$,True,1.0
+2045,^\d{10}$,^\d{10}$,True,1.0
+2046,^dfi.*,^dfi.*,True,1.0
+2047,"^.{5,13}wpqp$","^.{5,13}wpqp$",True,1.0
+2048,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+2049,^(?=.*ombi)(?=.*gmvwngub).*$,.*ombi.*gmvwngub.*|.*gmvwngub.*ombi.*,False,0.3783783783783784
+2050,"^.{2,10}dmdvpkg$","^.{2,10}dmdvpkg$",True,1.0
+2051,.*tap$,.*tap$,True,1.0
+2052,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+2053,^(?=.*bekr)(?=.*ftyiy).*$,^(?=.*bekr)(?=.*ftyiy).*$,True,1.0
+2054,"^.{5,8}mbgg$","^.{5,8}mbgg$",True,1.0
+2055,"^.{4,12}mcn$","^.{4,12}mcn$",True,1.0
+2056,"^[a-zA-Z0-9]{1,6}$","^[a-zA-Z0-9]{1,6}$",True,1.0
+2057,^ltaf.*,^ltaf.*,True,1.0
+2058,^yxq.*,^yxq.*,True,1.0
+2059,^(?=.*mlg)(?=.*jzrlaakk).*$,^(?=.*mlg)(?=.*jzrlaakk).*$,True,1.0
+2060,"^.{3,4}xymotu$","^.{3,4}xymotu$",True,1.0
+2061,.*ukr$,.*ukr$,True,1.0
+2062,^(?=.*jktzcxf)(?=.*ljpvg).*$,^(?=.*jktzcxf)(?=.*ljpvg).*$,True,1.0
+2063,^(?=.*pvor)(?=.*xxsvidx).*$,^(?=.*pvor)(?=.*xxsvidx).*$,True,1.0
+2064,^(?=.*cjjjpp)(?=.*aos).*$,^(?=.*cjjjpp)(?=.*aos).*$,True,1.0
+2065,.*lxphbk$,.*lxphbk$,True,1.0
+2066,^jmon.*khviig.*$,^jmon.*khviig.*$,True,1.0
+2067,"^.{0,4}avrielw$","^.{0,4}avrielw$",True,1.0
+2068,^jgeesvff.*,^jgeesvff.*,True,1.0
+2069,^(?=.*wapctio)(?=.*xyc).*$,^(?=.*wapctio)(?=.*xyc).*$,True,1.0
+2070,^qwbwyjcq.*sttg.*$,^qwbwyjcq.*sttg.*$,True,1.0
+2071,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+2072,"^.{3,13}hzqz$","^.{3,13}hzqz$",True,1.0
+2073,.*enjkifk$,.*enjkifk$,True,1.0
+2074,^qmuamb.*eus.*$,^qmuamb.*eus.*$,True,1.0
+2075,^(?=.*owtvp)(?=.*lbmnhm).*$,^(?=.*owtvp)(?=.*lbmnhm).*$,True,1.0
+2076,.*lbgp$,.*lbgp$,True,1.0
+2077,.*laylflr$,.*laylflr$,True,1.0
+2078,.*fzw$,.*fzw$,True,1.0
+2079,^(?=.*krnbmeu)(?=.*alblid).*$,^(?=.*krnbmeu)(?=.*alblid).*$,True,1.0
+2080,.*gcauhz$,.*gcauhz$,True,1.0
+2081,"^.{3,5}mjozz$","^.{3,5}mjozz$",True,1.0
+2082,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+2083,"^.{2,7}dxmel$","^.{2,7}dxmel$",True,1.0
+2084,^mmfo.*wvypy.*$,^mmfo.*wvypy.*$,True,1.0
+2085,^(?=.*uiphyirh)(?=.*oanehm).*$,^(?=.*uiphyirh)(?=.*oanehm).*$,True,1.0
+2086,^(?=.*fopz)(?=.*sjz).*$,^(?=.*fopz)(?=.*sjz).*$,True,1.0
+2087,^ipqqik.*kpe.*$,^ipqqik.*kpe.*$,True,1.0
+2088,^(?=.*rpbf)(?=.*vtieslw).*$,^(?=.*rpbf)(?=.*vtieslw).*$,True,1.0
+2089,.*zqhbphou$,.*zqhbphou$,True,1.0
+2090,.*izaoda$,.*izaoda$,True,1.0
+2091,.*pkd$,.*pkd$,True,1.0
+2092,.*atfv$,.*atfv$,True,1.0
+2093,.*zcz$,.*zcz$,True,1.0
+2094,"^.{3,11}eqtir$","^.{3,11}eqtir$",True,1.0
+2095,^uwydbvwq.*,^uwydbvwq.*,True,1.0
+2096,"^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{1,10}[.!?;:'""…]?$","^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{1,10}[.!?;:'""…]?$",True,1.0
+2097,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+2098,"^.{2,4}vluceo$","^.{2,4}vluceo$",True,1.0
+2099,"^.{4,11}zsdhsy$","^.{4,11}zsdhsy$",True,1.0
+2100,.*fklpyatb$,.*fklpyatb$,True,1.0
+2101,.*ruwgpcl$,.*ruwgpcl$,True,1.0
+2102,"^[A-Z]{4,6}$","^[A-Z]{4,6}$",True,1.0
+2103,.*wthvoam$,.*wthvoam$,True,1.0
+2104,^splye.*cprwgcm.*$,^splye.*cprwgcm.*$,True,1.0
+2105,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+2106,"^[a-z]{1,10}$","^[a-z]{1,10}$",True,1.0
+2107,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+2108,^patttky.*,^patttky.*,True,1.0
+2109,^qiuv.*gxl.*$,^qiuv.*gxl.*$,True,1.0
+2110,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+2111,"^.{2,4}huhvcrbl$","^.{2,4}huhvcrbl$",True,1.0
+2112,^lflctcr.*qsrgccta.*$,^lflctcr.*qsrgccta.*$,True,1.0
+2113,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+2114,^(?=.*cphpgxk)(?=.*ptpaduh).*$,^(?=.*cphpgxk)(?=.*ptpaduh).*$,True,1.0
+2115,^cdubn.*,^cdubn.*,True,1.0
+2116,^(?=.*nptp)(?=.*xhdc).*$,^(?=.*nptp)(?=.*xhdc).*$,True,1.0
+2117,^ophxsdm.*,^ophxsdm.*,True,1.0
+2118,^(?=.*ieixiczg)(?=.*zgzeusiu).*$,^(?=.*ieixiczg)(?=.*zgzeusiu).*$,True,1.0
+2119,^(?=.*zwti)(?=.*pifggqb).*$,^(?=.*zwti)(?=.*pifggqb).*$,True,1.0
+2120,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+2121,^uwwcmk.*rkxnlxg.*$,^uwwcmk.*rkxnlxg.*$,True,1.0
+2122,^(?=.*vqowcq)(?=.*wteb).*$,^(?=.*vqowcq)(?=.*wteb).*$,True,1.0
+2123,^iohya.*fdokgmuh.*$,^iohya.*fdokgmuh.*$,True,1.0
+2124,^(?=.*fipuptxe)(?=.*jsmzmlvb).*$,^(?=.*fipuptxe)(?=.*jsmzmlvb).*$,True,1.0
+2125,^(?=.*kkruhdv)(?=.*dynhby).*$,^(?=.*kkruhdv)(?=.*dynhby).*$,True,1.0
+2126,"^.{2,3}liuslzz$","^.{2,3}liuslzz$",True,1.0
+2127,"^.{3,5}esomtrm$","^.{3,5}esomtrm$",True,1.0
+2128,"^.{1,5}ysifohjo$","^.{1,5}ysifohjo$",True,1.0
+2129,.*xya$,.*xya$,True,1.0
+2130,^xnqqtvoy.*uigswm.*$,^xnqqtvoy.*uigswm.*$,True,1.0
+2131,^(?=.*jmpgld)(?=.*prrfb).*$,^(?=.*jmpgld)(?=.*prrfb).*$,True,1.0
+2132,^rqmjcyf.*zub.*$,^rqmjcyf.*zub.*$,True,1.0
+2133,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){0,4}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+2134,^udjkmo.*,^udjkmo.*,True,1.0
+2135,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+2136,.*nvqons$,.*nvqons$,True,1.0
+2137,"^.{3,9}iuzm$","^.{3,9}iuzm$",True,1.0
+2138,"^.{7,11}pqk$","^.{7,11}pqk$",True,1.0
+2139,^kbddmbks.*hoounpr.*$,^kbddmbks.*hoounpr.*$,True,1.0
+2140,^(?=.*nhcze)(?=.*pmimv).*$,^(?=.*nhcze)(?=.*pmimv).*$,True,1.0
+2141,"^[a-zA-Z0-9]{3,7}$","^[a-zA-Z0-9]{3,7}$",True,1.0
+2142,"^.{3,6}zaqbpmk$","^.{3,6}zaqbpmk$",True,1.0
+2143,^axgzr.*,^axgzr.*,True,1.0
+2144,.*pqr$,.*pqr$,True,1.0
+2145,.*qooo$,.*qooo$,True,1.0
+2146,^uzxbj.*gxhf.*$,^uzxbj.*gxhf.*$,True,1.0
+2147,^qoprvhu.*,^qoprvhu.*,True,1.0
+2148,^jtockzq.*lqtnkml.*$,^jtockzq.*lqtnkml.*$,True,1.0
+2149,^isvinn.*vsbmok.*$,^isvinn.*vsbmok.*$,True,1.0
+2150,^(?=.*qsipxkq)(?=.*ynrnifk).*$,^(?=.*qsipxkq)(?=.*ynrnifk).*$,True,1.0
+2151,^oudcq.*udcjulh.*$,^oudcq.*udcjulh.*$,True,1.0
+2152,"^.{5,8}ylfvz$","^.{5,8}ylfvz$",True,1.0
+2153,"^.{2,11}icncmc$","^.{2,11}icncmc$",True,1.0
+2154,^ynpnni.*,^ynpnni.*,True,1.0
+2155,^tibj.*,^tibj.*,True,1.0
+2156,.*azj$,.*azj$,True,1.0
+2157,"^.{5,11}lizrh$","^.{5,11}lizrh$",True,1.0
+2158,"^([a-zA-Z]+[ ,.!?;:'""…]*){3}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){3}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+2159,"^.{3,9}qazcul$","^.{3,9}qazcul$",True,1.0
+2160,"^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{2,6}[.!?;:'""…]?$","^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{2,6}[.!?;:'""…]?$",True,1.0
+2161,.*dnflfadn$,.*dnflfadn$,True,1.0
+2162,^mdq.*isyoczvw.*$,^mdq.*isyoczvw.*$,True,1.0
+2163,.*ysgerjaf$,.*ysgerjaf$,True,1.0
+2164,^hfm.*vvrrcymo.*$,^hfm.*vvrrcymo.*$,True,1.0
+2165,^onzxi.*,^onzxi.*,True,1.0
+2166,.*vyixthna$,.*vyixthna$,True,1.0
+2167,^ujwzxrb.*,^ujwzxrb.*,True,1.0
+2168,.*xgkywg$,.*xgkywg$,True,1.0
+2169,.*bltv$,.*bltv$,True,1.0
+2170,"^.{5,7}mwdf$","^.{5,7}mwdf$",True,1.0
+2171,^(?=.*mxsbs)(?=.*wtglcc).*$,^(?=.*mxsbs)(?=.*wtglcc).*$,True,1.0
+2172,^mmjdddsl.*qdlncs.*$,^mmjdddsl.*qdlncs.*$,True,1.0
+2173,^lvfi.*,^lvfi.*,True,1.0
+2174,^bdxjhz.*ifynjpvm.*$,^bdxjhz.*ifynjpvm.*$,True,1.0
+2175,"^.{0,7}gkvtnmz$","^.{0,7}gkvtnmz$",True,1.0
+2176,^(?=.*hlfw)(?=.*yxskch).*$,^(?=.*hlfw)(?=.*yxskch).*$,True,1.0
+2177,^ovu.*wrxzwzt.*$,^ovu.*wrxzwzt.*$,True,1.0
+2178,^tgrsdyl.*rket.*$,^tgrsdyl.*rket.*$,True,1.0
+2179,^(?=.*veoq)(?=.*lggnvo).*$,^(?=.*veoq)(?=.*lggnvo).*$,True,1.0
+2180,^qzqgi.*thvq.*$,^qzqgi.*thvq.*$,True,1.0
+2181,^rktpma.*,^rktpma.*,True,1.0
+2182,^aheq.*ljn.*$,^aheq.*ljn.*$,True,1.0
+2183,^(?=.*fcalsbpd)(?=.*mnz).*$,^(?=.*fcalsbpd)(?=.*mnz).*$,True,1.0
+2184,"^.{6,10}xkc$","^.{6,10}xkc$",True,1.0
+2185,^seuzg.*,^seuzg.*,True,1.0
+2186,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+2187,"^.{3,9}xtbyy$","^.{3,9}xtbyy$",True,1.0
+2188,^(?=.*otr)(?=.*cjfz).*$,^(?=.*otr)(?=.*cjfz).*$,True,1.0
+2189,.*gqyk$,.*gqyk$,True,1.0
+2190,^qirqbmz.*mbngq.*$,^qirqbmz.*mbngq.*$,True,1.0
+2191,.*qjc$,.*qjc$,True,1.0
+2192,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{2,9}[.!?;:'""…]?$",True,1.0
+2193,^vxqyc.*ycnfzvnd.*$,^vxqyc.*ycnfzvnd.*$,True,1.0
+2194,.*qzq$,.*qzq$,True,1.0
+2195,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{3,7}[.!?;:'""…]?$",False,0.9830508474576272
+2196,.*ceownk$,.*ceownk$,True,1.0
+2197,^lmyxoply.*tus.*$,^lmyxoply.*tus.*$,True,1.0
+2198,^yzaq.*,^yzaq.*,True,1.0
+2199,"^.{7,10}itj$","^.{7,10}itj$",True,1.0
+2200,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+2201,^syjozs.*dfmunt.*$,^syjozs.*dfmunt.*$,True,1.0
+2202,^gavhgr.*,^gavhgr.*,True,1.0
+2203,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+2204,.*opjavsn$,.*opjavsn$,True,1.0
+2205,^hvndmaxg.*aqnkvw.*$,^hvndmaxg.*aqnkvw.*$,True,1.0
+2206,"^.{5,8}yjf$","^.{5,8}yjf$",True,1.0
+2207,"^.{6,13}eqfz$","^.{6,13}eqfz$",True,1.0
+2208,^nzettjun.*pzdpy.*$,^nzettjun.*pzdpy.*$,True,1.0
+2209,"^([a-zA-Z]{3,4}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{3,4}[.!?;:'""…]?$","^([a-zA-Z]{3,4}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{3,4}[.!?;:'""…]?$",True,1.0
+2210,"^.{1,3}fxkqekl$","^.{1,3}fxkqekl$",True,1.0
+2211,"^.{3,11}avxnc$","^.{3,11}avxnc$",True,1.0
+2212,^(?=.*rckvmsti)(?=.*rumk).*$,^(?=.*rckvmsti)(?=.*rumk).*$,True,1.0
+2213,^rwrhkcux.*hrrzh.*$,^rwrhkcux.*hrrzh.*$,True,1.0
+2214,"^.{6,8}nrem$","^.{6,8}nrem$",True,1.0
+2215,.*xgmzwqkd$,.*xgmzwqkd$,True,1.0
+2216,^egdhk.*,^egdhk.*,True,1.0
+2217,^hvegd.*,^hvegd.*,True,1.0
+2218,.*odvbgb$,.*odvbgb$,True,1.0
+2219,^(?=.*zvldjc)(?=.*zgvi).*$,^(?=.*zvldjc)(?=.*zgvi).*$,True,1.0
+2220,^gjxamrz.*,^gjxamrz.*,True,1.0
+2221,^ckbmbk.*vobar.*$,^ckbmbk.*vobar.*$,True,1.0
+2222,^ibtmdw.*,^ibtmdw.*,True,1.0
+2223,^wlalbk.*afmihcq.*$,^wlalbk.*afmihcq.*$,True,1.0
+2224,^metgw.*,^metgw.*,True,1.0
+2225,^olvjfba.*,^olvjfba.*,True,1.0
+2226,^infsykj.*,^infsykj.*,True,1.0
+2227,^(?=.*sncz)(?=.*kyirv).*$,^(?=.*sncz)(?=.*kyirv).*$,True,1.0
+2228,^kagpl.*,^kagpl.*,True,1.0
+2229,^qlvmgegi.*,^qlvmgegi.*,True,1.0
+2230,"^\d{6,}$","^\d{6,}$",True,1.0
+2231,"^\d{1,8}$","^\d{1,8}$",True,1.0
+2232,.*hrbt$,.*hrbt$,True,1.0
+2233,.*sajvfvcf$,.*sajvfvcf$,True,1.0
+2234,^ovginmet.*,^ovginmet.*,True,1.0
+2235,^yhhgloa.*,^yhhgloa.*,True,1.0
+2236,^psgw.*,^psgw.*,True,1.0
+2237,"^[A-Z]{4,8}$","^[A-Z]{4,8}$",True,1.0
+2238,"^.{4,9}apdq$","^.{4,9}apdq$",True,1.0
+2239,"^[A-Z]{2,3}$","^[A-Z]{2,3}$",True,1.0
+2240,"^.{0,5}cbohhto$","^.{0,5}cbohhto$",True,1.0
+2241,^dkmhp.*rngc.*$,^dkmhp.*rngc.*$,True,1.0
+2242,.*eyo$,.*eyo$,True,1.0
+2243,"^\d{1,10}$","^\d{1,10}$",True,1.0
+2244,.*ibqyy$,.*ibqyy$,True,1.0
+2245,^opy.*,^opy.*,True,1.0
+2246,.*eaoqk$,.*eaoqk$,True,1.0
+2247,.*uabbextg$,.*uabbextg$,True,1.0
+2248,"^.{4,5}ihlx$","^.{4,5}ihlx$",True,1.0
+2249,^(?=.*iqspmh)(?=.*gwgiji).*$,^(?=.*iqspmh)(?=.*gwgiji).*$,True,1.0
+2250,.*wmbzctu$,.*wmbzctu$,True,1.0
+2251,^(?=.*kph)(?=.*yiqua).*$,^(?=.*kph)(?=.*yiqua).*$,True,1.0
+2252,"^[a-z]{5,9}$","^[a-z]{5,9}$",True,1.0
+2253,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+2254,.*jtlfkgg$,.*jtlfkgg$,True,1.0
+2255,^fpziguh.*rvsoin.*$,^fpziguh.*rvsoin.*$,True,1.0
+2256,^[a-zA-Z]{7}$,^[a-zA-Z]{7}$,True,1.0
+2257,"^.{2,5}dpnwdrb$","^.{2,5}dpnwdrb$",True,1.0
+2258,^ftmnltzd.*,^ftmnltzd.*,True,1.0
+2259,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+2260,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+2261,^vrm.*,^vrm.*,True,1.0
+2262,^lrfrirxc.*,^lrfrirxc.*,True,1.0
+2263,.*swlcicn$,.*swlcicn$,True,1.0
+2264,"^.{0,9}fkqdxrpe$","^.{0,9}fkqdxrpe$",True,1.0
+2265,^ntfcogfl.*,^ntfcogfl.*,True,1.0
+2266,"^.{7,14}deo$","^.{7,14}deo$",True,1.0
+2267,.*piuujdfj$,.*piuujdfj$,True,1.0
+2268,"^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{1,10}[.!?;:'""…]?$","^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{1,10}[.!?;:'""…]?$",True,1.0
+2269,^utx.*moba.*$,^utx.*moba.*$,True,1.0
+2270,"^([a-zA-Z]+[ ,.!?;:'""…]*){7}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){7}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+2271,.*jdy$,.*jdy$,True,1.0
+2272,"^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,9}[.!?;:'""…]?$","^([a-zA-Z]{1,9}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,9}[.!?;:'""…]?$",True,1.0
+2273,"^.{5,7}olgxp$","^.{5,7}olgxp$",True,1.0
+2274,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+2275,^rdsvhew.*mwaithpw.*$,^rdsvhew.*mwaithpw.*$,True,1.0
+2276,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+2277,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+2278,"^.{6,13}kly$","^.{6,13}kly$",True,1.0
+2279,^(?=.*osdu)(?=.*buwa).*$,^(?=.*osdu)(?=.*buwa).*$,True,1.0
+2280,.*wvow$,.*wvow$,True,1.0
+2281,"^[a-z]{3,7}$","^[a-z]{3,7}$",True,1.0
+2282,^(?=.*ulbe)(?=.*hhdn).*$,^(?=.*ulbe)(?=.*hhdn).*$,True,1.0
+2283,"^.{1,9}pvqzsm$","^.{1,9}pvqzsm$",True,1.0
+2284,.*dgotxo$,.*dgotxo$,True,1.0
+2285,^arbnmki.*,^arbnmki.*,True,1.0
+2286,.*eswjeg$,.*eswjeg$,True,1.0
+2287,.*cbq$,.*cbq$,True,1.0
+2288,^wkj.*lupzku.*$,^wkj.*lupzku.*$,True,1.0
+2289,.*dmbwo$,.*dmbwo$,True,1.0
+2290,^ijnjuybg.*,ijnjuybg.*,True,0.9090909090909091
+2291,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+2292,^ipc.*,^ipc.*,True,1.0
+2293,^[a-zA-Z]{5}$,^[a-zA-Z]{5}$,True,1.0
+2294,.*ngv$,.*ngv$,True,1.0
+2295,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+2296,.*qrug$,.*qrug$,True,1.0
+2297,^(?=.*kujl)(?=.*giawv).*$,^(?=.*kujl)(?=.*giawv).*$,True,1.0
+2298,^ifm.*jwhdh.*$,^ifm.*jwhdh.*$,True,1.0
+2299,^pkfopxpm.*qnvic.*$,^pkfopxpm.*qnvic.*$,True,1.0
+2300,^gpobn.*,^gpobn.*,True,1.0
+2301,^(?=.*fyuf)(?=.*vfmsxled).*$,^(?=.*fyuf)(?=.*vfmsxled).*$,True,1.0
+2302,^doysbib.*,^doysbib.*,True,1.0
+2303,^wkabhtj.*tsxrev.*$,^wkabhtj.*tsxrev.*$,True,1.0
+2304,^btk.*mpkntlkf.*$,^btk.*mpkntlkf.*$,True,1.0
+2305,^uyrg.*euaf.*$,^uyrg.*euaf.*$,True,1.0
+2306,^tucwkbk.*wtvc.*$,^tucwkbk.*wtvc.*$,True,1.0
+2307,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+2308,^wno.*,^wno.*,True,1.0
+2309,^(?=.*iocttltm)(?=.*swawh).*$,^(?=.*iocttltm)(?=.*swawh).*$,True,1.0
+2310,"^.{4,10}wixobr$","^.{4,10}wixobr$",True,1.0
+2311,.*cyhrq$,.*cyhrq$,True,1.0
+2312,^(?=.*vqsn)(?=.*fjf).*$,^(?=.*vqsn)(?=.*fjf).*$,True,1.0
+2313,.*abuicfp$,.*abuicfp$,True,1.0
+2314,"^[a-z]{2,7}$","^[a-z]{2,7}$",True,1.0
+2315,^(?=.*xpycv)(?=.*blu).*$,^(?=.*xpycv)(?=.*blu).*$,True,1.0
+2316,^eamvd.*tny.*$,^eamvd.*tny.*$,True,1.0
+2317,"^.{1,10}dxbdpv$","^.{1,10}dxbdpv$",True,1.0
+2318,^svotcih.*,^svotcih.*,True,1.0
+2319,^qrujnud.*ncunxkk.*$,^qrujnud.*ncu.*nk.*$,False,0.85
+2320,"^.{3,4}forty$","^.{4,5}forty$",False,0.8461538461538461
+2321,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+2322,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+2323,^(?=.*pieudi)(?=.*ruo).*$,^(?=.*pieudi)(?=.*ruo).*$,True,1.0
+2324,^vrys.*gftgv.*$,^vrys.*gftgv.*$,True,1.0
+2325,^cixq.*,^cixq.*,True,1.0
+2326,.*snpvm$,.*snpvm$,True,1.0
+2327,"^.{2,6}nbezljzc$","^.{2,6}nbezljzc$",True,1.0
+2328,^abmfqhym.*vis.*$,^abmfqhym.*vis.*$,True,1.0
+2329,^xmmnqthb.*,^xmmnqthb.*,True,1.0
+2330,"^.{1,2}atuurmc$","^.{1,2}atuurmc$",True,1.0
+2331,^borz.*,^borz.*,True,1.0
+2332,"^.{0,6}yfgvdczd$","^.{0,6}yfgvdczd$",True,1.0
+2333,"^.{6,14}hua$","^.{6,14}hua$",True,1.0
+2334,^sdcxgj.*xdbdxjy.*$,^sdcxgj.*xdbdxjy.*$,True,1.0
+2335,.*ofwfp$,.*ofwfp$,True,1.0
+2336,"^.{0,7}rkwepjcb$","^.{0,7}rkwepjcb$",True,1.0
+2337,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{2,10}[.!?;:'""…]?$",True,1.0
+2338,^gxhfl.*,^gxhfl.*,True,1.0
+2339,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{4,9}[.!?;:'""…]?$",False,0.9830508474576272
+2340,^(?=.*dabqed)(?=.*tjldz).*$,^(?=.*dabqed)(?=.*tjldz).*$,True,1.0
+2341,^(?=.*ayicfnaf)(?=.*stxptf).*$,^(?=.*ayicfnaf)(?=.*stxptf).*$,True,1.0
+2342,^nskoqod.*hah.*$,^nskoqod.*hah.*$,True,1.0
+2343,^(?=.*riytov)(?=.*dqcrfple).*$,^(?=.*riytov)(?=.*dqcrfple).*$,True,1.0
+2344,^auq.*,^auq.*,True,1.0
+2345,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+2346,"^.{5,7}awhi$","^.{5,7}awhi$",True,1.0
+2347,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+2348,^agfosr.*vncgc.*$,^agfosr.*vncgc.*$,True,1.0
+2349,.*gvdxr$,.*gvdxr$,True,1.0
+2350,^zqu.*xrq.*$,^zqu.*xrq.*$,True,1.0
+2351,^grau.*hfyp.*$,^grau.*hfyp.*$,True,1.0
+2352,"^.{3,12}iuwbj$","^.{3,12}iuwbj$",True,1.0
+2353,.*hdvxch$,.*hdvxch$,True,1.0
+2354,^fxo.*,^fxo.*,True,1.0
+2355,"^.{1,5}lubeees$","^.{1,5}lubeees$",True,1.0
+2356,^aosi.*,^aosi.*,True,1.0
+2357,^hwrxfnsw.*,^hwrxfnsw.*,True,1.0
+2358,^(?=.*bwtny)(?=.*mczkvzjq).*$,^(?=.*bwtny)(?=.*mczkvzjq).*$,True,1.0
+2359,^(?=.*vxvnfxzh)(?=.*zyasum).*$,^(?=.*vxvnfxzh)(?=.*zyasum).*$,True,1.0
+2360,.*uspopyk$,.*uspopyk$,True,1.0
+2361,^(?=.*lejyr)(?=.*jakch).*$,^(?=.*lejyr)(?=.*jakch).*$,True,1.0
+2362,^(?=.*nodwizj)(?=.*vqyd).*$,^(?=.*nodwizj)(?=.*vqyd).*$,True,1.0
+2363,"^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{1,5}[.!?;:'""…]?$","^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{1,5}[.!?;:'""…]?$",True,1.0
+2364,^gztksevr.*,^gztksevr.*,True,1.0
+2365,"^.{4,5}qkpg$","^.{4,5}qkpg$",True,1.0
+2366,^(?=.*rca)(?=.*vsjrf).*$,^(?=.*rca)(?=.*vsjrf).*$,True,1.0
+2367,^(?=.*xeuhnp)(?=.*szqaoen).*$,^(?=.*xeuhnp)(?=.*szqaoen).*$,True,1.0
+2368,"^.{2,3}tylabb$","^.{2,3}tylabb$",True,1.0
+2369,^(?=.*xclcs)(?=.*ragcz).*$,^(?=.*xclcs)(?=.*ragcz).*$,True,1.0
+2370,^kpz.*,^kpz.*,True,1.0
+2371,"^.{3,5}qafuvv$","^.{3,5}qafuvv$",True,1.0
+2372,^kin.*,^kin.*,True,1.0
+2373,"^.{3,8}qwluoq$","^.{3,8}qwluoq$",True,1.0
+2374,^kauvzz.*,^kauvzz.*,True,1.0
+2375,^zbq.*fgyo.*$,^zbq.*fgyo.*$,True,1.0
+2376,^rmru.*panbbfg.*$,^rmru.*panbbfg.*$,True,1.0
+2377,.*wptsvobw$,.*wptsvobw$,True,1.0
+2378,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+2379,"^([a-zA-Z]+[ ,.!?;:'""…]*){0}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){0}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+2380,"^.{3,11}fiwx$","^.{3,11}fiwx$",True,1.0
+2381,^\d{3}$,^\d{3}$,True,1.0
+2382,"^.{1,6}dmucrxvr$","^.{1,6}dmucrxvr$",True,1.0
+2383,^gadu.*,^gadu.*,True,1.0
+2384,^(?=.*gfqunve)(?=.*kmnljk).*$,^(?=.*gfqunve)(?=.*kmnljk).*$,True,1.0
+2385,^dtx.*,^dtx.*,True,1.0
+2386,^dhqqv.*,^dhqqv.*,True,1.0
+2387,^(?=.*kslcndg)(?=.*ffs).*$,^(?=.*kslcndg)(?=.*ffs).*$,True,1.0
+2388,"^[a-zA-Z0-9]{5,9}$","^[a-zA-Z0-9]{5,9}$",True,1.0
+2389,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+2390,^(?=.*xvdsb)(?=.*abinpadl).*$,^(?=.*xvdsb)(?=.*abinpadl).*$,True,1.0
+2391,.*giagmzy$,.*giagmzy$,True,1.0
+2392,^ycpfdwhz.*,^ycpfdwhz.*,True,1.0
+2393,^(?=.*ijvd)(?=.*bdqz).*$,^(?=.*ijvd)(?=.*bdqz).*$,True,1.0
+2394,^(?=.*dnn)(?=.*pyrc).*$,^(?=.*dnn)(?=.*pyrc).*$,True,1.0
+2395,^bfkcely.*,^bfkcely.*,True,1.0
+2396,^kfggrymq.*ochzn.*$,^kfggrymq.*ochzn.*$,True,1.0
+2397,.*ooq$,.*ooq$,True,1.0
+2398,"^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{1,10}[.!?;:'""…]?$","^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{1,10}[.!?;:'""…]?$",True,1.0
+2399,^oypuxkh.*sxytv.*$,^oypuxkh.*sxytv.*$,True,1.0
+2400,^(?=.*tjvwtd)(?=.*xigw).*$,^(?=.*tjvwtd)(?=.*xigw).*$,True,1.0
+2401,^(?=.*xyn)(?=.*twmlkmn).*$,^(?=.*xyn)(?=.*twmlkmn).*$,True,1.0
+2402,.*pev$,.*pev$,True,1.0
+2403,"^([a-zA-Z]+[ ,.!?;:'""…]*){4}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){4}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+2404,.*csh$,.*csh$,True,1.0
+2405,^\d{4}$,^\d{4}$,True,1.0
+2406,"^[a-zA-Z0-9]{2,7}$","^[a-zA-Z0-9]{2,7}$",True,1.0
+2407,^(?=.*zca)(?=.*yiwuj).*$,^(?=.*zca)(?=.*yiwuj).*$,True,1.0
+2408,^(?=.*egqczra)(?=.*illozz).*$,^(?=.*egqczra)(?=.*illozz).*$,True,1.0
+2409,^towcp.*ovvkoea.*$,^towcp.*ovvkoea.*$,True,1.0
+2410,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+2411,^reqxbj.*dzwl.*$,^reqxbj.*dzwl.*$,True,1.0
+2412,^sqvldt.*,^sqvldt.*,True,1.0
+2413,"^[a-z]{4,10}$","^[a-z]{4,10}$",True,1.0
+2414,.*jivvl$,.*jivvl$,True,1.0
+2415,^zjmpvik.*rovqen.*$,^zjmpvik.*rovqen.*$,True,1.0
+2416,"^[a-z]{1,6}$","^[a-z]{1,6}$",True,1.0
+2417,^zlkrko.*,^zlkrko.*,True,1.0
+2418,^czf.*,^czf.*,True,1.0
+2419,"^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{3,9}[.!?;:'""…]?$","^([a-zA-Z]{3,9}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{3,9}[.!?;:'""…]?$",True,1.0
+2420,"^[a-zA-Z0-9]{2,3}$","^[a-zA-Z0-9]{2,3}$",True,1.0
+2421,^\d{7}$,^\d{7}$,True,1.0
+2422,^fkhdupvl.*ltdsfmzr.*$,^fkhdupvl.*ltdsfmzr.*$,True,1.0
+2423,"^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{1,10}[.!?;:'""…]?$","^([a-zA-Z]{1,10}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{1,10}[.!?;:'""…]?$",True,1.0
+2424,.*qrmmviiy$,.*qrmmviiy$,True,1.0
+2425,^flw.*,^flw.*,True,1.0
+2426,"^.{4,11}swdj$","^.{4,11}swdj$",True,1.0
+2427,^kjmng.*mfoch.*$,^kjmng.*mfoch.*$,True,1.0
+2428,.*scfle$,.*scfle$,True,1.0
+2429,^tehzxbot.*ekpo.*$,^tehzxbot.*ekpo.*$,True,1.0
+2430,"^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{2,6}[.!?;:'""…]?$","^([a-zA-Z]{2,6}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{2,6}[.!?;:'""…]?$",True,1.0
+2431,"^[a-z]{3,5}$","^[a-z]{3,5}$",True,1.0
+2432,.*zgy$,.*zgy$,True,1.0
+2433,"^.{4,5}oqcexn$","^.{4,5}oqcexn$",True,1.0
+2434,"^.{4,7}znq$","^.{4,7}znq$",True,1.0
+2435,.*rhlfa$,.*rhlfa$,True,1.0
+2436,^(?=.*krwpsnu)(?=.*eexbamxp).*$,^(?=.*krwpsnu)(?=.*eexbamxp).*$,True,1.0
+2437,"^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{1,5}[.!?;:'""…]?$","^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{1,5}[.!?;:'""…]?$",True,1.0
+2438,^mojv.*eofyy.*$,^mojv.*eofyy.*$,True,1.0
+2439,^(?=.*jszwbip)(?=.*tkcicja).*$,^(?=.*jszwbip)(?=.*tkcicja).*$,True,1.0
+2440,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+2441,^rks.*,^rks.*,True,1.0
+2442,"^.{0,10}mhoowap$","^.{0,10}mhoowap$",True,1.0
+2443,^(?=.*woaqsat)(?=.*cgqnmi).*$,^(?=.*woaqsat)(?=.*cgqnmi).*$,True,1.0
+2444,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+2445,"^.{0,2}wggbwukv$","^.{0,2}wggbwukv$",True,1.0
+2446,"^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,8}[.!?;:'""…]?$","^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,8}[.!?;:'""…]?$",True,1.0
+2447,"^.{1,10}aslqtp$","^.{1,10}aslqtp$",True,1.0
+2448,"^[A-Z]{1,4}$","^[A-Z]{1,4}$",True,1.0
+2449,"^.{3,5}pjuezj$","^.{3,5}pjuezj$",True,1.0
+2450,^dgr.*,^dgr.*,True,1.0
+2451,"^[a-zA-Z0-9]{5,10}$","^[a-zA-Z0-9]{5,10}$",True,1.0
+2452,.*efkdkwfu$,.*efkdkwfu$,True,1.0
+2453,"^.{3,11}eruhop$","^.{2,10}eruhop$",False,0.8666666666666667
+2454,"^\d{5,8}$","^\d{5,8}$",True,1.0
+2455,^(?=.*pzvluohy)(?=.*ahngz).*$,^(?=.*pzvluohy)(?=.*ahngz).*$,True,1.0
+2456,^(?=.*rxsxqgkg)(?=.*iabnq).*$,^(?=.*rxsxqgkg)(?=.*iabnq).*$,True,1.0
+2457,"^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,7}[.!?;:'""…]?$","^([a-zA-Z]{1,7}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{1,7}[.!?;:'""…]?$",True,1.0
+2458,^spytere.*hjgs.*$,^spytere.*hjgs.*$,True,1.0
+2459,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+2460,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){1,6}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+2461,^zsmlat.*gasug.*$,^zsmlat.*gasug.*$,True,1.0
+2462,"^[A-Z]{3,9}$","^[A-Z]{3,9}$",True,1.0
+2463,^ohfuo.*,^ohfuo.*,True,1.0
+2464,^(?=.*cbfzm)(?=.*ewg).*$,^(?=.*cbfzm)(?=.*ewg).*$,True,1.0
+2465,^(?=.*ukmuullq)(?=.*gutduucj).*$,^(?=.*ukmuullq)(?=.*gutduucj).*$,True,1.0
+2466,^frvutf.*,^frvutf.*,True,1.0
+2467,^(?=.*xpakhbx)(?=.*mrpzmu).*$,^(?=.*xpakhbx)(?=.*mrpzmu).*$,True,1.0
+2468,^(?=.*aicpfebf)(?=.*tbn).*$,^(?=.*aicpfebf)(?=.*tbn).*$,True,1.0
+2469,^(?=.*ygirmtk)(?=.*hyj).*$,^(?=.*ygirmtk)(?=.*hyj).*$,True,1.0
+2470,^[a-zA-Z]{3}$,^[a-zA-Z]{3}$,True,1.0
+2471,"^.{5,10}jbcmn$","^.{5,10}jbcmn$",True,1.0
+2472,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+2473,.*mxm$,.*mxm$,True,1.0
+2474,^zfbwzm.*,^zfbwzm.*,True,1.0
+2475,^spgam.*,^spgam.*,True,1.0
+2476,"^.{0,7}rmjmfdm$","^.{0,7}rmjmfdm$",True,1.0
+2477,^ardlqka.*hqviave.*$,^ardlqka.*hqviave.*$,True,1.0
+2478,^(?=.*ogwfdtee)(?=.*chqeo).*$,^(?=.*ogwfdtee)(?=.*chqeo).*$,True,1.0
+2479,.*ilj$,.*ilj$,True,1.0
+2480,^kfkigvy.*,^kfkigvy.*,True,1.0
+2481,"^.{0,6}jhgnrjps$","^.{0,6}jhgnrjps$",True,1.0
+2482,.*gear$,.*gear$,True,1.0
+2483,"^.{3,10}mbynk$","^.{3,10}mbynk$",True,1.0
+2484,"^[a-zA-Z0-9]{3,10}$","^[a-zA-Z0-9]{3,10}$",True,1.0
+2485,^chk.*,^chk.*,True,1.0
+2486,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+2487,.*fawe$,.*fawe$,True,1.0
+2488,^pkyqijq.*,^pkyqijq.*,True,1.0
+2489,^(?=.*gzzszqvd)(?=.*nluirz).*$,^(?=.*gzzszqvd)(?=.*nluirz).*$,True,1.0
+2490,^yaem.*dlggkth.*$,^yaem.*dlggkth.*$,True,1.0
+2491,^(?=.*ehovhp)(?=.*zbalex).*$,^(?=.*ehovhp)(?=.*zbalex).*$,True,1.0
+2492,"^.{1,6}xbprvua$","^.{1,6}xbprvua$",True,1.0
+2493,.*lkcfvapa$,.*lkcfvapa$,True,1.0
+2494,.*lxfwgtc$,.*lxfwgtc$,True,1.0
+2495,"^.{2,8}jamny$","^.{2,8}jamny$",True,1.0
+2496,.*jwktrjv$,.*jwktrjv$,True,1.0
+2497,^goykkc.*vmerr.*$,^goykkc.*vmerr.*$,True,1.0
+2498,"^.{1,11}uuinsx$","^.{0,10}uuinsx$",False,0.8666666666666667
+2499,.*tua$,.*tua$,True,1.0
+2500,^dhtv.*wee.*$,^dhtv.*wee.*$,True,1.0
+2501,"^.{3,4}vkkvb$","^.{3,4}vkkvb$",True,1.0
+2502,"^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{5,6}[.!?;:'""…]?$","^([a-zA-Z]{5,6}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{5,6}[.!?;:'""…]?$",True,1.0
+2503,^lgszpuu.*,^lgszpuu.*,True,1.0
+2504,^cjwi.*dtawsxqv.*$,^cjwi.*dtawsxqv.*$,True,1.0
+2505,^edicql.*,^edicql.*,True,1.0
+2506,"^.{1,7}gaycmjpj$","^.{1,7}gaycmjpj$",True,1.0
+2507,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+2508,.*ukawown$,.*ukawown$,True,1.0
+2509,^yrgpvavo.*jumkuadh.*$,^yrgpvavo.*jumkuadh.*$,True,1.0
+2510,"^[a-z]{1,7}$","^[a-z]{1,7}$",True,1.0
+2511,^fjw.*vmc.*$,^fjw.*vmc.*$,True,1.0
+2512,"^.{2,12}tkgwj$","^.{2,12}tkgwj$",True,1.0
+2513,^zfmqbt.*pkn.*$,^zfmqbt.*pkn.*$,True,1.0
+2514,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+2515,"^\d{1,3}$","^\d{1,3}$",True,1.0
+2516,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+2517,^[^\d]*$,^[^\d]*$,True,1.0
+2518,.*aebiekp$,.*aebiekp$,True,1.0
+2519,.*qiahm$,.*qiahm$,True,1.0
+2520,^zfrqol.*mzppbwx.*$,^zfrqol.*mzppbwx.*$,True,1.0
+2521,^fkge.*,^fkge.*,True,1.0
+2522,^(?=.*oimdh)(?=.*glhtpq).*$,^(?=.*oimdh)(?=.*glhtpq).*$,True,1.0
+2523,.*vddveqgw$,.*vddveqgw$,True,1.0
+2524,^cfkkz.*,^cfkkz.*,True,1.0
+2525,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){4,7}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+2526,"^.{0,1}qnymlznh$","^.{0,1}qnymlznh$",True,1.0
+2527,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){1,9}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+2528,^(?=.*nazgh)(?=.*isyw).*$,^(?=.*nazgh)(?=.*isyw).*$,True,1.0
+2529,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+2530,^kbukalv.*pdqpn.*$,^kbukalv.*pdqpn.*$,True,1.0
+2531,^(?=.*pvnpl)(?=.*wqiyfvy).*$,^(?=.*pvnpl)(?=.*wqiyfvy).*$,True,1.0
+2532,"^.{4,6}ccjyam$","^.{4,6}ccjyam$",True,1.0
+2533,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+2534,^sxmz.*ubijik.*$,^sxmz.*ubijik.*$,True,1.0
+2535,^fbpgobkf.*rwbzm.*$,^fbpgobkf.*rwbzm.*$,True,1.0
+2536,"^[A-Z]{1,8}$","^[A-Z]{1,8}$",True,1.0
+2537,^qirk.*wfio.*$,^qirk.*wfio.*$,True,1.0
+2538,^(?=.*lzykgabs)(?=.*cputxnyi).*$,^(?=.*lzykgabs)(?=.*cputxnyi).*$,True,1.0
+2539,^(?=.*tnh)(?=.*cxijpt).*$,^(?=.*tnh)(?=.*cxijpt).*$,True,1.0
+2540,.*zqdbnpri$,.*zqdbnpri$,True,1.0
+2541,.*zgxqx$,.*zgxqx$,True,1.0
+2542,.*bjvkzsm$,.*bjvkzsm$,True,1.0
+2543,^gamj.*zrzjx.*$,^gamj.*zrzjx.*$,True,1.0
+2544,^funz.*mpq.*$,^funz.*mpq.*$,True,1.0
+2545,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+2546,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+2547,"^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{1,3}[.!?;:'""…]?$","^([a-zA-Z]{1,3}[ ,.!?;:'""…]*){2,7}[a-zA-Z]{1,3}[.!?;:'""…]?$",True,1.0
+2548,"^[a-z]{4,8}$","^[a-z]{4,8}$",True,1.0
+2549,"^\d{2,}$","^\d{2,}$",True,1.0
+2550,^(?=.*hgpix)(?=.*fmzegt).*$,^(?=.*hgpix)(?=.*fmzegt).*$,True,1.0
+2551,"^.{4,6}vru$","^.{4,6}vru$",True,1.0
+2552,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+2553,"^[a-zA-Z0-9]{1,4}$","^[a-zA-Z0-9]{1,4}$",True,1.0
+2554,.*cvamb$,.*cvamb$,True,1.0
+2555,^tcxupq.*rpztoi.*$,^tcxupq.*rpztoi.*$,True,1.0
+2556,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+2557,"^[a-zA-Z0-9]{2,4}$","^[a-zA-Z0-9]{2,4}$",True,1.0
+2558,"^.{3,7}njhd$","^.{3,7}njhd$",True,1.0
+2559,^ldz.*,^ldz.*,True,1.0
+2560,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+2561,^orpweed.*gjghwf.*$,^orpweed.*gjghwf.*$,True,1.0
+2562,.*cdbdmtz$,.*cdbdmtz$,True,1.0
+2563,"^.{4,11}ixsgr$","^.{4,11}ixsgr$",True,1.0
+2564,"^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{1,5}[.!?;:'""…]?$","^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{1,5}[.!?;:'""…]?$",True,1.0
+2565,^ufe.*trpp.*$,^ufe.*trpp.*$,True,1.0
+2566,^(?=.*awxempw)(?=.*aqygrt).*$,^(?=.*awxempw)(?=.*aqygrt).*$,True,1.0
+2567,"^[a-z]{1,4}$","^[a-z]{1,4}$",True,1.0
+2568,.*mpwruq$,.*mpwruq$,True,1.0
+2569,^(?=.*anfogpm)(?=.*pthckq).*$,^(?=.*anfogpm)(?=.*pthckq).*$,True,1.0
+2570,^phuo.*sedep.*$,^phuo.*sedep.*$,True,1.0
+2571,"^.{3,10}almkpud$","^.{3,10}almkpud$",True,1.0
+2572,^(?=.*uxma)(?=.*acubqurk).*$,^(?=.*uxma)(?=.*acubqurk).*$,True,1.0
+2573,.*dup$,.*dup$,True,1.0
+2574,"^.{3,7}qeekgbc$","^.{3,7}qeekgbc$",True,1.0
+2575,^(?=.*ppvqjar)(?=.*adxk).*$,^(?=.*ppvqjar)(?=.*adxk).*$,True,1.0
+2576,"^.{3,5}xsewhq$","^.{3,5}xsewhq$",True,1.0
+2577,^jdcm.*dcz.*$,^jdcm.*dcz.*$,True,1.0
+2578,.*oig$,.*oig$,True,1.0
+2579,^(?=.*dglssxh)(?=.*bcfae).*$,^(?=.*dglssxh)(?=.*bcfae).*$,True,1.0
+2580,^llbc.*lqnnii.*$,^llbc.*lqnnii.*$,True,1.0
+2581,.*xevcc$,.*xevcc$,True,1.0
+2582,"^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{2,9}[.!?;:'""…]?$","^([a-zA-Z]{2,9}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{2,9}[.!?;:'""…]?$",False,0.9830508474576272
+2583,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+2584,.*axmdlsd$,.*axmdlsd$,True,1.0
+2585,"^[A-Z]{1,5}$","^[A-Z]{1,5}$",True,1.0
+2586,"^.{3,10}fzvirgy$","^.{3,10}fzvirgy$",True,1.0
+2587,^xycvh.*buw.*$,^xycvh.*buw.*$,True,1.0
+2588,"^.{6,12}dma$","^.{6,12}dma$",True,1.0
+2589,.*fxp$,.*fxp$,True,1.0
+2590,^ahzck.*tbrha.*$,^ahzck.*tbrha.*$,True,1.0
+2591,^odtfynk.*xqrwlol.*$,^odtfynk.*xqrwlol.*$,True,1.0
+2592,^zynrpz.*ezac.*$,^zynrpz.*ezac.*$,True,1.0
+2593,"^.{6,10}neu$","^.{6,10}neu$",True,1.0
+2594,^asgnkhm.*,^asgnkhm.*,True,1.0
+2595,"^.{3,8}apsieqz$","^.{3,8}apsieqz$",True,1.0
+2596,"^.{3,11}cpwok$","^.{3,11}cpwok$",True,1.0
+2597,^(?=.*lcmbu)(?=.*ectnwqao).*$,^(?=.*lcmbu)(?=.*ectnwqao).*$,True,1.0
+2598,^(?=.*tdikd)(?=.*xht).*$,^(?=.*tdikd)(?=.*xht).*$,True,1.0
+2599,^yihrurnh.*,^yihrurnh.*,True,1.0
+2600,"^.{1,10}jpntett$","^.{1,10}jpntett$",True,1.0
+2601,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+2602,.*ztjv$,.*ztjv$,True,1.0
+2603,^xmt.*,^xmt.*,True,1.0
+2604,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+2605,^(?=.*ztwpn)(?=.*nmdjk).*$,^(?=.*ztwpn)(?=.*nmdjk).*$,True,1.0
+2606,"^.{3,5}xasmus$","^.{4,6}xasmus$",False,0.8571428571428572
+2607,"^\d{5,}$","^\d{5,}$",True,1.0
+2608,^mjpqmofo.*qnbxhef.*$,^mjpqmofo.*qnbxhef.*$,True,1.0
+2609,^mqorzs.*fxilgoi.*$,^mqorzs.*fxilgoi.*$,True,1.0
+2610,.*ddse$,.*ddse$,True,1.0
+2611,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){0,3}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+2612,^crht.*,^crht.*,True,1.0
+2613,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){2,5}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+2614,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+2615,.*zzg$,.*zzg$,True,1.0
+2616,^(?=.*elwng)(?=.*qkhq).*$,^(?=.*elwng)(?=.*qkhq).*$,True,1.0
+2617,^(?=.*rsqueuz)(?=.*bksiks).*$,^(?=.*rsqueuz)(?=.*bksiks).*$,True,1.0
+2618,.*unlqd$,.*unlqd$,True,1.0
+2619,^qqsjma.*,qqsjma.*,True,0.8888888888888888
+2620,^pghgmaa.*,^pghgmaa.*,True,1.0
+2621,^(?=.*hyo)(?=.*wxjasgyd).*$,^(?=.*hyo)(?=.*wxjasgyd).*$,True,1.0
+2622,^uxxkbk.*,^uxxkbk.*,True,1.0
+2623,^(?=.*ufgy)(?=.*izgr).*$,^(?=.*ufgy)(?=.*izgr).*$,True,1.0
+2624,"^.{0,7}epvcztrm$","^.{0,7}epvcztrm$",True,1.0
+2625,"^.{1,10}nqnnhou$","^.{1,10}nqnnhou$",True,1.0
+2626,^nacajuw.*,^nacajuw.*,True,1.0
+2627,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+2628,^lfbwq.*lbtlxe.*$,^lfbwq.*lbtlxe.*$,True,1.0
+2629,^oswjj.*mmj.*$,^oswjj.*mmj.*$,True,1.0
+2630,"^.{3,12}vyuk$","^.{3,12}vyuk$",True,1.0
+2631,.*oqdun$,.*oqdun$,True,1.0
+2632,^say.*,^say.*,True,1.0
+2633,^(?=.*ahnm)(?=.*qocy).*$,^(?=.*ahnm)(?=.*qocy).*$,True,1.0
+2634,^(?=.*vxpln)(?=.*xjfo).*$,^(?=.*vxpln)(?=.*xjfo).*$,True,1.0
+2635,.*iaepn$,.*iaepn$,True,1.0
+2636,"^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{2,8}[.!?;:'""…]?$","^([a-zA-Z]{2,8}[ ,.!?;:'""…]*){4,9}[a-zA-Z]{2,8}[.!?;:'""…]?$",True,1.0
+2637,"^.{3,6}gweph$","^.{3,6}gweph$",True,1.0
+2638,"^\d{1,7}$","^\d{1,7}$",True,1.0
+2639,^rjzed.*,^rjzed.*,True,1.0
+2640,^cofrsnw.*gvvcqems.*$,^cofrsnw.*gvvcqems.*$,True,1.0
+2641,^vyctmv.*,^vyctmv.*,True,1.0
+2642,^egwuq.*ygmlqxbw.*$,^egwuq.*ygmlqxbw.*$,True,1.0
+2643,^xwnf.*kktqyc.*$,^xwnf.*kktqyc.*$,True,1.0
+2644,^(?=.*humjdgr)(?=.*zblmrdc).*$,^(?=.*humjdgr)(?=.*zblmrdc).*$,True,1.0
+2645,"^[a-zA-Z0-9]{1,5}$","^[a-zA-Z0-9]{1,5}$",True,1.0
+2646,^akjoxpyz.*,^akjoxpyz.*,True,1.0
+2647,"^.{2,3}yhsvato$","^.{2,3}yhsvato$",True,1.0
+2648,^yzlbs.*jnqw.*$,^yzlbs.*jnqw.*$,True,1.0
+2649,.*znby$,.*znby$,True,1.0
+2650,.*byofr$,.*byofr$,True,1.0
+2651,^(?=.*pnqxubns)(?=.*igwv).*$,^(?=.*pnqxubns)(?=.*igwv).*$,True,1.0
+2652,^ylc.*agjyvs.*$,^ylc.*agjyvs.*$,True,1.0
+2653,"^.{5,10}knw$","^.{5,10}knw$",True,1.0
+2654,"^.{7,12}fwc$","^.{7,12}fwc$",True,1.0
+2655,^echxxy.*,^echxxy.*,True,1.0
+2656,^(?=.*mqcwftki)(?=.*uyej).*$,^(?=.*mqcwftki)(?=.*uyej).*$,True,1.0
+2657,.*uhn$,.*uhn$,True,1.0
+2658,^(?=.*jilsj)(?=.*rdsdi).*$,^(?=.*jilsj)(?=.*rdsdi).*$,True,1.0
+2659,"^.{2,4}dauryozh$","^.{2,4}dauryozh$",True,1.0
+2660,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){0,8}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+2661,^rtyuhhmy.*hpxegey.*$,^rtyuhhmy.*hpxegey.*$,True,1.0
+2662,"^.{6,9}rbb$","^.{6,9}rbb$",True,1.0
+2663,.*jtsmvkni$,.*jtsmvkni$,True,1.0
+2664,"^.{4,10}nmaykb$","^.{4,10}nmaykb$",True,1.0
+2665,.*bmdwfhm$,.*bmdwfhm$,True,1.0
+2666,"^.{4,11}vfnwxy$","^.{4,11}vfnwxy$",True,1.0
+2667,"^.{1,5}jkmbsw$","^.{1,5}jkmbsw$",True,1.0
+2668,.*dbnxppwg$,.*dbnxppwg$,True,1.0
+2669,"^[a-z]{4,9}$","^[a-z]{4,9}$",True,1.0
+2670,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){0,1}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+2671,"^.{1,5}hqoadat$","^.{1,5}hqoadat$",True,1.0
+2672,^(?=.*xfe)(?=.*pjacxzi).*$,^(?=.*xfe)(?=.*pjacxzi).*$,True,1.0
+2673,.*luzbu$,.*luzbu$,True,1.0
+2674,^lgzldbv.*,^lgzldbv.*,True,1.0
+2675,^(?=.*zabw)(?=.*gmt).*$,^(?=.*zabw)(?=.*gmt).*$,True,1.0
+2676,^azn.*,^azn.*,True,1.0
+2677,^(?=.*qbwpwlj)(?=.*qqevmjur).*$,^(?=.*qbwpwlj)(?=.*qqevmjur).*$,True,1.0
+2678,.*vrmklqmq$,.*vrmklqmq$,True,1.0
+2679,^jhywhi.*wwlkq.*$,^jhywhi.*wwlkq.*$,True,1.0
+2680,^(?=.*aaj)(?=.*kuctqwto).*$,^(?=.*aaj)(?=.*kuctqwto).*$,True,1.0
+2681,^(?=.*jbwfjxra)(?=.*xwbshxu).*$,^(?=.*jbwfjxra)(?=.*xwbshxu).*$,True,1.0
+2682,"^.{1,2}oeynll$","^.{1,2}oeynll$",True,1.0
+2683,^\d+\.\d+$,^\d+\.\d+$,True,1.0
+2684,"^.{5,11}fwo$","^.{5,11}fwo$",True,1.0
+2685,.*wwepc$,.*wwepc$,True,1.0
+2686,"^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{2,5}[.!?;:'""…]?$","^([a-zA-Z]{2,5}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{2,5}[.!?;:'""…]?$",True,1.0
+2687,"^\d{4,6}$","^\d{4,6}$",True,1.0
+2688,.*idguky$,.*idguky$,True,1.0
+2689,^sflioaig.*,^sflioaig.*,True,1.0
+2690,^bfyre.*rhc.*$,^bfyre.*rhc.*$,True,1.0
+2691,^(?=.*cslalqic)(?=.*utw).*$,^(?=.*cslalqic)(?=.*utw).*$,True,1.0
+2692,^hvf.*xvelxz.*$,^hvf.*xvelxz.*$,True,1.0
+2693,^dpsvgjag.*stoqtgyq.*$,^dpsvgjag.*stoqtgyq.*$,True,1.0
+2694,^lcvtpv.*,^lcvtpv.*,True,1.0
+2695,^(?=.*nnw)(?=.*pcyh).*$,^(?=.*nnw)(?=.*pcyh).*$,True,1.0
+2696,.*bbolx$,.*bbolx$,True,1.0
+2697,^(?=.*nknzfyug)(?=.*vfqglmm).*$,^(?=.*nknzfyug)(?=.*vfqglmm).*$,True,1.0
+2698,.*qjrhe$,.*qjrhe$,True,1.0
+2699,^(?=.*fhnxgqg)(?=.*czomd).*$,^(?=.*fhnxgqg)(?=.*czomd).*$,True,1.0
+2700,"^.{3,10}znrdfo$","^.{3,10}znrdfo$",True,1.0
+2701,"^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{4,10}[.!?;:'""…]?$","^([a-zA-Z]{4,10}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{4,10}[.!?;:'""…]?$",True,1.0
+2702,"^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{1,5}[.!?;:'""…]?$","^([a-zA-Z]{1,5}[ ,.!?;:'""…]*){0,6}[a-zA-Z]{1,5}[.!?;:'""…]?$",True,1.0
+2703,^(?=.*srjmyh)(?=.*sxh).*$,^(?=.*srjmyh)(?=.*sxh).*$,True,1.0
+2704,.*pcuuu$,.*pcuuu$,True,1.0
+2705,"^.{2,8}jrgsq$","^.{2,8}jrgsq$",True,1.0
+2706,.*sxsigd$,.*sxsigd$,True,1.0
+2707,"^.{1,11}eakrof$","^.{1,11}eakrof$",True,1.0
+2708,^(?=.*kczpwd)(?=.*rqse).*$,^(?=.*kczpwd)(?=.*rqse).*$,True,1.0
+2709,^nwgn.*jyiut.*$,^nwgn.*jyiut.*$,True,1.0
+2710,^mrleansa.*sgagjnhz.*$,^mrleansa.*sgagjnhz.*$,True,1.0
+2711,"^.{5,11}swcn$","^.{5,11}swcn$",True,1.0
+2712,"^.{5,8}odny$","^.{5,8}odny$",True,1.0
+2713,^lptzjg.*,^lptzjg.*,True,1.0
+2714,^(?=.*qneuh)(?=.*gaiqud).*$,^(?=.*qneuh)(?=.*gaiqud).*$,True,1.0
+2715,.*qpnztx$,.*qpnztx$,True,1.0
+2716,^nov.*,^nov.*,True,1.0
+2717,^(?=.*resa)(?=.*vva).*$,^(?=.*resa)(?=.*vva).*$,True,1.0
+2718,"^.{6,10}tem$","^.{6,10}tem$",True,1.0
+2719,^cfuwv.*jrs.*$,^cfuwv.*jrs.*$,True,1.0
+2720,.*wdzrf$,.*wdzrf$,True,1.0
+2721,"^\d{3,8}$","^\d{3,8}$",True,1.0
+2722,"^.{2,6}xwwhbl$","^.{2,6}xwwhbl$",True,1.0
+2723,.*oes$,.*oes$,True,1.0
+2724,^(?=.*neyez)(?=.*oveqd).*$,.*neyez.*oveqd.*|.*oveqd.*neyez.*,False,0.33333333333333337
+2725,^nouen.*ogl.*$,^nouen.*ogl.*$,True,1.0
+2726,^(?=.*bur)(?=.*djm).*$,^(?=.*bur)(?=.*djm).*$,True,1.0
+2727,^aahcazs.*,^aahcazs.*,True,1.0
+2728,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){4,5}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+2729,.*mfkejaw$,.*mfkejaw$,True,1.0
+2730,"^.{7,14}cym$","^.{7,14}cym$",True,1.0
+2731,"^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{2,3}[.!?;:'""…]?$","^([a-zA-Z]{2,3}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{2,3}[.!?;:'""…]?$",True,1.0
+2732,"^.{2,5}nqgfm$","^.{2,5}nqgfm$",True,1.0
+2733,"^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,4}[.!?;:'""…]?$","^([a-zA-Z]{1,4}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{1,4}[.!?;:'""…]?$",True,1.0
+2734,"^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{5,10}[.!?;:'""…]?$","^([a-zA-Z]{5,10}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{5,10}[.!?;:'""…]?$",True,1.0
+2735,^(?=.*lkn)(?=.*mvqeoxbf).*$,^(?=.*lkn)(?=.*mvqeoxbf).*$,True,1.0
+2736,^(?=.*ukrktpmo)(?=.*ccginkyf).*$,^(?=.*ukrktpmo)(?=.*ccginkyf).*$,True,1.0
+2737,"^.{1,11}byaorp$","^.{2,12}byaorp$",False,0.8666666666666667
+2738,.*osrhudpb$,.*osrhudpb$,True,1.0
+2739,.*houtfxtl$,.*houtfxtl$,True,1.0
+2740,^mnks.*keclsjld.*$,^mnks.*keclsjld.*$,True,1.0
+2741,.*pcu$,.*pcu$,True,1.0
+2742,^ftvyn.*,^ftvyn.*,True,1.0
+2743,^qysgsqhb.*khdo.*$,^qysgsqhb.*khdo.*$,True,1.0
+2744,^qayackm.*,^qayackm.*,True,1.0
+2745,^uem.*,^uem.*,True,1.0
+2746,^(?=.*pedrjan)(?=.*xigydoo).*$,^(?=.*pedrjan)(?=.*xigydoo).*$,True,1.0
+2747,^(?=.*rdondj)(?=.*xlkqdx).*$,^(?=.*rdondj)(?=.*xlkqdx).*$,True,1.0
+2748,^jkey.*,^jkey.*,True,1.0
+2749,"^.{1,6}byipruj$","^.{1,6}byipruj$",True,1.0
+2750,^izxaptdk.*,^izxaptdk.*,True,1.0
+2751,^avduma.*umsdkl.*$,^avduma.*umsdkl.*$,True,1.0
+2752,"^[A-Z]{5,6}$","^[A-Z]{5,6}$",True,1.0
+2753,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+2754,.*gpsjaxo$,.*gpsjaxo$,True,1.0
+2755,^(?=.*hdd)(?=.*ffskbrj).*$,^(?=.*hdd)(?=.*ffskbrj).*$,True,1.0
+2756,^(?=.*xjquw)(?=.*xyg).*$,^(?=.*xjquw)(?=.*xyg).*$,True,1.0
+2757,^jfigkr.*,^jfigkr.*,True,1.0
+2758,^nlq.*,^nlq.*,True,1.0
+2759,.*gpxjpxd$,.*gpxjpxd$,True,1.0
+2760,"^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{1,6}[.!?;:'""…]?$","^([a-zA-Z]{1,6}[ ,.!?;:'""…]*){3,8}[a-zA-Z]{1,6}[.!?;:'""…]?$",True,1.0
+2761,.*ahl$,.*ahl$,True,1.0
+2762,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+2763,"^.{0,1}fvuhvhkr$","^.{0,1}fvuhvhkr$",True,1.0
+2764,"^.{1,4}kgxyid$","^.{1,4}kgxyid$",True,1.0
+2765,"^\d{2,5}$","^\d{2,5}$",True,1.0
+2766,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+2767,^cluqhxy.*zvy.*$,^cluqhxy.*zvy.*$,True,1.0
+2768,^fbdvad.*owkkmqgg.*$,^fbdvad.*owkkmqgg.*$,True,1.0
+2769,^buugcos.*,^buugcos.*,True,1.0
+2770,^(?=.*hivcjnqp)(?=.*nyhi).*$,^(?=.*hivcjnqp)(?=.*nyhi).*$,True,1.0
+2771,.*rnkqyu$,.*rnkqyu$,True,1.0
+2772,.*fxnmu$,.*fxnmu$,True,1.0
+2773,"^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,6}[.!?;:'""…]?$","^([a-zA-Z]{4,6}[ ,.!?;:'""…]*){2,8}[a-zA-Z]{4,6}[.!?;:'""…]?$",True,1.0
+2774,^(?=.*amzftukk)(?=.*oim).*$,^(?=.*amzftukk)(?=.*oim).*$,True,1.0
+2775,.*eavfpdpt$,.*eavfpdpt$,True,1.0
+2776,.*aazhnipw$,.*aazhnipw$,True,1.0
+2777,^rdg.*lurcqoi.*$,^rdg.*lurcqoi.*$,True,1.0
+2778,^(?=.*nxwsu)(?=.*ggqhr).*$,^(?=.*nxwsu)(?=.*ggqhr).*$,True,1.0
+2779,^(?=.*ewwgmp)(?=.*gjms).*$,^(?=.*ewwgmp)(?=.*gjms).*$,True,1.0
+2780,^unqqs.*,^unqqs.*,True,1.0
+2781,^qasv.*,^qasv.*,True,1.0
+2782,^(?=.*kxqjmidh)(?=.*dhsur).*$,^(?=.*kxqjmidh)(?=.*dhsur).*$,True,1.0
+2783,^lrfrecom.*hleltn.*$,^lrfrecom.*hleltn.*$,True,1.0
+2784,"^.{4,6}pqvu$","^.{4,6}pqvu$",True,1.0
+2785,^tamzv.*,^tamzv.*,True,1.0
+2786,^kiszxcia.*yda.*$,^kiszxcia.*yda.*$,True,1.0
+2787,"^[a-zA-Z0-9]{3,6}$","^[a-zA-Z0-9]{3,6}$",True,1.0
+2788,.*efm$,.*efm$,True,1.0
+2789,"^.{0,7}uenfnbq$","^.{0,7}uenfnbq$",True,1.0
+2790,"^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){0,2}[a-zA-Z]{2,10}[.!?;:'""…]?$","^([a-zA-Z]{2,10}[ ,.!?;:'""…]*){1,2}[a-zA-Z]{2,10}[.!?;:'""…]?$",False,0.9836065573770492
+2791,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){3,4}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+2792,"^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{2,7}[.!?;:'""…]?$","^([a-zA-Z]{2,7}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{2,7}[.!?;:'""…]?$",True,1.0
+2793,"^.{0,0}eqozahet$","^.{0,1}eqozahet$",False,0.9375
+2794,^iqisu.*,^iqisu.*,True,1.0
+2795,"^[a-zA-Z0-9]{1,10}$","^[a-zA-Z0-9]{1,10}$",True,1.0
+2796,.*mgjwjsf$,.*mgjwjsf$,True,1.0
+2797,.*xdyi$,.*xdyi$,True,1.0
+2798,^kymmqr.*mluey.*$,^kymmqr.*mluey.*$,True,1.0
+2799,"^.{3,6}dohv$","^.{3,6}dohv$",True,1.0
+2800,^kfphu.*rmglxv.*$,^kfphu.*rmglxv.*$,True,1.0
+2801,^(?=.*tpsqvayy)(?=.*ivx).*$,^(?=.*tpsqvayy)(?=.*ivx).*$,True,1.0
+2802,^vgwlqwhm.*wab.*$,^vgwlqwhm.*wab.*$,True,1.0
+2803,"^.{0,2}ljxtyxna$","^.{0,2}ljxtyxna$",True,1.0
+2804,^uunnwlqc.*glztst.*$,^uunnwlqc.*glztst.*$,True,1.0
+2805,.*alk$,.*alk$,True,1.0
+2806,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){1,5}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+2807,^(?=.*wclakedn)(?=.*lvmpatl).*$,^(?=.*wclakedn)(?=.*lvmpatl).*$,True,1.0
+2808,.*hsi$,.*hsi$,True,1.0
+2809,^bvzqvwbx.*,^bvzqvwbx.*,True,1.0
+2810,^(?=.*kquat)(?=.*qyafzvuh).*$,^(?=.*kquat)(?=.*qyafzvuh).*$,True,1.0
+2811,^qhhzt.*jbew.*$,^qhhzt.*jbew.*$,True,1.0
+2812,^(?=.*hduzfoow)(?=.*omzyoexr).*$,^(?=.*hduzfoow)(?=.*omzyoexr).*$,True,1.0
+2813,"^.{4,6}wftue$","^.{4,6}wftue$",True,1.0
+2814,^(?=.*jmmau)(?=.*acmrp).*$,^(?=.*jmmau)(?=.*acmrp).*$,True,1.0
+2815,^uxmrze.*syal.*$,^uxmrze.*syal.*$,True,1.0
+2816,"^.{5,9}zsua$","^.{5,9}zsua$",True,1.0
+2817,^nnzozacn.*,^nnzozacn.*,True,1.0
+2818,^hfztxs.*,^hfztxs.*,True,1.0
+2819,.*fnt$,.*fnt$,True,1.0
+2820,"^.{1,6}wckjor$","^.{1,6}wckjor$",True,1.0
+2821,.*ghcbtwc$,.*ghcbtwc$,True,1.0
+2822,^njree.*spsp.*$,^njree.*spsp.*$,True,1.0
+2823,^gpnfpok.*trbmzmdz.*$,^gpnfpok.*trbmzmdz.*$,True,1.0
+2824,.*pzv$,.*pzv$,True,1.0
+2825,^oxjpgk.*,^oxjpgk.*,True,1.0
+2826,^(?=.*bayv)(?=.*aeyrwr).*$,^(?=.*bayv)(?=.*aeyrwr).*$,True,1.0
+2827,"^.{4,12}tsifv$","^.{4,12}tsifv$",True,1.0
+2828,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){2,6}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+2829,"^.{5,12}ivhtd$","^.{5,12}ivhtd$",True,1.0
+2830,"^\d{1,10}$","^\d{1,10}$",True,1.0
+2831,^(?=.*xsjyas)(?=.*sdvw).*$,^(?=.*xsjyas)(?=.*sdvw).*$,True,1.0
+2832,.*qlpukxj$,.*qlpukxj$,True,1.0
+2833,"^.{2,10}bvxlvl$","^.{2,10}bvxlvl$",True,1.0
+2834,^ogtjj.*axerymzt.*$,^ogtjj.*axerymzt.*$,True,1.0
+2835,^nvi.*,^nvi.*,True,1.0
+2836,^obplur.*fsoxlp.*$,^obplur.*fsoxlp.*$,True,1.0
+2837,"^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{1,8}[.!?;:'""…]?$","^([a-zA-Z]{1,8}[ ,.!?;:'""…]*){1,4}[a-zA-Z]{1,8}[.!?;:'""…]?$",True,1.0
+2838,^(?=.*qwduvh)(?=.*nyk).*$,^(?=.*qwduvh)(?=.*nyk).*$,True,1.0
+2839,^rfznbli.*,^rfznbli.*,True,1.0
+2840,^(?=.*npbtl)(?=.*lashkceg).*$,^(?=.*npbtl)(?=.*lashkceg).*$,True,1.0
+2841,.*jikh$,.*jikh$,True,1.0
+2842,^(?=.*rgvlkp)(?=.*dyosy).*$,^(?=.*rgvlkp)(?=.*dyosy).*$,True,1.0
+2843,^zlwa.*,^zlwa.*,True,1.0
+2844,.*[a-zA-Z]$,.*[a-zA-Z]$,True,1.0
+2845,.*clhfig$,.*clhfig$,True,1.0
+2846,^vkp.*utcm.*$,^vkp.*utcm.*$,True,1.0
+2847,^(?=.*fuhkgbq)(?=.*eutcw).*$,^(?=.*fuhkgbq)(?=.*eutcw).*$,True,1.0
+2848,^mizs.*ddutt.*$,^mizs.*ddutt.*$,True,1.0
+2849,"^.{2,4}demgxypv$","^.{2,4}demgxypv$",True,1.0
+2850,^(?=.*lnqlsu)(?=.*kqponwzz).*$,^(?=.*lnqlsu)(?=.*kqponwzz).*$,True,1.0
+2851,^xdqwmnol.*,^xdqwmnol.*,True,1.0
+2852,"^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{3,5}[.!?;:'""…]?$","^([a-zA-Z]{3,5}[ ,.!?;:'""…]*){3,5}[a-zA-Z]{3,5}[.!?;:'""…]?$",True,1.0
+2853,^nnq.*qitkje.*$,^nnq.*qitkje.*$,True,1.0
+2854,^(?=.*ztbrv)(?=.*tda).*$,^(?=.*ztbrv)(?=.*tda).*$,True,1.0
+2855,^nczzxup.*,^nczzxup.*,True,1.0
+2856,^(?=.*wghq)(?=.*bstmra).*$,^(?=.*wghq)(?=.*bstmra).*$,True,1.0
+2857,^(?=.*cadgxwg)(?=.*sywuz).*$,^(?=.*cadgxwg)(?=.*sywuz).*$,True,1.0
+2858,.*zkfys$,.*zkfys$,True,1.0
+2859,"^.{4,10}lww$","^.{4,10}lww$",True,1.0
+2860,^blq.*vmjia.*$,^blq.*vmjia.*$,True,1.0
+2861,"^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{3,8}[.!?;:'""…]?$","^([a-zA-Z]{3,8}[ ,.!?;:'""…]*){4,6}[a-zA-Z]{3,8}[.!?;:'""…]?$",True,1.0
+2862,^(?=.*djoqfs)(?=.*wmoy).*$,^(?=.*djoqfs)(?=.*wmoy).*$,True,1.0
+2863,^mqccweia.*,^mqccweia.*,True,1.0
+2864,^(?=.*tux)(?=.*jdkeej).*$,^(?=.*tux)(?=.*jdkeej).*$,True,1.0
+2865,^(?=.*kralfyh)(?=.*uer).*$,^(?=.*kralfyh)(?=.*uer).*$,True,1.0
+2866,"^.{5,10}hkzx$","^.{5,10}hkzx$",True,1.0
+2867,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){2,9}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+2868,"^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,5}[.!?;:'""…]?$","^([a-zA-Z]{4,5}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{4,5}[.!?;:'""…]?$",True,1.0
+2869,.*yrekuzh$,.*yrekuzh$,True,1.0
+2870,^(?=.*lvesmdg)(?=.*djlbuszh).*$,^(?=.*lvesmdg)(?=.*djlbuszh).*$,True,1.0
+2871,^jxg.*qltru.*$,^jxg.*qltru.*$,True,1.0
+2872,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){1,7}[a-zA-Z]{5,7}[.!?;:'""…]?$",True,1.0
+2873,^dlzblm.*ivkpmqwi.*$,^dlzblm.*ivkpmqwi.*$,True,1.0
+2874,^dhpj.*lanbtx.*$,^dhpj.*lanbtx.*$,True,1.0
+2875,"^.{4,11}xdtc$","^.{4,11}xdtc$",True,1.0
+2876,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){1,8}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+2877,^hojudvdr.*,^hojudvdr.*,True,1.0
+2878,^(?=.*yoldrq)(?=.*oxx).*$,^(?=.*yoldrq)(?=.*oxx).*$,True,1.0
+2879,.*rrhfj$,.*rrhfj$,True,1.0
+2880,^cndx.*,^cndx.*,True,1.0
+2881,"^.{3,4}viyto$","^.{3,4}viyto$",True,1.0
+2882,"^.{3,9}fbawlpq$","^.{3,9}fbawlpq$",True,1.0
+2883,.*dhb$,.*dhb$,True,1.0
+2884,.*ktt$,.*ktt$,True,1.0
+2885,.*ctgnc$,.*ctgnc$,True,1.0
+2886,^(?=.*jaba)(?=.*mwrn).*$,^(?=.*jaba)(?=.*mwrn).*$,True,1.0
+2887,"^.{1,4}kcxyyeag$","^.{1,4}kcxyyeag$",True,1.0
+2888,.*lrjqqxv$,.*lrjqqxv$,True,1.0
+2889,"^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{5,7}[.!?;:'""…]?$","^([a-zA-Z]{5,7}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{5,7}[.!?;:'""…]?$",False,0.9830508474576272
+2890,"^[a-z]{1,2}$","^[a-z]{1,2}$",True,1.0
+2891,"^.{5,12}dgy$","^.{5,12}dgy$",True,1.0
+2892,.*wycv$,.*wycv$,True,1.0
+2893,"^([a-zA-Z]+[ ,.!?;:'""…]*){8}[a-zA-Z]+[.!?;:'""…]?$","^([a-zA-Z]+[ ,.!?;:'""…]*){8}[a-zA-Z]+[.!?;:'""…]?$",True,1.0
+2894,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+2895,^xcnmi.*rwgs.*$,^xcnmi.*rwgs.*$,True,1.0
+2896,.*ndzrhfu$,.*ndzrhfu$,True,1.0
+2897,^biakwxj.*,^biakwxj.*,True,1.0
+2898,^jzu.*,^jzu.*,True,1.0
+2899,^drfmaad.*,^drfmaad.*,True,1.0
+2900,^mvgzn.*,^mvgzn.*,True,1.0
+2901,"^.{2,10}abqywo$","^.{2,10}abqywo$",True,1.0
+2902,"^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{3,6}[.!?;:'""…]?$","^([a-zA-Z]{3,6}[ ,.!?;:'""…]*){3,6}[a-zA-Z]{3,6}[.!?;:'""…]?$",True,1.0
+2903,"^.{3,10}hqmyli$","^.{3,10}hqmyli$",True,1.0
+2904,.*jlbhtqtc$,.*jlbhtqtc$,True,1.0
+2905,^(?=.*gkrnmyoq)(?=.*yvqgsvjn).*$,^(?=.*gkrnmyoq)(?=.*yvqgsvjn).*$,True,1.0
+2906,^kiqaedgu.*jew.*$,^kiqaedgu.*jew.*$,True,1.0
+2907,^quxkpq.*rmpfmh.*$,^quxkpq.*rmpfmh.*$,True,1.0
+2908,^rjtt.*yufvxi.*$,^rjtt.*yufvxi.*$,True,1.0
+2909,^hvb.*,^hvb.*,True,1.0
+2910,"^.{4,11}zvg$","^.{4,11}zvg$",True,1.0
+2911,^(?=.*bswvgwhb)(?=.*the).*$,^(?=.*bswvgwhb)(?=.*the).*$,True,1.0
+2912,.*pty$,.*pty$,True,1.0
+2913,^wesb.*auli.*$,^wesb.*auli.*$,True,1.0
+2914,^(?=.*ngsas)(?=.*uveiofs).*$,^(?=.*ngsas)(?=.*uveiofs).*$,True,1.0
+2915,^mpldprca.*,^mpldprca.*,True,1.0
+2916,.*gzgdzqf$,.*gzgdzqf$,True,1.0
+2917,^(?=.*eogvofmo)(?=.*rhx).*$,^(?=.*eogvofmo)(?=.*rhx).*$,True,1.0
+2918,"^.{1,5}ctnzwzal$","^.{1,5}ctnzwzal$",True,1.0
+2919,^(?=.*ppand)(?=.*ajmyob).*$,^(?=.*ppand)(?=.*ajmyob).*$,True,1.0
+2920,^edoz.*,^edoz.*,True,1.0
+2921,"^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{4,7}[.!?;:'""…]?$","^([a-zA-Z]{4,7}[ ,.!?;:'""…]*){1,3}[a-zA-Z]{4,7}[.!?;:'""…]?$",True,1.0
+2922,^tzdg.*kiyvy.*$,^tzdg.*kiyvy.*$,True,1.0
+2923,^cfcbjcak.*,^cfcbjcak.*,True,1.0
+2924,.*khfqhugs$,.*khfqhugs$,True,1.0
+2925,.*mcbb$,.*mcbb$,True,1.0
+2926,"^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{5,9}[.!?;:'""…]?$","^([a-zA-Z]{5,9}[ ,.!?;:'""…]*){0,5}[a-zA-Z]{5,9}[.!?;:'""…]?$",True,1.0
+2927,"^[a-zA-Z0-9]{1,9}$","^[a-zA-Z0-9]{1,9}$",True,1.0
+2928,^wskb.*,^wskb.*,True,1.0
+2929,"^[a-zA-Z0-9]{5,8}$","^[a-zA-Z0-9]{5,8}$",True,1.0
+2930,.*eek$,.*eek$,True,1.0
+2931,^kzpuwlj.*,^kzpuwlj.*,True,1.0
+2932,^(?=.*kbj)(?=.*ryge).*$,^(?=.*kbj)(?=.*ryge).*$,True,1.0
+2933,^uvymjns.*pbkhih.*$,^uvymjns.*pbkhih.*$,True,1.0
+2934,"^.{6,10}uasc$","^.{6,10}uasc$",True,1.0
+2935,^tbpwwn.*,^tbpwwn.*,True,1.0
+2936,.*mkpw$,.*mkpw$,True,1.0
+2937,^(?=.*etnibxl)(?=.*gtfteequ).*$,^(?=.*etnibxl)(?=.*gtfteequ).*$,True,1.0
+2938,^gfgbji.*xxgxxlpp.*$,^gfgbji.*xxgxxlpp.*$,True,1.0
+2939,^tnxbu.*,^tnxbu.*,True,1.0
+2940,^xfp.*swlkqtmh.*$,^xfp.*swlkqtmh.*$,True,1.0
+2941,^maytxnkp.*uloomil.*$,^maytxnkp.*uloomil.*$,True,1.0
+2942,^(?=.*qfuhorkt)(?=.*ajibobo).*$,^(?=.*qfuhorkt)(?=.*ajibobo).*$,True,1.0
+2943,.*xgiusr$,.*xgiusr$,True,1.0
+2944,^kyjj.*,^kyjj.*,True,1.0
+2945,.*vpdbawmy$,.*vpdbawmy$,True,1.0
+2946,^(?=.*blccu)(?=.*aywdz).*$,^(?=.*blccu)(?=.*aywdz).*$,True,1.0
+2947,"^\d{1,9}$","^\d{1,9}$",True,1.0
+2948,"^.{2,9}dgccmahp$","^.{2,9}dgccmahp$",True,1.0
+2949,^nwzpuxa.*rnkuuhhu.*$,^nwzpuxa.*rnkuuhhu.*$,True,1.0
+2950,.*cyqp$,.*cyqp$,True,1.0
+2951,^daurwzt.*rkjuyvw.*$,^daurwzt.*rkjuyvw.*$,True,1.0
+2952,^(?=.*pdlyxur)(?=.*ponqzg).*$,^(?=.*pdlyxur)(?=.*ponqzg).*$,True,1.0
+2953,"^.{2,8}tnxbwamx$","^.{2,8}tnxbwamx$",True,1.0
+2954,^gsgn.*,^gsgn.*,True,1.0
+2955,^(?=.*jji)(?=.*uim).*$,^(?=.*jji)(?=.*uim).*$,True,1.0
+2956,"^\d{1,4}$","^\d{1,4}$",True,1.0
+2957,"^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{3,7}[.!?;:'""…]?$","^([a-zA-Z]{3,7}[ ,.!?;:'""…]*){3,7}[a-zA-Z]{3,7}[.!?;:'""…]?$",True,1.0
+2958,"^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{5,8}[.!?;:'""…]?$","^([a-zA-Z]{5,8}[ ,.!?;:'""…]*){2,4}[a-zA-Z]{5,8}[.!?;:'""…]?$",True,1.0
+2959,^ihkmttpl.*rsx.*$,^ihkmttpl.*rsx.*$,True,1.0
+2960,"^\d{4,9}$","^\d{4,9}$",True,1.0
+2961,"^.{0,10}bxnaagx$","^.{0,10}bxnaagx$",True,1.0
+2962,^itxmuk.*,^itxmuk.*,True,1.0
+2963,.*juh$,.*juh$,True,1.0
+2964,"^.{4,8}qewmuq$","^.{4,8}qewmuq$",True,1.0
+2965,"^.{3,5}odvmmj$","^.{3,5}odvmmj$",True,1.0
+2966,"^.{4,10}bnmbku$","^.{4,10}bnmbku$",True,1.0
+2967,^(?=.*dmdd)(?=.*gnmrnxni).*$,^(?=.*dmdd)(?=.*gnmrnxni).*$,True,1.0
+2968,^ljuji.*,^ljuji.*,True,1.0
+2969,^(?=.*vvlzs)(?=.*zyf).*$,^(?=.*vvlzs)(?=.*zyf).*$,True,1.0
+2970,^fvjis.*xjr.*$,^fvjis.*xjr.*$,True,1.0
+2971,^qcinmkhf.*fsuiud.*$,^qcinmkhf.*fsuiud.*$,True,1.0
+2972,^sxct.*fwrpll.*$,^sxct.*fwrpll.*$,True,1.0
+2973,^(?=.*ddk)(?=.*imhbvr).*$,^(?=.*ddk)(?=.*imhbvr).*$,True,1.0
+2974,^(?=.*spjj)(?=.*kkvuq).*$,^(?=.*spjj)(?=.*kkvuq).*$,True,1.0
+2975,"^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{1,2}[.!?;:'""…]?$","^([a-zA-Z]{1,2}[ ,.!?;:'""…]*){4,8}[a-zA-Z]{1,2}[.!?;:'""…]?$",True,1.0
+2976,"^.{0,5}bqufkzu$","^.{0,5}bqufkzu$",True,1.0
+2977,^jahcubyt.*,^jahcubyt.*,True,1.0
+2978,"^.{1,10}nacwgya$","^.{1,10}nacwgya$",True,1.0
+2979,.*nod$,.*nod$,True,1.0
+2980,"^.{4,12}ued$","^.{4,12}ued$",True,1.0
+2981,^vmnl.*lqplyksd.*$,^vmnl.*lqplyksd.*$,True,1.0
+2982,"^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{4,9}[.!?;:'""…]?$","^([a-zA-Z]{4,9}[ ,.!?;:'""…]*){2,3}[a-zA-Z]{4,9}[.!?;:'""…]?$",True,1.0
+2983,"^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{2,4}[.!?;:'""…]?$","^([a-zA-Z]{2,4}[ ,.!?;:'""…]*){3,9}[a-zA-Z]{2,4}[.!?;:'""…]?$",True,1.0
+2984,^hnte.*jdyktbn.*$,^hnte.*jdyktbn.*$,True,1.0
+2985,^otgqr.*,^otgqr.*,True,1.0
+2986,"^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{4,8}[.!?;:'""…]?$","^([a-zA-Z]{4,8}[ ,.!?;:'""…]*){0,9}[a-zA-Z]{4,8}[.!?;:'""…]?$",True,1.0
+2987,"^.{5,9}vphpn$","^.{5,9}vphpn$",True,1.0
+2988,^(?=.*guqntp)(?=.*cwukv).*$,^(?=.*guqntp)(?=.*cwukv).*$,True,1.0
+2989,.*mpopmwcg$,.*mpopmwcg$,True,1.0
+2990,.*xsh$,.*xsh$,True,1.0
+2991,^lcovynd.*,^lcovynd.*,True,1.0
+2992,^ajaxoins.*ydhipgn.*$,^ajaxoins.*ydhipgn.*$,True,1.0
+2993,^vujek.*,^vujek.*,True,1.0
+2994,^(?=.*xsbnpobr)(?=.*odxty).*$,^(?=.*xsbnpobr)(?=.*odxty).*$,True,1.0
+2995,"^.{4,9}xbz$","^.{4,9}xbz$",True,1.0
+2996,^(?=.*djrxxcs)(?=.*alid).*$,^(?=.*djrxxcs)(?=.*alid).*$,True,1.0
+2997,^choxg.*iqwtwieq.*$,^choxg.*iqwtwieq.*$,True,1.0
+2998,"^\d{4,10}$","^\d{4,10}$",True,1.0
+2999,^(?=.*khrbsnzm)(?=.*jcjkvzkc).*$,^(?=.*khrbsnzm)(?=.*jcjkvzkc).*$,True,1.0
+3000,"^.{6,10}rmj$","^.{6,10}rmj$",True,1.0
